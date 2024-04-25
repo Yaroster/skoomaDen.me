@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skoomaden.me/sitemap-index.xml
