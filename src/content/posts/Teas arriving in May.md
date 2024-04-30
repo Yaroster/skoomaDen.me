@@ -87,7 +87,7 @@ Different of the teas produced in Georgia, Russian blends are the ones that have
 
 While I'm not the biggest fan of citrus, this one caught my eye because of the history behind it, let's see if Palais des Thés knows their stuff !
 
-~[](https://www.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/4/9/494-36151-6xhlrbsvse.jpg)
+![](https://www.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/4/9/494-36151-6xhlrbsvse.jpg)
 
 ## I can't wait !
 

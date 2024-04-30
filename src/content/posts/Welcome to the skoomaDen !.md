@@ -17,4 +17,4 @@ The den is always open to whomever wishes, so don't hesitate to come in and say 
 
 See you soon !
 
-- yaro
+ *- yaro*
