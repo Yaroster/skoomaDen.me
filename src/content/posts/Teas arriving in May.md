@@ -9,10 +9,6 @@
 
 Here are some of the teas that are arriving in May !
 
-![](https://white2tea.com/cdn/shop/products/2020-Nightlife-Yueguangbai-Tea_2000x.jpg?v=1589623332)
-
-![](https://white2tea.com/cdn/shop/products/2020-Nightlife-Yueguangbai-Tea-2_2000x.jpg?v=1589623332)
-
 ## 2020 Nightlife Yueguangbai Tea from white2tea
 
 From white2tea:
@@ -22,6 +18,10 @@ From white2tea:
 The tea has a heavy, creamy mouth feel with an airy sweetness and aroma. An enduring white tea with distinct character."
 
 I can't wait to try this one out, I ordered it about 10 days ago, so it should be arriving soon ! (I hope).
+
+![](https://white2tea.com/cdn/shop/products/2020-Nightlife-Yueguangbai-Tea_2000x.jpg?v=1589623332)
+
+![](https://white2tea.com/cdn/shop/products/2020-Nightlife-Yueguangbai-Tea-2_2000x.jpg?v=1589623332)
 
 ## March 2024 Tea Club from white2tea:
 
