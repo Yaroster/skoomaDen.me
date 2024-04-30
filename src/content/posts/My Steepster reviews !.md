@@ -12,4 +12,5 @@ I have been writing reviews on [Steepster](https://steepster.com/Yaroster) for a
 I hope you will enjoy reading them as much as I enjoyed writing them !
 
 Cheers !
-Yaroster
+
+- yaro
