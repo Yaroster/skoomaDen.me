@@ -9,7 +9,7 @@
 
 Here are some of the teas that are arriving in May !
 
-## 2020 Nightlife Yueguangbai Tea from white2tea
+## 2020 Nightlife from white2tea
 
 From white2tea:
 
