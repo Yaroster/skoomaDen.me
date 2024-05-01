@@ -67,6 +67,9 @@ Crazy how good this tea got after it lost all its flavor, right ?
 
 ### Fifth Infusion (50s, 75°C)
 
+Less flavor, hot water with a hint of nothing and some floral notes.
+Honestly, it keeps getting better as it loses its flavor, I really don't know how to feel about that, but what remains of the acidity reminds me of the reason why I don't like this tea.
+
 ## Overall Impression 
 
 Bear in mind that this is not my first time trying a flavored tea from Palais Des Thés, nor is it my first time being disappointed by one.
