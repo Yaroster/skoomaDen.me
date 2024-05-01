@@ -30,7 +30,7 @@ As I continued steeping, the floral notes became more pronounced, with the jasmi
 
 Despite the bitterness in the second steep, I found the blend to be quite enjoyable overall. The complexity of flavors, particularly in the second steep, was remarkable and not something encountered in most teas. While the unconventional brewing method may have contributed to the bitterness, I believe that proper gongfu style brewing could yield better results.
 
-My recommendation: Recommended for its complexity and pleasant flavors, especially when brewed with care.
+### My recommendation: Recommended for its complexity and pleasant flavors, especially when brewed with care.
 
 ## Rating:
 # 70/100

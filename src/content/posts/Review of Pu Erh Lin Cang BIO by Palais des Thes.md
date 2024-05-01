@@ -32,7 +32,7 @@ The tea has a strong earthy flavor and a viscous texture, which are typical char
 
 Flavors: Earthy, Viscous
 
-My recommendation: Recommended for those who enjoy bold, earthy flavors in their tea.
+### My recommendation: Recommended for those who enjoy bold, earthy flavors in their tea.
 
 ## Rating:
 # 60/100

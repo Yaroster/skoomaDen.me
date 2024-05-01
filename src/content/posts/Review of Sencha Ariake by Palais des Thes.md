@@ -54,7 +54,7 @@ Alright, although it may seem as if I hated this tea, this is truly one of the m
 
 Flavors: Cucumber, Fresh, Herbal, Vegetables
 
-My recommendation: An intriguing tea worth trying for its surprising flavors, particularly in the first steep.
+### My recommendation: An intriguing tea worth trying for its surprising flavors, particularly in the first steep.
 
 ## Rating:
 # 75/100
