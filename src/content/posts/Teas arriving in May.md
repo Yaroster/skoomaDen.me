@@ -34,7 +34,7 @@ From white2tea:
 
 Both the white tea and black tea have been sun dried and should age well together. However, we are only two years deep on this experiment; though the results are promising, how it will age in the long term is anybody's guess."
 
-This tea is a (popular one)[https://steepster.com/teas/white2tea/86793-2018-hot-brandy] on Steepster, can't wait to see how good it really is !
+This tea is a [popular one](https://steepster.com/teas/white2tea/86793-2018-hot-brandy) on Steepster, can't wait to see how good it really is !
 
 ## March 2024 Tea Club from white2tea:
 
