@@ -72,4 +72,4 @@ I would feel it to be unfair to judge it badly, my apprehensions disappeared aft
 #### My recommendation: This is a correct white tea, unremarkable, needs more definition, very light and fair.
 
 ## Rating:
-# 55/100
+# 45/100
