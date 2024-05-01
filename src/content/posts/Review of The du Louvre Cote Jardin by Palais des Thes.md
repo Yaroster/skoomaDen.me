@@ -84,7 +84,7 @@ To be fair, it's not the worst tea I've had from there, far from it, i'd even go
 
 I couldn't be happier I was recommended this tea, as it was a great opportunity finally find the words to describe why I don't like Palais Des Thés' flavored teas.
 
-### My recommendation: stay away from this tea, and from Palais Des Thés' flavored teas in general.
+#### My recommendation: stay away from this tea, and from Palais Des Thés' flavored teas in general.
 
 ## Rating:
 # 50/100

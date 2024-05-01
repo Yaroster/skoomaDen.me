@@ -38,7 +38,7 @@ I am sad because I deeply wanted to love this tea, but for Palais des Thés teas
 
 Flavors: Dates, Rose
 
-### My recommendation: Not recommended due to its lack of balance and underwhelming flavor profile.
+#### My recommendation: Not recommended due to its lack of balance and underwhelming flavor profile.
 
 ## Rating:
 # 33/100

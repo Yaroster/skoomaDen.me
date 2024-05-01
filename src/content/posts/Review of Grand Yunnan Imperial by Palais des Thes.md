@@ -42,7 +42,7 @@ With the fourth infusion, the bitterness became more pronounced, but no signific
 
 In conclusion, Grand Yunnan Impérial proved to be a non-exceptional yet pleasant black tea. It exhibited slightly less bitterness than expected, making it suitable for casual consumption.
 
-### My recommendation: Would recommend for casual consumption.
+#### My recommendation: Would recommend for casual consumption.
 
 I give it:
 # 67/100

@@ -38,7 +38,7 @@ Given the price of about 10 Euros online for 150g, this tea offers an exceptiona
 
 Flavors: Clear, Round, Delicate
 
-### My recommendation: Highly recommended for its unique character and excellent value.
+#### My recommendation: Highly recommended for its unique character and excellent value.
 
 ## Rating:
 # 90/100
