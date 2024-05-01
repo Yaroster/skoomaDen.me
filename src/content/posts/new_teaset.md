@@ -78,3 +78,5 @@ It looks and feels quite nice, definitely the most high-quality teaware out of a
 Oh well, that was all for today!
 
 See you guys! :0
+
+ *- yaro*

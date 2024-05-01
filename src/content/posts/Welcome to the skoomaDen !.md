@@ -16,3 +16,5 @@ I hope you'll enjoy your stay here, and that you'll find something that will mak
 The den is always open to whomever wishes, so don't hesitate to come in and say hi !
 
 See you soon !
+
+ *- yaro*
