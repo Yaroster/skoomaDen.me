@@ -34,5 +34,5 @@ Flavors: Earthy, Viscous
 
 My recommendation: Recommended for those who enjoy bold, earthy flavors in their tea.
 
-I give it:
+## Rating:
 # 60/100

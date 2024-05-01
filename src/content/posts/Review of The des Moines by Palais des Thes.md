@@ -32,5 +32,5 @@ Despite the bitterness in the second steep, I found the blend to be quite enjoya
 
 My recommendation: Recommended for its complexity and pleasant flavors, especially when brewed with care.
 
-I give it:
+## Rating:
 # 70/100

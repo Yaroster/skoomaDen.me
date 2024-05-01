@@ -40,5 +40,5 @@ Flavors: Clear, Round, Delicate
 
 My recommendation: Highly recommended for its unique character and excellent value.
 
-I give it:
+## Rating:
 # 90/100

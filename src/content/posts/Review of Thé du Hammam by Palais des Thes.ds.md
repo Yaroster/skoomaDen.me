@@ -40,5 +40,5 @@ Flavors: Dates, Rose
 
 My recommendation: Not recommended due to its lack of balance and underwhelming flavor profile.
 
-I give it:
+## Rating:
 # 33/100

@@ -44,5 +44,5 @@ In conclusion, Grand Yunnan Impérial proved to be a non-exceptional yet pleasan
 
 My recommendation: Would recommend for casual consumption.
 
-I give it:
+## Rating:
 # 67/100

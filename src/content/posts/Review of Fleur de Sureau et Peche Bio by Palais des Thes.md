@@ -35,5 +35,5 @@ Flavors: Clear, Elderflower, Peach
 
 My recommendation: Highly recommended for its perfect balance of flavors and refreshing taste.
 
-I give it:
+## Rating:
 # 85/100

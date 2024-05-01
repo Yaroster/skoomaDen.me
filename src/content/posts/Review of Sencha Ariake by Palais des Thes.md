@@ -56,5 +56,5 @@ Flavors: Cucumber, Fresh, Herbal, Vegetables
 
 My recommendation: An intriguing tea worth trying for its surprising flavors, particularly in the first steep.
 
-I give it:
+## Rating:
 # 75/100
