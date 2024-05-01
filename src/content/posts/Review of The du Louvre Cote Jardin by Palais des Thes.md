@@ -27,9 +27,8 @@ Now let's see how Palais Des Thés describes this tea:
 
 *From Palais des Thés:*
 
-_“The fruit of a collaboration between the Louvre Museum and Palais des Thés, the thés du Louvre are fragrant new blends which pay homage to the two faces of the Louvre: the monumental aspect of the palace with its elegant architecture and the poetic charm of the Tuileries Garden.
-
-The Thé du Louvre - Garden Tea is reminiscent of a gentle stroll through the Tuileries Garden, between colourful flowerbeds and shady copses. A gourmet green tea with notes of apple, plum and quince.”_
+_"The fruit of a collaboration between the Louvre Museum and Palais des Thés, the thés du Louvre are fragrant new blends which pay homage to the two faces of the Louvre: the monumental aspect of the palace with its elegant architecture and the poetic charm of the Tuileries Garden._
+_The Thé du Louvre - Garden Tea is reminiscent of a gentle stroll through the Tuileries Garden, between colourful flowerbeds and shady copses. A gourmet green tea with notes of apple, plum and quince."_
 
 ### First Infusion (20s, 75°C)
 
