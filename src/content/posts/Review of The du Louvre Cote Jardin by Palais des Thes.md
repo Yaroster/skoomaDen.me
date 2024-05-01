@@ -80,7 +80,7 @@ Their pure teas are excellent, although their Bai Mu Dan and Grand Jasmin Mao Fe
 However, their flavored teas are a different story: Teas that smell like a dream, but taste is like the perfume. They're uninteresting, and more often than not, downright disgusting.
 
 I was really hoping that this tea would be different, but it was not.
-To be fair, it's not the worst tea I've had from there, far from it, i'd even go as far as to say *it's not a bad tea*, it's just _a_ tea.
+To be fair, it's not the worst tea I've had from there, far from it, i'd even go as far as to say *it's not a bad tea*, it's just _a_ tea, like an adventure that is only memorable after it’s ended, it’s only good when the session is closing to an end ; it’s too bad really.
 
 I couldn't be happier I was recommended this tea, as it was a great opportunity finally find the words to describe why I don't like Palais Des Thés' flavored teas.
 
