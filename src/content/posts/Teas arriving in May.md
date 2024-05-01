@@ -23,6 +23,19 @@ I can't wait to try this one out, I ordered it about 10 days ago, so it should b
 
 ![](https://white2tea.com/cdn/shop/products/2020-Nightlife-Yueguangbai-Tea-2_2000x.jpg?v=1589623332)
 
+## 2018 Hot Brandy from white2tea
+
+From white2tea:
+
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+"A blend of both white and black tea experiment gone horribly right, this is the latest incarnation of oursold out 2016 Hot Brandy. The soup is thick, smooth, and fragrant. It fairs well with both gongfu style and western style brewing. The tea has excellent endurance and can steep for a very long time and can even withstand being simmered or boiled without becoming acrid.
+
+Both the white tea and black tea have been sun dried and should age well together. However, we are only two years deep on this experiment; though the results are promising, how it will age in the long term is anybody's guess."
+
+This tea is a (popular one)[https://steepster.com/teas/white2tea/86793-2018-hot-brandy] on Steepster, can't wait to see how good it really is !
+
 ## March 2024 Tea Club from white2tea:
 
 I got myself a subscription to the white2tea tea club, they were kind enough to send me the March 2024 tea club with it, because after reading its description online, I just couldn't resist to get it !

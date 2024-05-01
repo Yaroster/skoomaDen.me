@@ -87,4 +87,4 @@ I couldn't be happier I was recommended this tea, as it was a great opportunity 
 #### My recommendation: stay away from this tea, and from Palais Des Thés' flavored teas in general.
 
 ## Rating:
-# 50/100
+# 49/100
