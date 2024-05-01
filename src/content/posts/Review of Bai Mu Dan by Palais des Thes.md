@@ -5,7 +5,7 @@ categories: ['Tea Review', 'Palais des Thés']
 description: "Review of Bai Mu Dan by Palais des Thés"
 ---
 
-# Review of Thé du Louvre Cote Jardin by Palais des Thés
+# Review of Bai Mu Dan by Palais des Thés
 
 ![img_4.png](img_4.png)
 
