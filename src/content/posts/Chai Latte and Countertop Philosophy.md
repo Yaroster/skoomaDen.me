@@ -57,12 +57,12 @@ Did you guys ever play the game Coffee Talk ?
 It's a game where you play as a barista, and you listen to people's stories, their struggles, their successes.
 It's a game about empathy, about understanding, about listening.
 
-Its developper, an Indonesian guy named Mohammad Fahmi, said that he wanted to make a game that would make people feel good, that would make people feel like they're not alone in this world.
+Its developer, an Indonesian guy named Mohammad Fahmi, said that he wanted to make a game that would make people feel good, that would make people feel like they're not alone in this world.
 
 He unfortunately recently passed away, may God bless his soul for he was a great man.
 
 I think about him a lot, about his game, about his philosophy.
-Like him, my dream was becoming a developper that did everything all at once.
+Like him, my dream was becoming a developer that did everything all at once.
 Toby Fox, Eric Barone, all of these people that made games all by themselves, they were my heroes.
 
 I kept coding and coding and coding, and then something strange happened.
@@ -85,16 +85,16 @@ But I think I'm okay with that.
 I think I'm okay with falling, with failing, with not being the best.
 I want to accept the fact that there is an end, I think it's okay that the eternal quest for success doesn't have to be eternal.
 
-I think i'm okay with that.
+I think I'm okay with that.
 
 ## Empty Promises, Unfulfilled Dreams.
 
 Like a chant I always repeat to myself, like a mantra I always whisper in the dark.
 My eyes always sealed, as to not see the ground beneath me.
 
-In all of our endevors we forget about the fall, we forget about the end.
+In all of our endeavors we forget about the fall, we forget about the end.
 I wish I could tell you that it's all going to be okay, that you're going to make it, that you're going to succeed.
-And as I am writing this to you my friends, in a month or so, I will know if my life can continue, if my dreams can be fulfilled, or if i'm going to finally look at the ground rapidly approching my sealed eyes.
+And as I am writing this to you my friends, in a month or so, I will know if my life can continue, if my dreams can be fulfilled, or if I'm going to finally look at the ground rapidly approaching my sealed eyes.
 
 My friends, all is always well, and all will always be well.
 If not for lies we turn into truths slowly, no amount of encouragement would make us try and break the ephemeral.
@@ -116,8 +116,8 @@ You are loved.
 You can open your eyes when you fall,
 You can wake up from the Godhead's dream,
 Even when you fall,
-Especialy when you fall,
+Especially when you fall,
 
 You will once say you have flown.
 
- *- yaro*
+*- yaro*
