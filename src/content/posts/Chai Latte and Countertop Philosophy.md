@@ -1,5 +1,5 @@
 ---
-title: "Chai Latte and Countertop Philosophy"
+title: "Chai Latte and Bar-room Philosophy"
 pubDate: 2024-05-04
 categories: ['Miscellaneous']
 description: "It's 6 am, made myself some Chai Latte and thinking about the eternal quest for success."
