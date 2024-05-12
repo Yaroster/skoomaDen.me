@@ -1,7 +1,7 @@
 ---
 title: My Steepster reviews !
 pubDate: 2024-04-25
-categories: ['Announcement', 'Tea Review']
+categories: ['Announcements', 'Tea Review']
 description: 'I have been writing reviews on Steepster for a while now, and I thought it would be a good idea to share them here as well. I will be posting them in batches, so stay tuned !'
 ---
 
