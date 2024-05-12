@@ -1,7 +1,7 @@
 ---
   title: Teas that arrived in May!
   pubDate: 2024-05-12
-  categories: ['Tea Review']
+  categories: ['Tea Review', 'Cupboard']
   description: 'Unboxing and exploring the teas I FINALLY received this month!'
 ---
 

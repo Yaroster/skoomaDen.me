@@ -1,7 +1,7 @@
 ---
   title: Teas arriving in May !
   pubDate: 2024-04-30
-  categories: ['Tea Review']
+  categories: ['Tea Review', 'Cupboard']
   description: 'Here are some of the teas that are arriving in May !'
 ---
 
