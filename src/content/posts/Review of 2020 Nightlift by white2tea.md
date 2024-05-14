@@ -41,11 +41,11 @@ Preparation:
 
 ## Rating:
 
-- **Flavor Complexity:** 25/30 - The tea offers a delightful range of flavors, particularly in the early steeps.
-- **Brewing Forgiveness:** 15/20 - While it can become bitter if brewed incorrectly, it generally performs well with proper care.
-- **Consistency Across Infusions:** 18/20 - The flavors evolve but maintain a coherent profile throughout.
-- **Overall Enjoyment:** 24/30 - A highly enjoyable tea, especially in the initial infusions.
+- **Flavor Complexity:** 25/30 - Offers a delightful range of flavors, particularly in the early steeps.
+- **Brewing Forgiveness:** 15/20 - Can become bitter if brewed incorrectly, but generally performs well with proper care.
+- **Consistency Across Infusions:** 15/20 - The flavors evolve but maintain a coherent profile.
+- **Overall Enjoyment:** 20/30 - Highly enjoyable in initial infusions, but becomes predictable and less exciting.
 
-# 82/100
+# 75/100
 
 *- yaro*

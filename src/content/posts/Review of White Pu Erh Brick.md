@@ -44,8 +44,8 @@ Flavors: Clear, Round, Delicate
 
 - **Flavor Complexity:** 27/30 - Exceptional clarity and subtlety, well-rounded.
 - **Brewing Forgiveness:** 18/20 - Maintains its delicate profile across multiple steeps.
-- **Consistency Across Infusions:** 22/20 - Surprisingly consistent and stable flavor.
-- **Overall Enjoyment:** 23/30 - Highly enjoyable, especially for those seeking a gentle, refreshing tea.
+- **Consistency Across Infusions:** 20/20 - Surprisingly consistent and stable flavor.
+- **Overall Enjoyment:** 25/30 - Highly enjoyable, especially for those seeking a gentle, refreshing tea.
 
 # 90/100
 

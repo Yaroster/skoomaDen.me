@@ -87,11 +87,12 @@ I couldn't be happier I was recommended this tea, as it was a great opportunity 
 
 ## Rating:
 
-- **Flavor Complexity:** 10/30 - Limited and unbalanced flavor profile.
-- **Brewing Forgiveness:** 12/20 - Slight improvement with each steep, but overall disappointing.
-- **Consistency Across Infusions:** 10/20 - Inconsistent and unremarkable across steeps.
-- **Overall Enjoyment:** 17/30 - Slightly enjoyable as it loses flavor, but not enough to recommend.
+- **Flavor Complexity:** 12/30 - Limited and unbalanced flavor profile.
+- **Brewing Forgiveness:** 10/20 - Slight improvement with each steep, but overall disappointing.
+- **Consistency Across Infusions:** 8/20 - Inconsistent and unremarkable across steeps.
+- **Overall Enjoyment:** 12/30 - Slightly enjoyable as it loses flavor, but not enough to recommend.
 
-# 49/100
+# 42/100
 
 *- yaro*
+

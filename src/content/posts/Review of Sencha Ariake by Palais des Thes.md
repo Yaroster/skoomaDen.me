@@ -50,11 +50,11 @@ Flavors: Cucumber, Fresh, Herbal, Vegetables
 
 ## Rating:
 
-- **Flavor Complexity:** 22/30 - The first steep offers a surprising freshness, though later steeps lose this complexity.
-- **Brewing Forgiveness:** 15/20 - Sensitive to steeping times and temperature, can become overly bitter.
-- **Consistency Across Infusions:** 13/20 - Noticeable decline in flavor quality after the first steep.
-- **Overall Enjoyment:** 25/30 - The initial surprise and freshness make it enjoyable, despite the later bitterness.
+- **Flavor Complexity:** 18/30 - Good initial complexity, but quickly fades.
+- **Brewing Forgiveness:** 12/20 - Sensitive to steeping times and temperature, can become overly bitter.
+- **Consistency Across Infusions:** 10/20 - Noticeable decline in flavor quality after the first steep.
+- **Overall Enjoyment:** 15/30 - The initial surprise and freshness make it enjoyable, despite the later bitterness.
 
-# 75/100
+# 55/100
 
- *- yaro*
+*- yaro*

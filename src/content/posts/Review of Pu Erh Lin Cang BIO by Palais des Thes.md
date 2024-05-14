@@ -1,5 +1,4 @@
 ---
-
 title: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
 pubDate: 2024-04-25
 categories: ['Tea Review', 'Palais des Thés']
@@ -37,11 +36,11 @@ Flavors: Earthy, Viscous
 
 ## Rating:
 
-- **Flavor Complexity:** 14/30 - The tea offers a traditional pu'er flavor but lacks subtlety.
-- **Brewing Forgiveness:** 13/20 - It can become too intense if not brewed carefully.
-- **Consistency Across Infusions:** 16/20 - Maintains a consistent flavor profile across multiple steeps.
-- **Overall Enjoyment:** 17/30 - An acquired taste, but enjoyable for those who appreciate strong, earthy notes.
+- **Flavor Complexity:** 14/30 - Offers a traditional pu'er flavor but lacks subtlety.
+- **Brewing Forgiveness:** 12/20 - Can become too intense if not brewed carefully.
+- **Consistency Across Infusions:** 15/20 - Maintains a consistent flavor profile across multiple steeps.
+- **Overall Enjoyment:** 14/30 - An acquired taste, but enjoyable for those who appreciate strong, earthy notes.
 
-# 60/100
+# 55/100
 
 *- yaro*

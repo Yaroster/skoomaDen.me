@@ -36,11 +36,11 @@ Despite the bitterness in the second steep, I found the blend to be quite enjoya
 
 ## Rating:
 
-- **Flavor Complexity:** 20/30 - Rich in jasmine and clove notes but overly dominated by jasmine in later steeps.
-- **Brewing Forgiveness:** 12/20 - Requires careful brewing to avoid bitterness.
-- **Consistency Across Infusions:** 18/20 - Maintains a strong flavor profile across multiple steeps.
-- **Overall Enjoyment:** 20/30 - Enjoyable despite the challenges in brewing.
+- **Flavor Complexity:** 18/30 - Rich in jasmine and clove notes but overly dominated by jasmine in later steeps.
+- **Brewing Forgiveness:** 10/20 - Requires careful brewing to avoid bitterness.
+- **Consistency Across Infusions:** 12/20 - Maintains a strong flavor profile, but bitterness impacts enjoyment.
+- **Overall Enjoyment:** 15/30 - Enjoyable despite the challenges in brewing, but not exceptional.
 
-# 70/100
+# 55/100
 
 *- yaro*

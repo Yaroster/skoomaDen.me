@@ -44,9 +44,10 @@ Flavors: Dates, Rose
 
 - **Flavor Complexity:** 10/30 - Limited complexity, with dominant but unbalanced flavors.
 - **Brewing Forgiveness:** 10/20 - Sensitive to brewing parameters, easily becomes perfumy.
-- **Consistency Across Infusions:** 5/20 - Fails to maintain a consistent flavor profile.
+- **Consistency Across Infusions:** 8/20 - Fails to maintain a consistent flavor profile.
 - **Overall Enjoyment:** 8/30 - Disappointing and not enjoyable overall.
 
-# 33/100
+# 36/100
 
- *- yaro*
+*- yaro*
+

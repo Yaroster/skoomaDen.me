@@ -7,8 +7,9 @@ description: "Review of 2018 Turtle Dove by white2tea"
 
 # Review of 2018 Turtle Dove by white2tea
 
-![](image-1.png)
-![](image-5.png)
+![2018 Turtle Dove](image-1.png)
+![2018 Turtle Dove](image-5.png)
+
 I recently tried the mini version of 2018 Turtle Dove by white2tea. Here's my detailed review of the experience:
 
 Preparation:
@@ -50,13 +51,12 @@ In conclusion, the 2018 Turtle Dove by white2tea was not an exceptional tea. Whi
 ## Rating:
 
 - **Flavor Complexity:** 10/30 - The tea lacked distinctive or exceptional flavors.
-- **Brewing Forgiveness:** 16/20 - The tea's flavor did not evolve significantly with different steeping times.
+- **Brewing Forgiveness:** 14/20 - The tea's flavor did not evolve significantly with different steeping times.
 - **Consistency Across Infusions:** 15/20 - The tea was consistent, but consistently unimpressive.
 - **Overall Enjoyment:** 10/30 - The tea was drinkable but not enjoyable or exciting.
 
 ### My recommendation: Would not recommend for those seeking a memorable or exceptional tea experience.
 
-I give it:
-# 62/100
+# 49/100
 
 *- yaro*

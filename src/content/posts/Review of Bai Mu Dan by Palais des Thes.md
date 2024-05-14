@@ -74,8 +74,10 @@ I would feel it to be unfair to judge it badly, my apprehensions disappeared aft
 ## Rating:
 
 - **Flavor Complexity:** 10/30 - The tea lacked depth and distinctive flavors.
-- **Brewing Forgiveness:** 12/20 - Difficult to get right, with inconsistent results across methods.
-- **Consistency Across Infusions:** 13/20 - Varied widely, mostly disappointing.
-- **Overall Enjoyment:** 20/30 - Despite its shortcomings, it's drinkable and fair.
+- **Brewing Forgiveness:** 10/20 - Difficult to get right, with inconsistent results across methods.
+- **Consistency Across Infusions:** 8/20 - Varied widely, mostly disappointing.
+- **Overall Enjoyment:** 10/30 - Despite its shortcomings, it's drinkable and fair.
 
-# 55/100
+# 38/100
+
+*- yaro*

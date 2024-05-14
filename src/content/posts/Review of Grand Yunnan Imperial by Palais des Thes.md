@@ -44,13 +44,11 @@ In conclusion, Grand Yunnan Impérial proved to be a non-exceptional yet pleasan
 
 ## Rating:
 
-- **Flavor Complexity:** 12/30 - The tea provided some enjoyable moments, particularly in shorter infusions, but it lacked distinctive or exceptional flavors that set it apart significantly.
-- **Brewing Forgiveness:** 15/20 - The tea wasn’t particularly forgiving, as seen with the reintroduction of bitterness in longer infusions. However, the shorter steeps were more successful, showing some flexibility.
-- **Consistency Across Infusions:** 15/20 - There were variations in the experience across the infusions; the third infusion was notably better, indicating some inconsistency.
-- **Overall Enjoyment:** 15/30 - While the tea was pleasant, it wasn't particularly memorable or impressive. It was suitable for casual drinking but didn't excite or exceed expectations.
+- **Flavor Complexity:** 12/30 - Some enjoyable moments but lacks distinctive or exceptional flavors.
+- **Brewing Forgiveness:** 15/20 - Not particularly forgiving, shorter steeps are more successful.
+- **Consistency Across Infusions:** 15/20 - Variations in experience across infusions, some inconsistency.
+- **Overall Enjoyment:** 13/30 - Pleasant but not memorable or impressive.
 
-#### My recommendation: Would recommend for casual consumption.
-
-# 57/100
+# 55/100
 
 *- yaro*

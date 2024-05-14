@@ -38,11 +38,12 @@ Flavors: Clear, Elderflower, Peach
 
 - **Flavor Complexity:** 28/30 - Exceptional blend of flavors, well-balanced.
 - **Brewing Forgiveness:** 18/20 - Performs well even with varying steep times.
-- **Consistency Across Infusions:** 20/20 - Maintains flavor profile through multiple steeps.
-- **Overall Enjoyment:** 19/30 - Highly enjoyable, though slightly lacking in intensity over time.
+- **Consistency Across Infusions:** 18/20 - Maintains flavor profile through multiple steeps, though slightly fades.
+- **Overall Enjoyment:** 21/30 - Highly enjoyable, though slightly lacking in intensity over time.
 
 # 85/100
 
 *- yaro*
+
 
 ---
