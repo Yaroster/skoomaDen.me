@@ -7,7 +7,7 @@ description: "Review of Bai Mu Dan by Palais des Thés"
 
 # Review of Bai Mu Dan by Palais des Thés
 
-![img_4.png](img_4.png)
+![Bai Mu Dan](img_4.png)
 
 Preparation:
 
@@ -16,13 +16,13 @@ Preparation:
 - **Tea Amount:** 7.5 g
 - **Water Volume:** 15 oz / 450 ml 
 
-![img_3.png](img_3.png)
+![Bai Mu Dan in Teapot](img_3.png)
 
 ## Overview
 
 This tea is part of the list of the [teas I got this month](https://skoomaden.me/posts/teas-arriving-in-may/).
 
-Would you believe me if I told you I tried this tea 4 times in 4 different ways before writing this review ?
+Would you believe me if I told you I tried this tea 4 times in 4 different ways before writing this review?
 I simply couldn't believe it was as bad as I thought it was, so I tried it again and again, and again, and again.
 
 First, I tried Gong Fu Style in two different combinations of time and temperature, then I tried it in a temperature-controlled tea maker, and finally, I tried it in a regular teapot.
@@ -41,7 +41,7 @@ I'm going to break down every single tasting experience I had with this tea, and
 
 ### First time, Gong Fu Style (successive 20s, 75°C)
 
-"What the hell am I drinking ?" must've been my first thought. It wasn't the bitterness that struck me, but the toughness of the tea. It was like drinking a very old, very dry, very woody piece of wood. The taste was so strong, so overpowering, that I couldn't even taste the bitterness. I thought perhaps I had too much tea in the gaiwan, so I tried again.
+"What the hell am I drinking?" must've been my first thought. It wasn't the bitterness that struck me, but the toughness of the tea. It was like drinking a very old, very dry, very woody piece of wood. The taste was so strong, so overpowering, that I couldn't even taste the bitterness. I thought perhaps I had too much tea in the gaiwan, so I tried again.
 
 ### Second time, Gong Fu Style (successive 10s, 75°C)
 
@@ -49,18 +49,18 @@ Okay, less tea, less time, maybe that's the trick. But no, the tea was still as 
 
 ### Third time, Temperature-Controlled Tea Maker (8 min, 75°C)
 
-Ark ! Strong as a hell this one, overpowering, woody, dry, old, and strong, and most importantly, not anything like a Bai Mu Dan.
+Ark! Strong as hell this one, overpowering, woody, dry, old, and strong, and most importantly, not anything like a Bai Mu Dan.
 
 ### Fourth time, Regular Teapot (8 min, 75°C)
 
-Huh, is this it ?
-Is this the tea I've been trying to taste for the past 2 hours ?
+Huh, is this it?
+Is this the tea I've been trying to taste for the past 2 hours?
 It's so incredibly light, so incredibly tasteless, so incredibly... boring.
 
-But still woody, still like what a minecraft birch blank would taste like, still not a Bai Mu Dan.
+But still woody, still like what a minecraft birch plank would taste like, still not a Bai Mu Dan.
 
-But I cannot say it's bad, because it isn't. "Truly I was the one to blame by trying to taste it in a way it wasn't meant to be tasted.".
-But why would this Bai Mu Dan not be meant to be tasted in Gong Fu Style ? Why would it be so strong, so overpowering, so woody ?
+But I cannot say it's bad, because it isn't. "Truly I was the one to blame by trying to taste it in a way it wasn't meant to be tasted."
+But why would this Bai Mu Dan not be meant to be tasted in Gong Fu Style? Why would it be so strong, so overpowering, so woody?
 
 ### Final thoughts
 
@@ -72,4 +72,10 @@ I would feel it to be unfair to judge it badly, my apprehensions disappeared aft
 #### My recommendation: This is a correct white tea, unremarkable, needs more definition, very light and fair.
 
 ## Rating:
+
+- **Flavor Complexity:** 10/30 - The tea lacked depth and distinctive flavors.
+- **Brewing Forgiveness:** 12/20 - Difficult to get right, with inconsistent results across methods.
+- **Consistency Across Infusions:** 13/20 - Varied widely, mostly disappointing.
+- **Overall Enjoyment:** 20/30 - Despite its shortcomings, it's drinkable and fair.
+
 # 55/100

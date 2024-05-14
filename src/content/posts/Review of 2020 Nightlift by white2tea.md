@@ -9,8 +9,8 @@ description: "Review of 2020 Nightlife by white2tea."
 
 After much anticipation, I've finally had the chance to dive into white2tea's 2020 Nightlife. Here's my detailed review of this intriguing white tea:
 
+![2020 Nightlife](cake.png)
 ![](<file (2).png>)
-![](cake.png)
 
 Preparation:
 
@@ -40,6 +40,12 @@ Preparation:
 #### My recommendation: This tea is a must-try for its dynamic flavor profile but set your expectations for a gradual decline in intensity as the sessions continue.
 
 ## Rating:
+
+- **Flavor Complexity:** 25/30 - The tea offers a delightful range of flavors, particularly in the early steeps.
+- **Brewing Forgiveness:** 15/20 - While it can become bitter if brewed incorrectly, it generally performs well with proper care.
+- **Consistency Across Infusions:** 18/20 - The flavors evolve but maintain a coherent profile throughout.
+- **Overall Enjoyment:** 24/30 - A highly enjoyable tea, especially in the initial infusions.
+
 # 82/100
 
- *- yaro*
+*- yaro*

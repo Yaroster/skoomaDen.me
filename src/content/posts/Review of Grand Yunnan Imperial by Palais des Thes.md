@@ -1,4 +1,3 @@
----
 title: "Review of Grand Yunnan Impérial by Palais des Thés"
 pubDate: 2024-04-25
 categories: ['Tea Review', 'Palais des Thés']
@@ -42,21 +41,15 @@ With the fourth infusion, the bitterness became more pronounced, but no signific
 
 In conclusion, Grand Yunnan Impérial proved to be a non-exceptional yet pleasant black tea. It exhibited slightly less bitterness than expected, making it suitable for casual consumption.
 
+## Rating:
 
-Given your detailed analysis and the experience you described with the Grand Yunnan Impérial, I would suggest a grading scale that aligns with your findings from the review. If we consider a scale of 0-100, where 100 is exceptional and 0 is unacceptable, here’s a possible grading:
-
-- Flavor Complexity:
-12/30: The tea provided some enjoyable moments, particularly in shorter infusions, but it lacked distinctive or exceptional flavors that set it apart significantly.
-- Brewing Forgiveness:
-15/20: The tea wasn’t particularly forgiving, as seen with the reintroduction of bitterness in longer infusions. However, the shorter steeps were more successful, showing some flexibility.
-- Consistency Across Infusions:
-15/20: There were variations in the experience across the infusions; the third infusion was notably better, indicating some inconsistency.
-- Overall Enjoyment:
-15/30: While the tea was pleasant, it wasn't particularly memorable or impressive. It was suitable for casual drinking but didn't excite or exceed expectations.
+- **Flavor Complexity:** 12/30 - The tea provided some enjoyable moments, particularly in shorter infusions, but it lacked distinctive or exceptional flavors that set it apart significantly.
+- **Brewing Forgiveness:** 15/20 - The tea wasn’t particularly forgiving, as seen with the reintroduction of bitterness in longer infusions. However, the shorter steeps were more successful, showing some flexibility.
+- **Consistency Across Infusions:** 15/20 - There were variations in the experience across the infusions; the third infusion was notably better, indicating some inconsistency.
+- **Overall Enjoyment:** 15/30 - While the tea was pleasant, it wasn't particularly memorable or impressive. It was suitable for casual drinking but didn't excite or exceed expectations.
 
 #### My recommendation: Would recommend for casual consumption.
 
-I give it:
 # 57/100
 
- *- yaro*
+*- yaro*

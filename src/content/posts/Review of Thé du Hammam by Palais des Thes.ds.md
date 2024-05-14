@@ -1,3 +1,4 @@
+
 ---
 title: "Review of Thé du Hammam by Palais des Thés"
 pubDate: 2024-04-25
@@ -16,7 +17,7 @@ I recently tried Thé du Hammam, a tea blend from Palais des Thés. Here's my de
 - **Tea Amount:** 2 g
 - **Water Volume:** 3 oz / 100 ml
 
-![](https://us.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/8/6/861-42158-rh8x3mmwnv.jpg)
+![Thé du Hammam](https://us.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/8/6/861-42158-rh8x3mmwnv.jpg)
 
 ## Overview
 
@@ -41,6 +42,12 @@ Flavors: Dates, Rose
 #### My recommendation: Not recommended due to its lack of balance and underwhelming flavor profile.
 
 ## Rating:
+
+- **Flavor Complexity:** 10/30 - Limited complexity, with dominant but unbalanced flavors.
+- **Brewing Forgiveness:** 10/20 - Sensitive to brewing parameters, easily becomes perfumy.
+- **Consistency Across Infusions:** 5/20 - Fails to maintain a consistent flavor profile.
+- **Overall Enjoyment:** 8/30 - Disappointing and not enjoyable overall.
+
 # 33/100
 
  *- yaro*

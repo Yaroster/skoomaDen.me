@@ -16,11 +16,11 @@ I recently discovered a tea curiosity labeled as "White Pu Erh Brick." The packa
 - **Tea Amount:** 30 g
 - **Water Volume:** 3 oz / 100 ml
 
-![](https://www.lerbs-hagedorn.de/images/product_images/popup_images/15409_600x600.jpg)
+![White Pu Erh Brick](https://www.lerbs-hagedorn.de/images/product_images/popup_images/15409_600x600.jpg)
 
 ## Overview
 
-Initially, the concept of a White Pu Erh was... shocking to say the least, it's definitely quite unconventional. My first infusion revealed a stark peach-colored soup.
+Initially, the concept of a White Pu Erh was... shocking to say the least. It's definitely quite unconventional. My first infusion revealed a stark peach-colored soup.
 
 ### Flavor Profile
 
@@ -34,13 +34,19 @@ This White Pu Erh Brick defied my expectations, offering one of the most fulfill
 
 The subtlety of the flavor profile ensures that the taste does not linger excessively, making it an ideal companion to meals. Its light yet noticeably caffeinated nature suggests it could serve as an excellent morning tea.
 
-Given the price of about 10 Euros online for 150g, this tea offers an exceptional value for money.
+Given the price of about 10 Euros online for 150g, this tea offers exceptional value for money.
 
 Flavors: Clear, Round, Delicate
 
 #### My recommendation: Highly recommended for its unique character and excellent value.
 
 ## Rating:
+
+- **Flavor Complexity:** 27/30 - Exceptional clarity and subtlety, well-rounded.
+- **Brewing Forgiveness:** 18/20 - Maintains its delicate profile across multiple steeps.
+- **Consistency Across Infusions:** 22/20 - Surprisingly consistent and stable flavor.
+- **Overall Enjoyment:** 23/30 - Highly enjoyable, especially for those seeking a gentle, refreshing tea.
+
 # 90/100
 
- *- yaro*
+*- yaro*

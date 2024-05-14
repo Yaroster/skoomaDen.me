@@ -19,9 +19,8 @@ I love this tea so much! The peach is clear, and yet it does not overpower the e
 - **Time:** 2 min (initial steep), followed by consecutive 30s/1min steeps
 - **Tea Amount:** 2.5 g
 - **Water Volume:** A bit less than 80 mL (in my gaiwan)
-  
-![](https://shop.sinas.online/media/image/cd/a5/32/21870_600x600@2x.jpg)
 
+![Fleur de Sureau et Pêche Bio](https://shop.sinas.online/media/image/cd/a5/32/21870_600x600@2x.jpg)
 
 ## Tasting Experience
 
@@ -36,6 +35,14 @@ Flavors: Clear, Elderflower, Peach
 #### My recommendation: Highly recommended for its perfect balance of flavors and refreshing taste.
 
 ## Rating:
+
+- **Flavor Complexity:** 28/30 - Exceptional blend of flavors, well-balanced.
+- **Brewing Forgiveness:** 18/20 - Performs well even with varying steep times.
+- **Consistency Across Infusions:** 20/20 - Maintains flavor profile through multiple steeps.
+- **Overall Enjoyment:** 19/30 - Highly enjoyable, though slightly lacking in intensity over time.
+
 # 85/100
 
- *- yaro*
+*- yaro*
+
+---

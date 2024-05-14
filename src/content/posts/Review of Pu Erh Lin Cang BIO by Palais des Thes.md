@@ -1,4 +1,5 @@
 ---
+
 title: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
 pubDate: 2024-04-25
 categories: ['Tea Review', 'Palais des Thés']
@@ -20,7 +21,7 @@ This is my first pu'er tea, and maybe my last dark pu'er for a while. I'm still 
 - **Tea Amount:** 4 g
 - **Water Volume:** 3 oz / 100 mL
 
-![](https://0db7181a.flyingcdn.com/wp-content/uploads/2023/01/1878_Puerh_Bio-PhotoRoom.png-PhotoRoom.png)
+![Pu Erh Lin Cang BIO](https://0db7181a.flyingcdn.com/wp-content/uploads/2023/01/1878_Puerh_Bio-PhotoRoom.png-PhotoRoom.png)
 
 ## Tasting Experience
 
@@ -35,6 +36,12 @@ Flavors: Earthy, Viscous
 #### My recommendation: Recommended for those who enjoy bold, earthy flavors in their tea.
 
 ## Rating:
+
+- **Flavor Complexity:** 14/30 - The tea offers a traditional pu'er flavor but lacks subtlety.
+- **Brewing Forgiveness:** 13/20 - It can become too intense if not brewed carefully.
+- **Consistency Across Infusions:** 16/20 - Maintains a consistent flavor profile across multiple steeps.
+- **Overall Enjoyment:** 17/30 - An acquired taste, but enjoyable for those who appreciate strong, earthy notes.
+
 # 60/100
 
- *- yaro*
+*- yaro*

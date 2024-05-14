@@ -5,6 +5,8 @@ categories: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé des Moines by Palais des Thés"
 ---
 
+# Review of Thé des Moines by Palais des Thés
+
 ## Preparation
 
 - **Temperature:** 175°F / 79°C
@@ -14,9 +16,9 @@ description: "Review of Thé des Moines by Palais des Thés"
 
 ## Overview
 
-For this tasting, I experimented with a gaiwan and utilized a somewhat unconventional brewing method: 80°C water temperature, 4g of tea per 100ml of water, steeped for 3 minutes for the initial steep, followed by constant 10-second steeps.
+For this tasting, I experimented with a gaiwan and utilized a somewhat unconventional brewing method: 79°C water temperature, 4g of tea per 100ml of water, steeped for 3 minutes for the initial steep, followed by constant 10-second steeps.
 
-![](https://lapothicaire.ca/cdn/shop/products/IMG_8990_1024x1024.jpg?v=1511483699)
+![Thé des Moines](https://lapothicaire.ca/cdn/shop/products/IMG_8990_1024x1024.jpg?v=1511483699)
 
 ### Second Steep
 
@@ -33,6 +35,12 @@ Despite the bitterness in the second steep, I found the blend to be quite enjoya
 #### My recommendation: Recommended for its complexity and pleasant flavors, especially when brewed with care.
 
 ## Rating:
+
+- **Flavor Complexity:** 20/30 - Rich in jasmine and clove notes but overly dominated by jasmine in later steeps.
+- **Brewing Forgiveness:** 12/20 - Requires careful brewing to avoid bitterness.
+- **Consistency Across Infusions:** 18/20 - Maintains a strong flavor profile across multiple steeps.
+- **Overall Enjoyment:** 20/30 - Enjoyable despite the challenges in brewing.
+
 # 70/100
 
- *- yaro*
+*- yaro*
