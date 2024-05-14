@@ -36,11 +36,11 @@ Flavors: Earthy, Viscous
 
 ## Rating:
 
-- **Flavor Complexity:** 14/30 - Offers a traditional pu'er flavor but lacks subtlety.
+- **Flavor Complexity:** 10/30 - Offers a traditional pu'er flavor but lacks subtlety.
 - **Brewing Forgiveness:** 12/20 - Can become too intense if not brewed carefully.
 - **Consistency Across Infusions:** 15/20 - Maintains a consistent flavor profile across multiple steeps.
-- **Overall Enjoyment:** 14/30 - An acquired taste, but enjoyable for those who appreciate strong, earthy notes.
+- **Overall Enjoyment:** 10/30 - An acquired taste, but enjoyable for those who appreciate strong, earthy notes.
 
-# 55/100
+# 47/100
 
 *- yaro*
