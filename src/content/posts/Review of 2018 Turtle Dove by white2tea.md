@@ -7,8 +7,8 @@ description: "Review of 2018 Turtle Dove by white2tea"
 
 # Review of 2018 Turtle Dove by white2tea
 
-![2018 Turtle Dove](https://example.com/turtle_dove_image.jpg)
-
+![](image-1.png)
+![](image-5.png)
 I recently tried the mini version of 2018 Turtle Dove by white2tea. Here's my detailed review of the experience:
 
 Preparation:
