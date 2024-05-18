@@ -10,6 +10,8 @@ description: "Review of 2024 Spring Old Arbor Raw Puer by white2tea."
 This 2024 Spring Old Arbor Raw Puer recently arrived in my mail for the May Tea Club (w2t) ! 
 Here’s my review of this young puer:
 
+![](image-4.png)
+
 Preparation:
 
 - **Temperature:** 212°F / 100°C initially, adjusting to 194-203°F / 90-95°C in later infusions
@@ -37,7 +39,6 @@ One last quick note; we are ambitiously planning to update our tea club payments
 We couldn't do it without you and you've got our most sincere thanks for being in the club. We've got a lot of exciting clubs planned for the coming months, so stick around and share your experiences with us online #white2tea
 ```
 
-![](image-4.png)
 
 ## Tasting Notes
 
