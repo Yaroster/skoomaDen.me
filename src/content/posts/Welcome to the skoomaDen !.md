@@ -1,7 +1,7 @@
 ---
 title: Welcome to the skoomaDen !
 pubDate: 2024-04-25
-categories: ['Annoucements']
+categories: ['Announcements']
 description: ''
 ---
 
