@@ -15,7 +15,7 @@ I recently tried the mini version of 2018 Turtle Dove by white2tea. Here's my de
 Preparation:
 
 - **Temperature:** 185°F / 85°C
-- **Time:** 10s wash
+- **Time:** 10s+5n
 - **Tea Amount:** 5 g
 - **Water Volume:** 3 oz / 100 ml
 
