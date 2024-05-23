@@ -23,8 +23,8 @@ Already at the smell, I get this classic fishiness we get from shou puers. It sm
 
 I brewed this tea using a Yixing teapot, hoping to explore its depth through multiple short infusions.
 
-![](image-6.png)
-![](image-7.png)
+![](image-8.png)
+![](image-9.png)
 
 ### First Infusion (10s)
 
