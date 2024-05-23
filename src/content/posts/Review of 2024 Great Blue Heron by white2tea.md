@@ -5,11 +5,11 @@ categories: ['Tea Review', 'white2tea']
 description: "Review of 2024 Great Blue Heron Minis by white2tea"
 ---
 
-# Review of 2024 Great Blue Heron Minis by white2tea
+# Review of 2024 Great Blue Heron by white2tea
 
 ![2024 Great Blue Heron Minis](image.png)
 
-I recently tried the 2024 Great Blue Heron Minis by white2tea. Here's my detailed review of the experience:
+I recently tried the 2024 Great Blue Heron by white2tea. Here's my detailed review of the experience:
 
 Preparation:
 
