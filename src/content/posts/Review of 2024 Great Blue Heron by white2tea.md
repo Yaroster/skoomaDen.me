@@ -7,7 +7,8 @@ description: "Review of 2024 Great Blue Heron Minis by white2tea"
 
 # Review of 2024 Great Blue Heron Minis by white2tea
 
-![2024 Great Blue Heron Minis](image.png)
+![](image-6.png)
+![](image-7.png)
 
 I recently tried the 2024 Great Blue Heron Minis by white2tea. Here's my detailed review of the experience:
 
