@@ -1,10 +1,10 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "skoomaDen",
+  title: "Yaroster's Skooma Den - Tea, Tech, Anime, and Game Reviews",
   /** your name */
-  author: "yaroster's",
+  author: "yaroster",
   /** website description */
-  desc: "Welcome to the Skooma Den !",
+  desc: "Hey there! Welcome to the Skooma Den! Kick back and relax with my blend of detailed tea reviews, chill game analysis, and fun anime discussions. Whether you're here for a cozy tea chat or just some laid-back gaming and anime vibes, I've got you covered. Join me in the Den for an easygoing read. Sit back, sip your tea, and enjoy!",
   /** your deployed domain */
   website: "https://skoomaDen.me",
   /** your locale */
