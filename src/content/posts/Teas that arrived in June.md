@@ -1,8 +1,8 @@
 ---
-title: Teas that arrived in June!
+title: "Teas that arrived in June!"
 pubDate: 2024-05-29
 categories: ['Tea Review', 'Cupboard']
-description: 'The (few) teas I've got this month so far !'
+description: "The (few) teas I've got this month so far !"
 ---
 
 # They're Here!
