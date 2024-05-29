@@ -1,13 +1,13 @@
 ---
-  title: Teas that arrived in May!
-  pubDate: 2024-05-12
+  title: Teas that arrived in June!
+  pubDate: 2024-05-29
   categories: ['Tea Review', 'Cupboard']
-  description: 'Unboxing and exploring the teas I FINALLY received this month!'
+  description: 'The (few) teas I've got this month so far !'
 ---
 
 # They're Here!
 
-Ouf, this one is suprising, these two teas should've arrived in May but, oh Well, I'll still show them to you all.
+Oof, this one is suprising, these two teas should've arrived in May but, oh Well, I'll still show them to you all.
 N.B: This article may be updated throughout the month.
 
 ![](file-1.png)
