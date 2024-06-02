@@ -81,6 +81,8 @@ White2Tea descibes this tea as:
 
 This is one of the teas I'm least excited to try, though I admit I've never challenged myself to purposfully torture my tongue like that.
 
+![](image-24.png)
+
 ## 2024 Penetralia Minis -- Generic ?
 
 White2Tea descibes this tea as:
@@ -90,6 +92,8 @@ White2Tea descibes this tea as:
 Our 2024 Penetralia is a thick bodied, rich and herbaceous black tea with depth and engaging layered flavors."
 
 No further details are given, which given the price point is very suprising.
+
+![](image-25.png)
 
 ## 2024 Tihkal Minis -- The best blend of the year (supposedly).
 
