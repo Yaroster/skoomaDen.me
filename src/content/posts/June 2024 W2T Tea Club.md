@@ -15,7 +15,7 @@ Here's what Paul wrote:
 
 ```Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
 
-Before we get to the teas, a few notes on the 2024 spring. You may have noticed our releases were later this year than usual. Drought played havoc with weather around Meng-hai and Yiwu this spring. Many of our old arbor teas from Yiwu for example, were not pickea until late April, whereas in previous years they would have been ready in early April.
+Before we get to the teas, a few notes on the 2024 spring. You may have noticed our releases were later this year than usual. Drought played havoc with weather around Meng-hai and Yiwu this spring. Many of our old arbor teas from Yiwu for example, were not picked until late April, whereas in previous years they would have been ready in early April.
 
 The tea trees were struggling to find moisture to push forth fresh growth, with yields suffering as well. One farmer who last year produced 60-80 kilograms in the spring, this year had only 6 kilograms. This is an extreme anecdote, but worth mentioning because many of the old arbor trees or forest teas simply didn't produce fresh leaf. The good news is that as write this it is raining in Xishuangbanna, so t least some moisture is on the way. We appreciate all of you who have been patiently waiting for our new teas to come out!
 
