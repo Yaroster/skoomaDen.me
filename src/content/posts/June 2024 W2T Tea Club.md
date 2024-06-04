@@ -13,7 +13,7 @@ Just recieved the June 2024 Tea Club in the mail !
 
 Here's what Paul wrote:
 
-```Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
+"Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
 
 Before we get to the teas, a few notes on the 2024 spring. You may have noticed our releases were later this year than usual. Drought played havoc with weather around Meng-hai and Yiwu this spring. Many of our old arbor teas from Yiwu for example, were not picked until late April, whereas in previous years they would have been ready in early April.
 
@@ -27,7 +27,7 @@ Lao Chuan Hong - Switching provinces to Sichuan, where we spent a significant am
 Brewing Instructions- Boiling water, even for the very fresh raw Puer. Use gongfu style brewing if you can. If you'd like a softer experience, drop the temp to 85C - 95C, this will lessen the harsher notes of the tea. 90C-95C for the black tea will coax out different aromatics and favors, but will still prefer boiling.
 
 A repeat note from last month; we are ambitiously planning to update our tea club payments to be through Shopify in the coming months instead of Paypal. This will theoretically mean that you can receive automatic tracking through your http://white2tea.com account. However, we're not done quite yet, we will make an official announcement when its possible!
-We will see you online, don't forget to hashtag us #white2tea```
+We will see you online, don't forget to hashtag us #white2tea"
 
 Alright alright, let's see what the package is all about this month:
 
