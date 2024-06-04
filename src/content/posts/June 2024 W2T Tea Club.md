@@ -1,5 +1,5 @@
 ---
-  title: June 2024 W2T Tea Club
+  title: White2tea Tea Club — June 2024 ! 
   pubDate: 2024-06-04
   categories: ['Tea Review', 'Cupboard', 'white2tea']
   description: 'Well this came in early'
