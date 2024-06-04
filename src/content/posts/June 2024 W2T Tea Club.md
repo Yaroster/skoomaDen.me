@@ -5,11 +5,15 @@
   description: 'Well this came in early'
 ---
 
-Just recieve the June 2024 Tea Club in the mail !
+# White2tea Tea Club — June 2024 ! 
+
+Just recieved the June 2024 Tea Club in the mail !
+
+
 
 Here's what Paul wrote:
 
-``` Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
+```Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
 
 Before we get to the teas, a few notes on the 2024 spring. You may have noticed our releases were later this year than usual. Drought played havoc with weather around Meng-hai and Yiwu this spring. Many of our old arbor teas from Yiwu for example, were not pickea until late April, whereas in previous years they would have been ready in early April.
 
