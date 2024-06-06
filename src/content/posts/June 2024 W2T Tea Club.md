@@ -46,6 +46,7 @@ The Hype is one of the if not the most well know w2t tea with "This is", definit
 Now I admit this is where my knowledge of Black Tea stops, Lao Chuan Hong is a supposed well know hongcha (Red Tea in China) but I admit, reading the description we got, I cannot stop being curious about what I possibly await with this one.
 
 I'll definitely try both of these teas right now !
+**Update: I've reviewed Lao Chuan Hong, you can read it [here](https://skoomaden.me/posts/review-of-lao-chuan-hong/)**
 
 Either way, Stay tuned for more Tea Reviews !
 

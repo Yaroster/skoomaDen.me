@@ -11,6 +11,8 @@ I admit this is where my knowledge of Black Tea stops, Lao Chuan Hong is a suppo
 
 This tea was part of the **June 2024 Tea Club**
 
+![](image-28.png)
+
 Paul wrote:
 "Brewing Instructions- Boiling water, even for the very fresh raw Puer. Use gongfu style brewing if you can. If you'd like a softer experience, drop the temp to 85C - 95C, this will lessen the harsher notes of the tea. 90C-95C for the black tea will coax out different aromatics and favors, but will still prefer boiling."
 
