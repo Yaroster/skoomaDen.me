@@ -1,5 +1,5 @@
 ---
-title: "Review of a Mysetery Green Tea"
+title: "Review of a Mysterious Green Tea"
 pubDate: 2024-06-09
 categories: ['Tea Review']
 description: "Review of a mysterious green tea I was gifted recently"
