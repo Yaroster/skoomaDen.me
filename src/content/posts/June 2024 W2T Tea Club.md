@@ -9,8 +9,6 @@
 
 Just recieved the June 2024 Tea Club in the mail !
 
-
-
 Here's what Paul wrote:
 
 "Thank you for joining us for the June tea club. Spring tea is finally over, marking the end of another long growing season in the tea mountains. By the time this package hits your door our first wave of new teas should be up on the site, with more pressings to come. We appreciate you sticking with us through the spring and beyond, we've got a lot of interesting clubs on the horizon, including educational comparisons of white teas from Fujian.
