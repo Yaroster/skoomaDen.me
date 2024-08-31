@@ -159,3 +159,139 @@ There's lots to say about the Museum's structure and scale, it starts at the bir
 This is definitely a must-see for any Chinese history fan ! I of course took many more pictures, but in an attempt to keep enough suprises for you in case you wish to visit, I have only shown what I've found most interesting.
 
 ## Day 6: Jade Market and Temple of Heaven !
+
+![](<Group 1.png>)
+
+First order of business that day was trying to buy Jade for my friends and family. While the stone may not seem that valuable for outsiders, I thought that getting something this culturally significant to my relatives was an absolute must.
+
+It was also to be an amazing way of honing my mandarin skills, looking at prices and whispering 太贵了 at any occasion to make the sellers go for less.
+
+![](image-61.png)
+
+I ended up going to the [Panjiayuan](https://www.panjiayuan.com/html/en.html) (潘家园) Antique Market, and got some 88 CNY C-Grade Jade bracelets along with what was very obviouly quartz necklesses.
+
+After a little shopping, it was time for me to head to the [Temple Of Heaven](https://en.wikipedia.org/wiki/Temple_of_Heaven)
+
+![](<Group 1-1.png>)
+
+Walking along the main entrance lead me to a large park and an [Exhibition of Cultral Relics](https://whc.unesco.org/en/list/881/).
+
+![](<Group 1-2.png>)
+
+After getting lost for a bit, I was finally atop a large structure which was the western gate to the [Temple](https://en.wikipedia.org/wiki/Temple_of_Heaven) itself.
+
+![](<Group 1-3.png>)
+
+As I was going around the edifice, rain started pouring in. The echo of the rain whithin the chambers resembled a rain drum singing, it was truly beautiful.
+
+The park itself is gigantic, and the [Temple Of Heaven](https://en.wikipedia.org/wiki/Temple_of_Heaven) is only a small part of it.
+
+![](<Group 1-4.png>)
+
+These photos are only a fraction of all of the intricate art and design that are contained within the Imperial walls. And, even at that time, I understood that the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) had to have significantly more curiosities to share for us later on.
+
+## Day 7: 798 and CapitaMall !
+
+Of all the places I went to when I first came to Beijing, the [798 Art Zone](https://en.wikipedia.org/wiki/798_Art_Zone) was most definitely the most memorable of the bunch. I specifically remember thinking of how peaceful the artists seemed, painting their workshops surrounded by the winter air.
+
+![](<Group 1-5.png>)
+
+The first thing I saw was a large board on which was written "本国宝级", National Level Treasure ?!
+
+![](image-62.png)
+
+Indeed, the full text translated to "日本国宝级经典动画","Japan's National Treasure-Level Classic Anime". I thusly paid 35元 and got into the building. It was an exposition of [cels](https://en.wikipedia.org/wiki/Cel) from every manga classic you can think of. 
+
+![](<Group 1-6.png>)
+
+Along the walls, many had drawn some of their favorite characters and spoke about their love for the medium !
+Included with the price of the ticket was an exposition of [Inoue Naohisa](https://en.wikipedia.org/wiki/Naohisa_Inoue)'s art, a very influencial fantasy artist that created much of the references and background art for Studio Ghibli's ["Whipser of the Heart"](https://en.wikipedia.org/wiki/Whisper_of_the_Heart).
+
+![](<Group 1-7.png>)
+
+Besides the art exposition was a little potery shop that sold absolutely beautiful teaware, here are some of the pieces I got.
+
+![](<Group 1-8.png>)
+
+A small book shop nearby also sold some rather interesting books at a good price. I got the latest ghibli's storybook and Xi Jinping's ["The Governance of China"](https://en.wikipedia.org/wiki/The_Governance_of_China) which I have used, in part, to write my article ["A Contrasted China: Power, Policy, and the Western Narratives."](https://skoomaden.me/posts/contrasting_china_brown_economy/).
+
+![](IMG_1271.png)
+
+Another nearby shop was a teashop that specialized in aged teas from Yiwu, Zhejiang. I had the chance to chat a bit with a young teashop owner which explained to me some concepts of [Cha Qi](https://rishi-tea.com/blogs/journal/cha-qi-tea-drunk?srsltid=AfmBOordGI7hG6-Rp609KZAC74vmxVXLXCcPEiC0WQahHTFrlSEaCCKo) (茶气) which I had trouble understanding as a foreigner. It was a very interesting experience drinking tea with someone with such knowledge of the art.
+
+![](image-63.png)
+
+While I was on the road to go back home, my eyes glanced upon a nearby mall I hadn't noticed yet. It didn't seem large or impressive in any way from the outside, but one step inside completely changed my perspective. This mall was a 凯德MALL, or [CapitaMall](https://en.wikipedia.org/wiki/CapitaLand) in English -- part of a larger Singaporean malls chain.
+
+![](<Group 1-9.png>)
+
+What I saw there would be tough to compile, but let's just say my [WeChat Pay](https://en.wikipedia.org/wiki/WeChat_Pay) really suffered through my expedition there. 
+
+After having some spice beef noodles and getting some gifts for my friends, I went back home for the day !
+
+![](<Group 1-10.png>)
+
+## Day 8: Parkview Green and Zhongguancun !
+
+Being as impressed as I was about the CapitaMall I was in, I looked up the best malls in Beijing, and a common name was [Parkview Green](https://parkviewgreen.com/en/). I also wanted to get myself a cheap phone, and for that no looking up was needed -- I knew exactly where I had to go.
+
+![](<Group 1-11.png>)
+
+And that place is [Zhongguancun](https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%85%B3%E6%9D%91) (中关村). Right by the metro station by the same name on Line 4 is a massive mall filled with small electronics shops. I ended up getting myself a 500元 burner android phone.
+
+![](<Group 1-12.png>)
+
+Nearby was ["The Place"](https://www.theplacebeijing.com/), an impressive both outdoors and indoors mall, across of which was [Parkview Green](https://parkviewgreen.com/en/) !
+
+![](<Group 1-13.png>)
+
+I walked quite a bit, but the mall was huge in scale, I hope the pictures capture this as efficiently as my eyes percieved it. The entire mall was built by what seems to be a rich fan of arts -- I mean there are literal [Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) pieces here. I spent quite some time there before taking a DiDi back home !
+
+![](<Group 1-14.png>)
+
+## Day 9: The Great Wall of China !
+
+![](image-64.png)
+
+As I got out of my hostel room, I only had one thing in mind.
+The Great Wall. I wanna go to the Great Wall.
+I called a DiDi and there we went to [MuTianYu](https://en.mutianyugreatwall.com/)'s Great Wall, little did I know that a two hour ride was what was waiting for me.
+
+![](<Group 1-15.png>)
+
+At my arrival, lots of greenery awaited me. This was the furthest the DiDi would get me, I had to take a shuttle bus and a cable car up the mountain to get to the this part of the Great Wall.
+
+![](<Group 1-16.png>)
+
+I don't think anything could've prepared me to both how beautiful the sceenery was going to be and how tough it was to walk around the wall. Not bringing any water was **not** a good idea on my part I admit.
+
+![](image-65.png)
+![](image-66.png)
+
+After 3 hours of exhaustion and feeling a bit faint, I thought it was wiser for me to get back to Majiapu.
+
+![](<Group 1-17.png>)
+
+## Last Day: Donghuamen Subdistrict and Forbidden City !
+
+This is it, the last day.
+Nothing more fitting than to spend it at the City's main event, the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City).
+
+![](<Group 1-18.png>)
+
+At my arrival, I was given a tour guide which for some reason was set to French. Since that **is** my native language however I admit it was somewhat of a pleasant surprise, not sure how I would've reacted if I was from another nationality though haha ! 
+
+![](image-67.png)
+
+I wouldn't do the affront to try and explain the entirety of the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) to you. It's massive, both in size and in significance. I truly hope you will one day visit it, so to avoid spoiling any impressive details I'll just say this: you **must** go see it yourself one day.
+
+Walking past the Eastern Gate (lit. Donghuamen) I stumbled upon a place I saw on no tourist guide so far, which was suprising because it is the most impressivly modern place I went to so far.
+
+![](<Group 1-19.png>)
+
+There were many malls around the Donghuamen eastern gate, a main boulevard connecting them all together. I would enter the smallest of entrances to be led into giant underground malls, filled with passionate Beijingers that had what seemed to be an innate knowledge of the intricate passageways connecting the malls, like a thin thread of well held together fabric.
+
+One such underground mall is connected to the easternmost metro station !
+This specific mall was filled with anime merch and shops, cosplayers filming themselves doing [Douyin](https://zh.wikipedia.org/zh-hans/%E6%8A%96%E9%9F%B3) dance moves, 
+
+![](<Group 1-20.png>)
