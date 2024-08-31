@@ -128,6 +128,7 @@ It was now time for me to go back to through the very bridge I came from. Walkin
 
 This was formally a private Imperial Garden attached to the Forbidden City. It had bonzais everywhere, it felt more akin to a botanical garden than a simple park. That little escapade made me think about what I should do next. I remembered going to a Chinese Opera show when I was younger, so I thought I should head towards the [National Center for the Performing Arts](https://en.chncpa.org).
 
+
 ![](image-56.png)
 
 This place was huge ! I couldn't find any translated Chinese Opera shows, but I decided to see the monthly NCPA choir's show ! This was a magical experience to say the least, lots of different languages and cultural songs, a touch of fun at the end with some cartoon openings being sang which wasn't specified in the planning (so it was extra cool !), and just overall incredible range and talent from everyone involved. The atmosphere was definitely very classy, but not in a bourgeois kind of way. It was more of somewhere you came to well dressed, which surely was not my case at the time.
