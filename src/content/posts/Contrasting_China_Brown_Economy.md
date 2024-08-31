@@ -112,5 +112,7 @@ Both [Kerry Brown](https://www.kcl.ac.uk/people/kerry-brown)’s *[Xi: A Study i
 
 From my perspective, *[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) represents a continuation of China’s historical trajectory*, blending both reform and continuity. His focus on stability and centralization reflects a deep understanding of China’s political needs, while his global ambitions push China toward a more assertive role in the international order. Both [Brown](https://www.kcl.ac.uk/people/kerry-brown) and [Economy](https://www.hoover.org/profiles/elizabeth-economy) offer insightful analyses, and their work helps to paint a more complete picture of *[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s complex and dynamic leadership.*
 
+
 P.S: It is my belief that, while both authors are experts on the question of Chinese policy, they certainly are very US foreign policy centric.
 It would most definitely be a refreshing experience to see these authors break the mold and taking a more independant stance, this is especially true for [Ms. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s Third Revolution.
+=======
