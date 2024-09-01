@@ -277,7 +277,7 @@ Nothing more fitting than to spend it at the city's main event, the [Forbidden C
 
 Upon arrival, I was given a tour guide which, for some reason, was set to French. Since that **is** my native language, I admit it was somewhat of a pleasant surprise. Not sure how I would've reacted if I was from another nationality though, haha!
 
-![](image-67.png)
+![](image-68.png)
 
 I wouldn't do the affront of trying to explain the entirety of the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) to you. It's massive, both in size and significance. I truly hope you will one day visit it, so to avoid spoiling any impressive details, I'll just say this: you **must** go see it yourself one day.
 
