@@ -32,7 +32,7 @@ At 3 am, I was finally able to get some well-deserved shut-eye, the jet lag havi
 
 After waking up, I immediately headed outside to see what the city looked like. A few minutes of walking led me to the 马草河 (Mǎcǎo River) that led to a metro station.
 
-Multiple signs around the neighborhood gave directions to the Line 4 马家堡 (Mǎjiābǔ) metro station, between the 3rd and the 4th rings.
+Multiple signs around the neighborhood gave directions to the Line 4 马家堡 (Mǎjiāpu) metro station, between the 3rd and the 4th rings.
 
 ![](image-39.png)
 
