@@ -51,7 +51,7 @@ This tea was extremely disappointing. It tasted like an overly sweet, artificial
 
 ### [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/)
 
-![](image-77.png)
+![](image-79.png)
 
 The [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/) had a familiar wild mint taste, but it was too diluted. Instead of the usual [Gunpowder Green Tea](https://en.wikipedia.org/wiki/Gunpowder_tea), they used a different, difficult to identify green tea. They served it with honey, but it was too concentrated to bring out any real flavor and it ended up overpowering my first cup (which arguably, is my fault). Despite this, it was the only tea with a somewhat defined taste, though the bitterness was poorly managed. It felt like a tea-bag [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/), with a correct presentation but not round enough of a flavor.
 T
