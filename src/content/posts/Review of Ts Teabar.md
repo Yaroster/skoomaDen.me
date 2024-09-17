@@ -26,7 +26,9 @@ At the very center of the shop, itself located inside one of the older malls of 
 
 The tea had lacked a lot of definition, and after a **3-minute infusion**, the flavors slowly came through. While it was a bit watery, the little taste present was still somewhat refreshing. The expected milky notes were indeed present. I expected something more flavorful. But even after a longer **5-minute infusion**, the tea still hadn't released as much flavor as I had hoped. The water simply wasn’t hot enough (**80C**), leaving the tea tasting weak, almost like perfumed water.
 
-Aerating the tea reveals an unpleasant surprise, hitting the top of the palate was a strange astringency we find in some Chinese greens, not [Oolongs](https://en.wikipedia.org/wiki/Oolong). Like a superficial mess, the taste goes all around my mouth without ever tongue without hitting any point significantly: no depth. 
+Aerating the tea reveals an unpleasant surprise, hitting the top of the palate was a strange astringency we find in some Chinese greens, not [Oolongs](https://en.wikipedia.org/wiki/Oolong). Like a superficial mess, the taste goes all around my mouth without ever tongue without hitting any point significantly: no depth.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/05/Jin_Xuan_oolong_tea.jpg)
 
 It’s unfortunate because this type of tea has so much potential. I’m confident it could be a favorite with better preparation. And it seems from what was told by the staff that it is the one that is the most popular.
 
@@ -34,8 +36,9 @@ My belief is that the constant opening and closing of the tea as well as the som
 
 ## Round 2
 
-
 ### Milky Oolong (Second Infusion)
+
+![](image-78.png)
 
 After consulting with friends and returning later that day, I decided to give the Milky Oolong another shot. This time, I asked for the water temperature to be raised to **90C** and I infused it for 3min, and while it improved slightly, the water still seemed too hard. The flavor was more pronounced, with a lingering aftertaste, but it remained too light and watery. The green tea bitterness, still present, overshadowed the experience. The issue is thus really in the tea itself rather than preparation it seems.
 

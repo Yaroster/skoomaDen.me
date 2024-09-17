@@ -1,7 +1,7 @@
 ---
 title: Review of TWG's Breakfast Teas  
 pubDate: 2024-09-16  
-categories: ['Tea Review', 'Cupboard']  
+categories: ['Tea Review', 'Teahouse']  
 description: "A review of some of TWG's morning teas, a prominent Singaporean tea brand."
 ---
 
