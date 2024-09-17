@@ -5,7 +5,7 @@
     "jsx": "react-jsx",
     "jsxImportSource": "react",
     "verbatimModuleSyntax": true,
-    "baseUrl": ".",
+    "baseUrl": "src",
     "paths": {
       "src": ["./src"]
     }
