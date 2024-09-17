@@ -18,7 +18,6 @@ type Props = {
 };
 
 const { post } = Astro.props;
-const { title, description, date, tags, cover } = post.data;
 ---
 
 <Layout title={post.data.title} description={post.data.description}>
