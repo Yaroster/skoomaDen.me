@@ -2,7 +2,7 @@
 title: "A Contrasted China: Power, Policy, and the Western Narratives."
 pubDate: 2024-08-16
 categories: ['Book Review']
-description: "A joint review of both Dr. Brown and Ms. Economy's most recent books."
+description: "A joint review of both Dr. Brown and Dr. Economy's most recent books."
 ---
 
 # A Contrasted China: Power, Policy, and the Western Narratives.
@@ -17,7 +17,7 @@ My knowledge of Chinese internal affairs is much more limited than my direct exp
 
 My approach for this critique will be both from the point of view of a passionate man who does his best to stay informed and opinionated about current affairs and from the point of view of someone with direct experience with China's foreign institutions and their efforts to, in the words of current General Secretary [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping), "open China's doors wider" [(19th National Congress speech)](http://www.xinhuanet.com/english/special/19cpcnc/documents.htm).
 
-This is, thusly, both an opinion piece and a joint critique of both [Kerry Brown](https://www.kcl.ac.uk/people/kerry-brown)'s [Xi: A Study in Power](https://www.amazon.com/Xi-Study-Power/dp/1785788086) and [Elizabeth C. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s [The Third Revolution: Xi Jinping and the New Chinese State](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071). I will directly compare both books on specific points before giving my opinion about them. Both Dr. Brown and Ms. Economy's points of view seem to, more often than not, draw a contrasted overall image of the same truth, which will be of much use to express my own opinions comparatively.
+This is, thusly, both an opinion piece and a joint critique of both [Kerry Brown](https://www.kcl.ac.uk/people/kerry-brown)'s [Xi: A Study in Power](https://www.amazon.com/Xi-Study-Power/dp/1785788086) and [Elizabeth C. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s [The Third Revolution: Xi Jinping and the New Chinese State](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071). I will directly compare both books on specific points before giving my opinion about them. Both Dr. Brown and Dr. Economy's points of view seem to, more often than not, draw a contrasted overall image of the same truth, which will be of much use to express my own opinions comparatively.
 
 ## Leadership and Power
 
@@ -28,14 +28,14 @@ Dr. Brown portrays [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) as a l
 
 Brown argues that Xi's ability to create sustainable power is a mix of both strategic appointments within the Party and building a cult-like influence, using the anti-corruption campaign almost exclusively as a means to destroy opposition.
 
-This very line of thought, however, is what his contemporary Ms. Economy strictly refutes in her [presentation at Victoria University Wellington](https://www.youtube.com/watch?v=OnBBJ6dXsu4&list=LL&index=1).
+This very line of thought, however, is what his contemporary Dr. Economy strictly refutes in her [presentation at Victoria University Wellington](https://www.youtube.com/watch?v=OnBBJ6dXsu4&list=LL&index=1).
 
 #### "People often ask if Xi Jinping's anti-corruption campaign is really just a mechanism for him to eliminate his political enemies or if it is legitimate, and I think it's clearly both... Xi Jinping does not have 620,000 political enemies; this is a legitimate effort to clean up the Communist Party."​
 (*[Economy](https://www.hoover.org/profiles/elizabeth-economy)*, 2019).
 
 **My thoughts:** [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) has continuously used the metaphor of a relay race, a predecessor must prepare the baton properly before passing it to another. [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) is, then, simply the logical continuation of what [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) and [Hu Jintao](https://en.wikipedia.org/wiki/Hu_Jintao) have built before him. They both didn't succeed, of course, in completing [Socialism with Chinese Characteristics](https://en.wikipedia.org/wiki/Socialism_with_Chinese_characteristics). However, Xi does credit them in the first volume of [The Governance of China](https://en.wikipedia.org/wiki/The_Governance_of_China) as both proper carriers of this metaphorical baton.
 
-While the narrative that was built could be questioned, Ms. Economy herself argues that she doesn't believe we are currently seeing the formation of a life-long one-man rule:
+While the narrative that was built could be questioned, Dr. Economy herself argues that she doesn't believe we are currently seeing the formation of a life-long one-man rule:
 
 #### "He can now hold the three most important positions—General Secretary of the Communist Party, President of the country, and Chairman of the Central Military Commission—for life, although I don't expect him to do that."
 (*[Economy](https://www.hoover.org/profiles/elizabeth-economy)*, 2019).
@@ -51,7 +51,7 @@ Dr. Brown continues his analysis of [Xi Jinping](https://en.wikipedia.org/wiki/X
 
 Brown sees Xi as prioritizing the Party's survival above all else, even at the expense of individual freedoms. The internal power dynamics of China, he argues, are fundamentally about preserving this status quo of control and preventing any disruption that could weaken the Party’s grip on power.
 
-On the other hand, Ms. Economy focuses more on Xi’s global ambitions and how his domestic consolidation of power is a stepping stone for projecting China’s influence abroad. Xi’s policies, Economy argues, are as much about exporting China’s model as they are about preserving internal stability.
+On the other hand, Dr. Economy focuses more on Xi’s global ambitions and how his domestic consolidation of power is a stepping stone for projecting China’s influence abroad. Xi’s policies, Economy argues, are as much about exporting China’s model as they are about preserving internal stability.
 
 #### "Xi Jinping has made it clear that his vision for China extends beyond its borders... He seeks to project the current Chinese political and economic development model globally."
 (*[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)*, p. 112).
@@ -71,7 +71,7 @@ Dr. Brown portrays [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) as a l
 
 Brown highlights that while Xi may speak the language of reform, his actual policies reflect a more conservative approach focused on reinforcing Party control rather than embracing substantial change. Xi’s emphasis on nationalism, loyalty, and Party ideology indicates that he is more concerned with continuity than true reform.
 
-In contrast, Ms. Economy argues that [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s leadership represents a new kind of reform. She highlights how Xi’s policies are transforming China’s internal and external landscapes, breaking from [Deng Xiaoping's](https://en.wikipedia.org/wiki/Deng_Xiaoping) mantra of “keeping a low profile.” Xi’s “[Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)” involves reshaping China’s domestic governance while simultaneously redefining its global role.
+In contrast, Dr. Economy argues that [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s leadership represents a new kind of reform. She highlights how Xi’s policies are transforming China’s internal and external landscapes, breaking from [Deng Xiaoping's](https://en.wikipedia.org/wiki/Deng_Xiaoping) mantra of “keeping a low profile.” Xi’s “[Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)” involves reshaping China’s domestic governance while simultaneously redefining its global role.
 
 #### "Xi’s Third Revolution represents a significant break from the past... He seeks to create a more assertive and expansive China, one that is increasingly authoritarian at home but also more engaged in shaping the global order."
 (*[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)*, p. 150).
@@ -91,7 +91,7 @@ Dr. Brown sees [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)'s economic
 
 Brown argues that while China’s economic rise is significant, Xi’s policies are designed to ensure that this growth reinforces the Party’s dominance. The emphasis is on managing internal risks, preventing economic crises, and using state control to guide development in a way that secures political stability.
 
-Ms. Economy, on the other hand, emphasizes that [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s economic strategy is part of a broader effort to project China’s power globally. She argues that initiatives like the [Belt and Road](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative) are not just about economic expansion but about reshaping global norms and extending China’s influence in key regions.
+Dr. Economy, on the other hand, emphasizes that [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s economic strategy is part of a broader effort to project China’s power globally. She argues that initiatives like the [Belt and Road](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative) are not just about economic expansion but about reshaping global norms and extending China’s influence in key regions.
 
 #### "The Belt and Road Initiative is emblematic of Xi’s broader vision for China’s economic power... It is a tool for extending Chinese influence globally, reshaping the rules of the game, and positioning China as a global leader."
 (*[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)*, p. 203).
@@ -106,7 +106,7 @@ Xi’s vision is not just about growing China’s economy but about positioning 
 
 Both [Kerry Brown](https://www.kcl.ac.uk/people/kerry-brown)’s *[Xi: A Study in Power](https://www.amazon.com/Xi-Study-Power/dp/1785788086)* and [Elizabeth Economy](https://www.hoover.org/profiles/elizabeth-economy)’s *[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)* offer valuable insights into the complex and multifaceted nature of [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s leadership. Brown provides a detailed analysis of Xi’s efforts to consolidate power within China, portraying him as a leader focused primarily on internal stability and maintaining the Party’s dominance. His work highlights the more conservative aspects of Xi’s leadership, emphasizing continuity over radical reform.
 
-*In contrast, Economy’s analysis presents Xi as a transformative figure*, whose leadership extends beyond China’s borders. Her depiction of Xi’s “[Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)” showcases his ambition to reshape the global order, using both economic and political power to export China’s model and influence international norms. Economy’s work underscores Xi’s role as a global strategist, one who is redefining China’s place in the world.
+*In contrast, Economy’s analysis presents Xi as a transformative figure*, whose leadership extends beyond China’s borders. Her depiction of Xi’s “[Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)” showcases his ambition to reshape the global order, using both economic and political power to export China’s model and influence international norDr. Economy’s work underscores Xi’s role as a global strategist, one who is redefining China’s place in the world.
 
 *Ultimately*, I believe both [Brown](https://www.kcl.ac.uk/people/kerry-brown) and [Economy](https://www.hoover.org/profiles/elizabeth-economy) capture essential aspects of [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)’s leadership. Brown’s focus on domestic control highlights the importance of stability and continuity in Xi’s approach, while Economy’s emphasis on global ambition reflects the broader significance of Xi’s policies on the world stage. Xi’s leadership is about balancing these two forces—ensuring that China remains stable and powerful at home while positioning it as a global leader.
 
@@ -114,4 +114,4 @@ From my perspective, *[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) rep
 
 
 P.S: It is my belief that, while both authors are experts on the question of Chinese policy, they certainly are very US foreign policy centric.
-It would most definitely be a refreshing experience to see these authors break the mold and taking a more independant stance, this is especially true for [Ms. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s Third Revolution.
+It would most definitely be a refreshing experience to see these authors break the mold and taking a more independant stance, this is especially true for [Dr. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s Third Revolution.
