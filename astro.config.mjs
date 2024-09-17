@@ -3,18 +3,14 @@ import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 
-import vercel from "@astrojs/vercel/serverless";
-
 // https://astro.build/config
 export default defineConfig({
   site: "https://new-ui.com/templates/journal",
   trailingSlash: "never",
-
   prefetch: {
     prefetchAll: true,
     defaultStrategy: "viewport",
   },
-
   integrations: [
     mdx({
       syntaxHighlight: "shiki",
@@ -25,7 +21,5 @@ export default defineConfig({
     sitemap(),
     react(),
   ],
-
-  output: "server",
-  adapter: vercel(),
+  output: "static",
 });
