@@ -237,7 +237,6 @@ h3 {
     margin-top: 0;
     vertical-align: baseline;
 }
-
 h1 { font-size: 3.625rem; line-height: 4rem; letter-spacing: -0.075rem; }
 h2 { font-size: 2.813rem; line-height: 3.25rem; letter-spacing: -0.05rem; }
 h3 { font-size: 1.75rem; line-height: 2.625rem; letter-spacing: -0.05rem; }
@@ -246,6 +245,7 @@ h2 + p,
 h3 + p {
     margin-top: var(--spacing-06);
 }
+
 p {
     font-size: 1.375rem;
     line-height: 2.125rem;
@@ -257,10 +257,10 @@ p {
     -ms-hyphens: auto;
     orphans: 3;
     widows: 3;
+    margin-top: 0;
 }
 
 @media screen and (max-width: 768px) {
-
     h1 {
         font-size: 2.8rem;
     }
@@ -268,16 +268,20 @@ p {
         font-size: 2.5rem; 
     }
 }
+
 article {
     margin-bottom: var(--spacing-08);
 }
-article > p:first-of-type::first-line {
-    font-family: var(--serif-sc);
+
+article > p:nth-of-type(2) {
+    text-indent: var(--spacing-13); /* Alinéa pour le deuxième paragraphe */
+    margin-top: var(--spacing-06); /* Ajout de marge pour le deuxième paragraphe */
 }
+
 article > p {
-    text-indent: var(--spacing-13);
     margin-top: var(--spacing-06);
 }
+
 p.summary {
     font-family: var(--sans-serif-regular);
     font-size: 1.188rem;
@@ -287,6 +291,7 @@ p.summary {
     margin-top: var(--spacing-05);
     margin-bottom: var(--spacing-06);
 }
+
 p.post-summary {
     font-family: var(--sans-serif-regular);
     font-size: 1.375rem;
@@ -295,10 +300,11 @@ p.post-summary {
     letter-spacing: -0.011em;
     margin-top: var(--spacing-06);
     margin-bottom: var(--spacing-06);
-
-    box-decoration-break:clone;
-    -webkit-box-decoration-break:clone;
+    
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
+
 
 @supports (font-variant-alternates: stylistic(salt)) {
     p {
