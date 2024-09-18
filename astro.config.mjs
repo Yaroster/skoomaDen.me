@@ -5,7 +5,7 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://new-ui.com/templates/journal",
+  site: "https://skoomaden.me",
   trailingSlash: "never",
   prefetch: {
     prefetchAll: true,
