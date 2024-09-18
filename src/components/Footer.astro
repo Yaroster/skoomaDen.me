@@ -1,18 +1,9 @@
 ---
-import type { HTMLAttributes } from 'astro/types'
-
-type Props = HTMLAttributes<'footer'>
-
-const { ...attrs } = Astro.props
-
-const year = new Date().getFullYear()
-
-const { website, author } = Astro.locals.config
+import { FOOTER_CONTENT } from "../config";
 ---
 
-<footer font-bold text-3 un-flex="~ col gap-1" un-lg="gap-3.5" {...attrs}>
-  <p>
-    © {year}
-    <a target="_blank" href="https://yaroster.com" rel="noopener noreferrer">{"yaroster"}</a>
-  </p>
+<footer>
+    <p><mark>
+      {FOOTER_CONTENT}
+    </mark></p>
 </footer>
