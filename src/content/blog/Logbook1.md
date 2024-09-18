@@ -6,6 +6,7 @@ description: "My 10-day trip to China was a whirlwind of stories, tea, and new e
 cover: "/covers/cover-03.png"
 ---
 
+<br>
 ## Day 1: Arrival in Beijing
 
 ![](image-37.png)
@@ -24,7 +25,9 @@ It was definitely a surprising experience at first, but as the trip went on, I c
 
 At 3 am, I was finally able to get some well-deserved shut-eye, the jet lag having gotten the best of me.
 <br><br>
+<br>
 ## Day 2: 您好北京!
+<br>
 ### Hello Beijing!
 
 ![](image-38.png)
@@ -66,6 +69,7 @@ I didn't want most of my travel budget to disappear, however; this *was* the fir
 
 And a show I got, friends, at the 老舍 Teahouse! I would love to show you some footage of what the show is like, but out of respect for the incredible late-night show's artists, I would much rather you explore this if you ever go to Beijing. Trust me, the almost magical jasmine tea mixed with the theatrical shows is absolutely worth your money (don't forget to buy some jasmine tea from the gift shop!).
 <br><br>
+<br>
 ## Day 3: Tiananmen and Pandas 🐼!
 
 Getting into the historic [Gate of Heavenly Peace](https://en.wikipedia.org/wiki/Tiananmen_Square) (天安门广场) now requires reservations at least a day prior. Thankfully, before midnight, in bed, my brain suddenly remembered that, and I booked for the very next day.
@@ -78,6 +82,7 @@ After arriving at the square, I walked into the [Meridian Gate](https://en.wikip
 
 I kept walking to the left of the [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate) and exited through 东华门 _(Dōnghuámén)_, literally the Eastern Chinese Gate, and went outside to get a taxi.
 
+<br>
 #### _N.B: Interestingly, I knew 华 (huá) as meaning glorious or magnificent, as well as, due to its similarity to the character 花 (huā), flower. It seems, however, that it also refers to China (ex: 华人 | Chinese People，中华 | Chinese Nation)._
 
 ![](image-47.png)
@@ -86,6 +91,7 @@ I arrived at the entrance of the Beijing Zoo. This was part of my previous trip 
 
 ![](image-48.png)
 <br><br>
+<br>
 ## Day 4: Beihai Park and Performing Arts!
 
 ![](image-49.png)
@@ -131,6 +137,7 @@ This place was huge! I couldn't find any translated Chinese Opera shows, but I d
 
 Getting home was a matter of taking the metro connected to the NCPA and stopping at Majiapu!
 <br><br>
+<br>
 ## Day 5: Capital Museum!
 
 On the 5th day, I decided to take a much freer approach to my day by exploring a place I had seen before but that would still be an entire day's worth of entertainment.
@@ -154,6 +161,7 @@ There's lots to say about the Museum's structure and scale. It starts at the bir
 
 This is definitely a must-see for any Chinese history fan! I of course took many more pictures, but in an attempt to keep enough surprises for you in case you wish to visit, I have only shown what I found most interesting.
 <br><br>
+<br>
 ## Day 6: Jade Market and Temple of Heaven!
 
 ![](<Group 1.png>)
@@ -186,6 +194,7 @@ The park itself is gigantic, and the [Temple of Heaven](https://en.wikipedia.org
 
 These photos are only a fraction of all of the intricate art and design contained within the Imperial walls. And even at that time, I understood that the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) had significantly more curiosities to share with us later on.
 <br><br>
+<br>
 ## Day 7: 798 and CapitaMall!
 
 Of all the places I went to when I first came to Beijing, the [798 Art Zone](https://en.wikipedia.org/wiki/798_Art_Zone) was most definitely the most memorable of the bunch. I specifically remember thinking about how peaceful the artists seemed, painting in their workshops surrounded by the winter air.
@@ -227,6 +236,7 @@ After having some spicy beef noodles and getting some gifts for my friends, I we
 
 ![](<Group 1-10.png>)
 <br><br>
+<br>
 ## Day 8: Parkview Green and Zhongguancun!
 
 Being as impressed as I was by the CapitaMall, I looked up the best malls in Beijing, and a common name was [Parkview Green](https://parkviewgreen.com/en/). I also wanted to get myself a cheap phone, and for that, no looking up was needed—I knew exactly where I had to go.
@@ -245,6 +255,7 @@ I walked quite a bit, but the mall was huge in scale. I hope the pictures captur
 
 ![](<Group 1-14.png>)
 <br><br>
+<br>
 ## Day 9: The Great Wall of China!
 
 ![](image-64.png)
@@ -267,6 +278,7 @@ After 3 hours of exhaustion and feeling a bit faint, I thought it was wiser for 
 
 ![](<Group 1-17.png>)
 <br><br>
+<br>
 ## Last Day: Donghuamen Subdistrict and Forbidden City!
 
 This is it, the last day.
