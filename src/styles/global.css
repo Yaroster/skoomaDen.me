@@ -477,8 +477,8 @@ footer p {
         font-size: 1.5rem;
         line-height: 1.375rem;
         margin-top: 0.2rem;
-        font-family: fantasy;
-        }
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
     nav ul {
         gap: 0.5rem;
     }
