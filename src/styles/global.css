@@ -222,7 +222,6 @@ h3 {
     color: var(--text-primary);
     margin-block-start: 1.875rem;
     font-variant-ligatures: no-common-ligatures;
-    font-smooth: antialiased;
     -webkit-font-smoothing: antialiased;
     margin-bottom: -0.27em;
     margin-top: 0;
