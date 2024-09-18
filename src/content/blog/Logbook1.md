@@ -7,6 +7,7 @@ cover: "/covers/cover-03.png"
 ---
 
 <br>
+
 ## Day 1: Arrival in Beijing
 
 ![](image-37.png)
@@ -27,7 +28,6 @@ At 3 am, I was finally able to get some well-deserved shut-eye, the jet lag havi
 <br><br>
 <br>
 ## Day 2: 您好北京!
-<br>
 ### Hello Beijing!
 
 ![](image-38.png)
@@ -81,8 +81,8 @@ After arriving at the square, I walked into the [Meridian Gate](https://en.wikip
 ![](image-46.png)
 
 I kept walking to the left of the [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate) and exited through 东华门 _(Dōnghuámén)_, literally the Eastern Chinese Gate, and went outside to get a taxi.
-
 <br>
+
 #### _N.B: Interestingly, I knew 华 (huá) as meaning glorious or magnificent, as well as, due to its similarity to the character 花 (huā), flower. It seems, however, that it also refers to China (ex: 华人 | Chinese People，中华 | Chinese Nation)._
 
 ![](image-47.png)
