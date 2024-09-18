@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Gas Minis by white2tea."
 ---
 
-# Review of 2024 Gas Minis by white2tea
-
 Oooh this is a tea I’ve been waiting for. One of the cheaper offerings from white2tea, yet it sounds like one of the most interesting ones too.
 
 ![](image-24.png)

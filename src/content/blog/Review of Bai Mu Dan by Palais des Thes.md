@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Bai Mu Dan by Palais des Thés"
 ---
 
-# Review of Bai Mu Dan by Palais des Thés
-
 ![Bai Mu Dan](img_4.png)
 
 Preparation:

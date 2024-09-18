@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Sencha Ariake by Palais des Thés"
 ---
 
-# Review of Sencha Ariake by Palais des Thés
-
 I recently tried Sencha Ariake, a green tea from Palais des Thés. Here's my detailed review of the experience:
 
 Preparation:

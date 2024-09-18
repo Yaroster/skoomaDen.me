@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Grand Jasmin Mao Feng by Palais des Thés"
 ---
 
-# Review of Grand Jasmin Mao Feng by Palais des Thés
-
 ![](249-35707-bd3y9mplxo-removebg-preview.png)
 
 I recently tried Grand Jasmin Mao Feng, a jasmine tea from Palais des Thés. Here's my detailed review of the experience:

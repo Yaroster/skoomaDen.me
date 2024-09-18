@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Grand Yunnan Impérial by Palais des Thés"
 ---
 
-# Review of Grand Yunnan Impérial by Palais des Thés
-
 ![Grand Yunnan Impérial](https://us.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/2/2/220-34816-wmr7f3mou6.jpg)
 
 I recently tried Grand Yunnan Impérial, a black tea from Palais des Thés. Here's my detailed review of the experience:

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Chaï Impérial by Palais des Thés"
 ---
 
-# Review of Chaï Impérial by Palais des Thés
-
 ![](771-34801-v9p8uywm6p-removebg-preview.png)
 
 I recently tried Chaï Impérial, a masala chai blend from Palais des Thés. Here's my detailed review of the experience:

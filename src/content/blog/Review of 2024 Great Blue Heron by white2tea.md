@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of 2024 Great Blue Heron Minis by white2tea"
 ---
 
-# Review of 2024 Great Blue Heron by white2tea
-
 ![](image-7.png)
 ![](image-6.png)
 

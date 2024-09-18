@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé des Moines by Palais des Thés"
 ---
 
-# Review of Thé des Moines by Palais des Thés
-
 ## Preparation
 
 - **Temperature:** 175°F / 79°C

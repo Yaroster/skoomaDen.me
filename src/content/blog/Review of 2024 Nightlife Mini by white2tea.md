@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Nightlife Mini by white2tea."
 ---
 
-# Review of 2024 Nightlife Mini by white2tea
-
 New Nightlife review, let’s see how this year’s batch holds up.
 
 ![](image-31.png)

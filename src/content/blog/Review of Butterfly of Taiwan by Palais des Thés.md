@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Butterfly of Taiwan by Palais des Thés."
 ---
 
-# Review of Butterfly of Taiwan by Palais des Thés
-
 I recently tried Butterfly of Taiwan from Palais des Thés.
 
 ![](267_1-removebg-preview.png)

@@ -5,8 +5,6 @@ tags: ['Tea Review']
 description: "Review of a mysterious green tea I was gifted recently"
 ---
 
-# Review of a mysterious green tea I was gifted recently
-
 Today, My Chinese neighbour that knows I happen to love tea very much gifted me this very fresh and young green tea he got.
 
 ![](<file (7).png>)

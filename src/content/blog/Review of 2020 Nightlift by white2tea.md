@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of 2020 Nightlife by white2tea."
 ---
 
-# Review of 2020 Nightlife by white2tea
-
 After much anticipation, I've finally had the chance to dive into white2tea's 2020 Nightlife. Here's my detailed review of this intriguing white tea:
 
 ![2020 Nightlife](cake.png)

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of 2024 Spring Old Arbor Raw Puer by white2tea."
 ---
 
-# Review of 2024 Spring Old Arbor Raw Puer by white2tea
-
 This 2024 Spring Old Arbor Raw Puer recently arrived in my mail for the May Tea Club (w2t) ! 
 Here’s my review of this young puer:
 

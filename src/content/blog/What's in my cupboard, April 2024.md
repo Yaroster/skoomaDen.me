@@ -4,15 +4,8 @@ date: 2024-04-25
 tags: ['Cupboard']
 description: 'An overview of the teas I drank in April 2024 !'
 ---
-
-
-# What's in my cupboard, April 2024
-
   
-
 ## Introduction
-
-  
 
 What a month!
 

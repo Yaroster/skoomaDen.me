@@ -5,8 +5,6 @@
   description: 'Here are some of the teas that are arriving in May !'
 ---
 
-# Teas arriving in May !
-
 Here are some of the teas that are arriving in May !
 
 ## 2020 Nightlife from white2tea

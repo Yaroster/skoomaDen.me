@@ -5,8 +5,6 @@
   description: 'Many minis oh so many minis, my credit card is screaming "Help me !"'
 ---
 
-# Teas arriving in July !
-
 Alright, you guys hold on tight because this is gonna be a long one.
 
 white2tea recently updated their tea linups with teas that as always, we should not judge by their oh so beautiful covers, even if it is incredibly hard.

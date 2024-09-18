@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé du Louvre Cote Jardin by Palais des Thés"
 ---
 
-# Review of Thé du Louvre Cote Jardin by Palais des Thés
-
 ![Thé du Louvre Cote Jardin](teaset_thedulouvre.png)
 
 Preparation:

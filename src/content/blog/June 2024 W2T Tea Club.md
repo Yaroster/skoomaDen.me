@@ -5,8 +5,6 @@
   description: 'Well this came in early'
 ---
 
-# White2tea Tea Club — June 2024 ! 
-
 Just recieved the June 2024 Tea Club in the mail !
 
 Here's what Paul wrote:

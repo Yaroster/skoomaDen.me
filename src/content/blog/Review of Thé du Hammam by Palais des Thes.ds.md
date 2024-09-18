@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé du Hammam by Palais des Thés"
 ---
 
-# Review of Thé du Hammam by Palais des Thés
-
 I recently tried Thé du Hammam, a tea blend from Palais des Thés. Here's my detailed review of the experience:
 
 ## Preparation

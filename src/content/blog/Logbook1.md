@@ -5,8 +5,6 @@ tags: ['Logbook']
 description: "My 10-day trip to China was a whirlwind of stories, tea, and new experiences. Here's a logbook of my adventures."
 ---
 
-# China Logbook: 10 Days of Stories and Tea
-
 ## Day 1: Arrival in Beijing
 
 ![](image-37.png)

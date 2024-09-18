@@ -5,8 +5,6 @@ tags: ['Tea Review']
 description: "Review of a mysterious White Pu Erh Brick"
 ---
 
-# Review of White Pu Erh Brick
-
 I recently discovered a tea curiosity labeled as "White Pu Erh Brick." The packaging was minimalist, almost bare, with the brick itself resembling a chocolate bar, each "bar" weighing 30g. Intrigued, I spent nearly 20 Euros for a 150g total.
 
 ## Preparation

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of 2018 Turtle Dove by white2tea"
 ---
 
-# Review of 2018 Turtle Dove by white2tea
-
 ![2018 Turtle Dove](image-1.png)
 ![2018 Turtle Dove](image-5.png)
 

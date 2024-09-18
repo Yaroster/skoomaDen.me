@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Le Temps Retrouvé by Palais des Thés."
 ---
 
-# Review of Le Temps Retrouvé by Palais des Thés
-
 I recently tried Le Temps Retrouvé from Palais des Thés.
 
 ![](7080__1_-removebg-preview.png)

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Moon Bear Minis by white2tea."
 ---
 
-# Review of 2024 Moon Bear Minis by white2tea
-
 I recently tried the 2024 Moon Bear Minis from white2tea.
 
 ![](image-13.png)

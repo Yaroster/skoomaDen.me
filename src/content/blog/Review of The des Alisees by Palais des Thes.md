@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé des Alizés by Palais des Thés"
 ---
 
-# Review of Thé des Alizés by Palais des Thés
-
 ![](862-42161-k6kurnbkdj-removebg-preview.png)
 
 I recently tried Thé des Alizés, a tea blend from Palais des Thés. Here's my detailed review of the experience:

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Jejudo Impérial by Palais des Thés."
 ---
 
-# Review of Jejudo Impérial by Palais des Thés
-
 I recently got myself lots of [samples](https://skoomaden.me/posts/new-palais-des-thes-samples-/) from Palais des Thés.
 
 ![](<file (12).png>)

@@ -5,8 +5,6 @@ tags: ['Tea Review', 'white2tea']
 description: "Review of 2024 5th Wave by white2tea"
 ---
 
-# Review of 2024 5th Wave by white2tea
-
 ![](file.png)
 ![](<file (1).png>)
 
