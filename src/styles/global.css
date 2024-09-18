@@ -197,16 +197,22 @@ nav a:hover {
     letter-spacing: 0.025rem;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-    @supports (not (-ms-accelerator:true))
-      and (not (-moz-appearance:none)) {
-        a.logo span{
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @supports (not (-ms-accelerator: true)) and (not (-moz-appearance: none)) {
+        a.logo span {
             margin-top: 0.2rem;
             font-size: 1.7rem;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-weight: 400; /* Normal weight */
         }
-    }   }
+        h1 {
+            font-size: 2.8rem;
+        }
+        h2 {
+            font-size: 2.3rem;
+        }
+    }
+}
 
 
 em {
@@ -251,6 +257,16 @@ p {
     -ms-hyphens: auto;
     orphans: 3;
     widows: 3;
+}
+
+@media screen and (max-width: 768px) {
+
+    h1 {
+        font-size: 2.8rem;
+    }
+    h2 {
+        font-size: 2.5rem; 
+    }
 }
 article {
     margin-bottom: var(--spacing-08);
