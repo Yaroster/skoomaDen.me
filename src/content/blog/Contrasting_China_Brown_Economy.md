@@ -6,8 +6,6 @@ description: "A joint review of both Dr. Brown and Dr. Economy's most recent boo
 cover: "/covers/cover-04.png"
 ---
 
-![](image-35.png)
-
 ## About legitimacy...
 
 Before anything, I would like to clarify certain points and biases I have concerning these books for transparency.
