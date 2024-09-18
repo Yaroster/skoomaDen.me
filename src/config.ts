@@ -1,5 +1,5 @@
-export const SITE_FAVICON = "/favicon.svg";
-export const SITE_LOGO = "/favicon.svg";
+export const SITE_FAVICON = "favicon.svg";
+export const SITE_LOGO = "favicon.svg";
 export const SITE_TITLE = "skoomaDen";
 export const SITE_DESCRIPTION =
   "Blog";
