@@ -8,9 +8,9 @@ description: "It's 6 am, made myself some Chai Latte and thinking about the eter
 It's 6 am, made myself some Chai Latte and thinking about the eternal quest for success.  
 Or at least, thinking about my very own, I've never been very good with this whole "Philosophy" thing, but I do like to share some personal experiences from time to time, and since I never had a platform of my own to do so, I just decided to make my own.  
 
-So buckle up, and make yourself a Chai Latte too if you still got some, because we're going to talk about success, and how it's not always what it seems.  
+![](chai.png)
 
-![](image.png)
+So buckle up, and make yourself a Chai Latte too if you still got some, because we're going to talk about success, and how it's not always what it seems.  
 
 ## How it always starts, and how it never ends.
 
