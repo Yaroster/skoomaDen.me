@@ -21,6 +21,7 @@
     font-display: swap;
 }
 
+
 @font-face {
     font-family: "12aiisc";
     src: url("/fonts/12aiisc.woff") format("woff"),
@@ -200,7 +201,10 @@ nav a:hover {
     @supports (not (-ms-accelerator:true))
       and (not (-moz-appearance:none)) {
         a.logo span{
-            margin-top: -0.5rem;
+            margin-top: 0.2rem;
+            font-size: 1.7rem;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-weight: 400; /* Normal weight */
         }
     }   }
 
@@ -468,9 +472,11 @@ footer p {
         gap: var(--spacing-03);
     }
     a.logo span{
-        font-size: 1.375rem;
+        font-size: 1.5rem;
         line-height: 1.375rem;
-    }
+        margin-top: 0.2rem;
+        font-family: fantasy;
+        }
     nav ul {
         gap: 0.5rem;
     }
