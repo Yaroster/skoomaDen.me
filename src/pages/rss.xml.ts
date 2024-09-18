@@ -10,7 +10,7 @@ export async function GET(context: any) {
     site: context.site,
     items: posts.map((post) => ({
       ...post.data,
-      date: new Date(post.data.date),
+      pubDate: new Date(post.data.date),
       link: `/blog/${post.slug}/`,
     })),
   });
