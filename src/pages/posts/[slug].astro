@@ -31,13 +31,11 @@ const { title, description, date, tags, cover } = post.data;
       <DateTag date={post.data.date} />
       {post.data.tags?.map((tag) => <Tag tag={tag} />)}
     </div>
-    {
-      post.data.cover && (
-        <figure class="cover-image">
+    {post.data.cover && (
+      <figure class="cover-image">
         <img src={`${post.data.cover}?w=1200&q=80`} alt="cover" />
-        </figure>
-      )
-    }
+      </figure>
+    )}
   </div>
   <article>
     <PostContent post={post} />
