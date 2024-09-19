@@ -4,7 +4,7 @@ import { MENUS } from "../config";
 
 <ul>
   {
-    MENUS.map((item) => (
+    MENUS.map((item: { link: string, title: string }) => (
       <li><a href={item.link}>
         {item.title}
       </a></li>

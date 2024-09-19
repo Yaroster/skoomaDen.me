@@ -380,6 +380,8 @@ figure.cover-image {
 
 blockquote {
     padding-left: var(--spacing-09);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 blockquote > p{
