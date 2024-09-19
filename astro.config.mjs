@@ -3,7 +3,6 @@ import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 
-// https://astro.build/config
 export default defineConfig({
   site: "https://skoomaden.me",
   trailingSlash: "never",
@@ -22,4 +21,10 @@ export default defineConfig({
     react(),
   ],
   output: "static",
+  images: {
+    sharp: {
+      quality: 75,
+      format: 'webp',
+    },
+  },
 });
