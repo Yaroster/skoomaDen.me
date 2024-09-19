@@ -1,7 +1,12 @@
 ---
 import Layout from "../components/layout.astro";
 import PostListing from "../components/post/post-list.astro";
-import { posts } from "../helpers";
+import SlugList from "../components/slug-list.astro";
+
+import { posts, tags } from "../helpers";
 ---
 
-<Layout><PostListing posts={posts} /></Layout>
+<Layout>
+  <SlugList slugs={tags} generateLink={(slug) => `/tags/${encodeURI(slug)}`} />
+  <PostListing posts={posts} />
+</Layout>

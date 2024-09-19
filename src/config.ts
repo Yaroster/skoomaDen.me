@@ -5,16 +5,7 @@ export const SITE_DESCRIPTION =
   "Welcome to the Skooma Den !";
 
 export const MENUS = [
-  {
-    title: "Posts",
-    link: "/posts",
-    target: "_self",
-  },
-  {
-    title: "Tags",
-    link: "/tags",
-    target: "_self",
-  },
+
 ];
 
 export const FOOTER_CONTENT = "© 2024 Yaroster. All rights reserved.";
