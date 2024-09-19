@@ -197,6 +197,7 @@ nav a:hover {
     letter-spacing: 0.025rem;
 }
 
+  
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @supports (not (-ms-accelerator: true)) and (not (-moz-appearance: none)) {
         a.logo span {
@@ -213,6 +214,29 @@ nav a:hover {
         }
     }
 }
+
+a.logo {
+    font-size: 1.7rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    display: flex; /* Flexbox to align elements side by side */
+    align-items: center; /* Vertically center both img and span */
+    justify-content: center; /* Horizontally center them in the container */
+    text-align: center;
+    margin: 0 auto; /* Center the a.logo container */
+}
+
+a.logo img {
+    display: block;
+    margin-right: -0.2rem; /* Space between the image and the text */
+}
+
+a.logo span {
+    margin: 0; /* Remove any margins that might push it out of alignment */
+}
+
+
+  
 
 
 em {
@@ -499,7 +523,6 @@ footer p {
     }
     a.logo span{
         font-size: 1.5rem;
-        line-height: 1.375rem;
         margin-top: 0.2rem;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
