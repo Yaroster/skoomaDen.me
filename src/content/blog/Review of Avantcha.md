@@ -66,6 +66,7 @@ I’ve been to more than a few teahouses, from **[TWG](https://twgtea.com/)** to
 <br>
 And then, there’s the teaware. Elegantly designed, no doubt, but perhaps a touch too ambitious in terms of price. While the teaware fits beautifully into the space and adds to the overall atmosphere, the cost seemed a bit out there—especially for those looking for something practical to take home. It’s a lovely addition for those who value quality equipement, but knowing that tea-lovers usually enjoy intricate handmade designs I have to ask: who is this shop's target audience.<br>
 <br>
+![](image-89.png)
 I seem to already have the answer, certainly me. As unbiased as I wish to be during this review, I cannot fail to admit I have found this shop to hit a string witin my heart. This all resembles my own aesthetics and goals in tea too much not to say out loud that [Avantcha](https://avantcha.com/) is the region's finest tea maker without a doubt.<br>
 <br>
 ## Personal Impressions<br>
