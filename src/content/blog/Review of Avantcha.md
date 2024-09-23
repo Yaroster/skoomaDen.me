@@ -71,7 +71,7 @@ I seem to already have the answer, certainly me. As unbiased as I wish to be dur
 <br>
 ## Personal Impressions<br>
 
-Visiting [Avantcha](https://avantcha.com/) with my girlfriend gave me the added perspective of seeing how someone less entrenched in tea might view the space. While I found myself drawn to the sleek lines and precise details, she felt that the experience was lacking in warmth. The space succeeds in being a visually appealing, expertly curated tea space, but its clinical nature may alienate those seeking a more intimate, interactive experience.<br>
+Visiting [Avantcha](https://avantcha.com/) with my girlfriend gave me the added perspective of seeing how someone less entrenched in tea might view the space. While I found myself drawn to the sleek lines and precise details, she felt that the experience was lacking in warmth. The space succeeds in being a visually appealing, expertly curated tea space.<br>
 ![](image-87.png)
 <br>
 [Avantcha](https://avantcha.com/) is a teahouse that excels in precision, minimalism, and tea craftsmanship. For those who value the purity of form and function—who want their tea experience to be as refined as their surroundings—this is a must-visit. However, for those seeking a more emotional or whimsical connection to tea may find themselves more at home at **[Tania's](https://www.taniasteahouse.com/)** or paying an overpriced tea at **[TWG](https://twgtea.com/)**.<br>
