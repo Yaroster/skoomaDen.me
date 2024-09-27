@@ -27,7 +27,7 @@ With this complex reputation in mind, my first visit to a [TWG](https://twgtea.c
 I visited [TWG](https://twgtea.com) Tea at [Dubai Mall](https://en.wikipedia.org/wiki/Dubai_Mall), which serves as both a teahouse and a teashop. Prices range from 10-30 USD for a 400mL teapot. After being seated next to the fountain, I decided to order two teas strategically, which I will describe as I review them.
 
 ![](image-70.png)
-<br><br>
+
 ## First Tea: Moroccan Mint Tea
 
 As someone from the region, I know [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/) well. This tea served as a benchmark for evaluating [TWG](https://twgtea.com)'s expertise.
@@ -41,7 +41,7 @@ The idea of [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/th
 **My girlfriend:** "It's minty, with just a hint of green tea. Since I’m not a fan of green tea, I didn’t enjoy the bitterness (possibly from the gunpowder base). It’s okay but not remarkable."
 
 **Me:** The mint notes in this tea were faint, much subtler than what I’m accustomed to. Though the staff initially claimed it was Vietnamese Green, I suspected it to be regular Gunpowder, which was later confirmed. With sugar added, the tea became quite interesting. As a Moroccan familiar with mint tea, I found the flavor a bit too mild but appreciated the balance. The preparation was well-executed, though the brew was quite faint.
-<br><br>
+
 ## Second Tea: Singapore Breakfast
 
 The Singapore Breakfast is a staple of [TWG](https://twgtea.com)'s lineup, created to represent the city-state’s diverse identity: Malay, Indian, and Chinese, with spice, malt, and citrus notes.
@@ -51,13 +51,13 @@ The Singapore Breakfast is a staple of [TWG](https://twgtea.com)'s lineup, creat
 **Me:** This tea tasted like an Assam black tea, with the perfumed quality reminiscent of Palais des Thés. Citrus peel and spices provided the body, along with a faint note of red fruit. I initially couldn’t detect cinnamon or vanilla, but adding sugar (which I rarely do) brought out the tea’s fruitiness and made the cinnamon more apparent.
 
 It’s a confusing tea but quite unique. Teas that improve with sugar are rare, and these [TWG](https://twgtea.com) offerings certainly stood out in that respect -- though not necessarily in a positive light.
-<br><br>
+
 ## Loose Tea
 
 ![](1695612756_9f29504ca5bce12a3940.jpg)
 
 A significant portion of the store was dedicated to selling tea by the 50g minimum. I sampled a pleasant licorice tea for about 20¢/g, along with an impressive [Da Hong Pao](https://en.wikipedia.org/wiki/Da_Hong_Pao) (though it was overpriced). The guarantee of its authenticity convinced me, and overall, it wasn’t an unreasonably expensive experience given the [city](https://en.wikipedia.org/wiki/Dubai).
-<br><br>
+
 ## Conclusion
 
 Overall, [TWG](https://twgtea.com) is an improvement over Palais des Thés. A brand that claims high quality and luxury should be judged accordingly.

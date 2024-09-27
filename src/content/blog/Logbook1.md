@@ -6,7 +6,7 @@ description: "My 10-day trip to China was a whirlwind of stories, tea, and new e
 cover: "/covers/cover-03.png"
 ---
 
-<br>
+
 
 ## Day 1: Arrival in Beijing
 
@@ -25,8 +25,8 @@ I decided to book a capsule hostel of sorts, though it was much more traditional
 It was definitely a surprising experience at first, but as the trip went on, I came to love this dorm-like atmosphere. The daily interactions with people in my room and at the reception made me feel at home. And while people in Beijing make a significant effort to accommodate tourists, they also tend to speak Mandarin first (for which I am very grateful) and then try their best to speak some English if they can.
 
 At 3 am, I was finally able to get some well-deserved shut-eye, the jet lag having gotten the best of me.
-<br><br>
-<br>
+
+
 ## Day 2: 您好北京!
 ### Hello Beijing!
 
@@ -68,8 +68,8 @@ I didn't want most of my travel budget to disappear, however; this *was* the fir
 ![](image-44.png)
 
 And a show I got, friends, at the 老舍 Teahouse! I would love to show you some footage of what the show is like, but out of respect for the incredible late-night show's artists, I would much rather you explore this if you ever go to Beijing. Trust me, the almost magical jasmine tea mixed with the theatrical shows is absolutely worth your money (don't forget to buy some jasmine tea from the gift shop!).
-<br><br>
-<br>
+
+
 ## Day 3: Tiananmen and Pandas 🐼!
 
 Getting into the historic [Gate of Heavenly Peace](https://en.wikipedia.org/wiki/Tiananmen_Square) (天安门广场) now requires reservations at least a day prior. Thankfully, before midnight, in bed, my brain suddenly remembered that, and I booked for the very next day.
@@ -81,7 +81,7 @@ After arriving at the square, I walked into the [Meridian Gate](https://en.wikip
 ![](image-46.png)
 
 I kept walking to the left of the [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate) and exited through 东华门 _(Dōnghuámén)_, literally the Eastern Chinese Gate, and went outside to get a taxi.
-<br>
+
 
 #### _N.B: Interestingly, I knew 华 (huá) as meaning glorious or magnificent, as well as, due to its similarity to the character 花 (huā), flower. It seems, however, that it also refers to China (ex: 华人 | Chinese People，中华 | Chinese Nation)._
 
@@ -90,8 +90,8 @@ I kept walking to the left of the [Meridian Gate](https://en.wikipedia.org/wiki/
 I arrived at the entrance of the Beijing Zoo. This was part of my previous trip with my Mandarin class as well, and I recalled rather well where everything was.
 
 ![](image-48.png)
-<br><br>
-<br>
+
+
 ## Day 4: Beihai Park and Performing Arts!
 
 ![](image-49.png)
@@ -136,8 +136,8 @@ This was formerly a private Imperial Garden attached to the Forbidden City. It h
 This place was huge! I couldn't find any translated Chinese Opera shows, but I decided to see the monthly NCPA choir's show! This was a magical experience to say the least: lots of different languages and cultural songs, a touch of fun at the end with some cartoon openings being sung (which wasn't specified in the planning, so it was extra cool!), and just overall incredible range and talent from everyone involved. The atmosphere was definitely very classy, but not in a bourgeois kind of way. It was more of somewhere you came to well-dressed, which surely was not my case at the time.
 
 Getting home was a matter of taking the metro connected to the NCPA and stopping at Majiapu!
-<br><br>
-<br>
+
+
 ## Day 5: Capital Museum!
 
 On the 5th day, I decided to take a much freer approach to my day by exploring a place I had seen before but that would still be an entire day's worth of entertainment.
@@ -160,8 +160,8 @@ There's lots to say about the Museum's structure and scale. It starts at the bir
 ![](image-60.png)
 
 This is definitely a must-see for any Chinese history fan! I of course took many more pictures, but in an attempt to keep enough surprises for you in case you wish to visit, I have only shown what I found most interesting.
-<br><br>
-<br>
+
+
 ## Day 6: Jade Market and Temple of Heaven!
 
 ![](<Group 1.png>)
@@ -193,8 +193,8 @@ The park itself is gigantic, and the [Temple of Heaven](https://en.wikipedia.org
 ![](<Group 1-4.png>)
 
 These photos are only a fraction of all of the intricate art and design contained within the Imperial walls. And even at that time, I understood that the [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) had significantly more curiosities to share with us later on.
-<br><br>
-<br>
+
+
 ## Day 7: 798 and CapitaMall!
 
 Of all the places I went to when I first came to Beijing, the [798 Art Zone](https://en.wikipedia.org/wiki/798_Art_Zone) was most definitely the most memorable of the bunch. I specifically remember thinking about how peaceful the artists seemed, painting in their workshops surrounded by the winter air.
@@ -235,8 +235,8 @@ What I saw there would be tough to compile, but let's just say my [WeChat Pay](h
 After having some spicy beef noodles and getting some gifts for my friends, I went back home for the day!
 
 ![](<Group 1-10.png>)
-<br><br>
-<br>
+
+
 ## Day 8: Parkview Green and Zhongguancun!
 
 Being as impressed as I was by the CapitaMall, I looked up the best malls in Beijing, and a common name was [Parkview Green](https://parkviewgreen.com/en/). I also wanted to get myself a cheap phone, and for that, no looking up was needed—I knew exactly where I had to go.
@@ -254,8 +254,8 @@ Nearby was ["The Place"](https://www.theplacebeijing.com/), an impressive both o
 I walked quite a bit, but the mall was huge in scale. I hope the pictures capture this as efficiently as my eyes perceived it. The entire mall was built by what seems to be a rich fan of the arts—I mean, there are literal [Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) pieces here. I spent quite some time there before taking a DiDi back home!
 
 ![](<Group 1-14.png>)
-<br><br>
-<br>
+
+
 ## Day 9: The Great Wall of China!
 
 ![](image-64.png)
@@ -277,8 +277,8 @@ I don't think anything could've prepared me for both how beautiful the scenery w
 After 3 hours of exhaustion and feeling a bit faint, I thought it was wiser for me to get back to Majiapu.
 
 ![](<Group 1-17.png>)
-<br><br>
-<br>
+
+
 ## Last Day: Donghuamen Subdistrict and Forbidden City!
 
 This is it, the last day.
@@ -306,7 +306,7 @@ This specific mall was filled with anime merch and shops, and cosplayers filming
 This was my last stop before a rather sad final trip to my hostel, and then to the [Beijing Daxing International Airport](https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport)... I truly did not want to leave, but I had to. 
 
 ![](<Group 1-21.png>)
-<br><br>
+
 # Conclusion
 
 My 10-day adventure in China was an incredible journey filled with cultural immersion, new friendships, and unforgettable experiences. From the historic sites of Beijing to the vibrant markets and peaceful teahouses, every day brought something new to discover. This trip not only rekindled my love for Mandarin but also deepened my appreciation for Chinese culture. Whether it was sipping tea with merchants, walking along the Great Wall, or exploring the hidden gems of the city, each moment added a new story to my logbook. I leave China with a heart full of memories and a strong desire to return, and trust me: I will return ! And this time with much more stories to tell you guys on skoomaDen ! 

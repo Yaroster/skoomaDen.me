@@ -6,7 +6,7 @@ description: "An evaluation of T's Teabar in Abu Dhabi"
 cover: "/covers/cover-01.png"
 ---
 
-I recently went to visit [T's Teabar](https://tsteas.com/en-ae) in Abu Dhabi, I was excited to try a variety of their offerings, particularly the [Milky Oolong](https://en.wikipedia.org/wiki/Jin_Xuan_tea). My initial reaction was positive, but there were some surprising inconsistencies. Below are my thoughts on the teas I sampled, as well as feedback from friends who joined me for the second visit. <br><br>
+I recently went to visit [T's Teabar](https://tsteas.com/en-ae) in Abu Dhabi, I was excited to try a variety of their offerings, particularly the [Milky Oolong](https://en.wikipedia.org/wiki/Jin_Xuan_tea). My initial reaction was positive, but there were some surprising inconsistencies. Below are my thoughts on the teas I sampled, as well as feedback from friends who joined me for the second visit. 
 
 ## The shop itself
 
@@ -17,7 +17,7 @@ The shop itself is one of the most beautiful teashops I've seen in the entire re
 At the very center of the shop, itself located inside one of the older malls of Abu Dhabi, is a selection of around 30 teas. When opening one of the capsules imaged below, A plastic bag is found containing the tea itself. 100g at $30-$50, with a 100G **MINIMUM**, this is incomprehensible, thankfully the prices for in-house drinking are more than acceptable and it seems like their online prices are much, much more resonable and they start at 50g.
 
 ![](image-75.png)
-<br>
+
 ## Round 1
 ### Milky Oolong (First Infusion)
 
@@ -32,7 +32,7 @@ Aerating the tea reveals an unpleasant surprise, hitting the top of the palate w
 It’s unfortunate because this type of tea has so much potential. I’m confident it could be a favorite with better preparation. And it seems from what was told by the staff that it is the one that is the most popular.
 
 My belief is that the constant opening and closing of the tea as well as the somewhat improper storage method could lead to a decreased depth in taste. This is a complaint I address to all tea shops without distinction, but this was an especially saddening case because the overall profile of the tea suggested an ability to show even deeper flavor.
-<br><br>
+
 ## Round 2
 
 ### Milky Oolong (Second Infusion)
@@ -40,21 +40,21 @@ My belief is that the constant opening and closing of the tea as well as the som
 ![](image-78.png)
 
 After consulting with friends and returning later that day, I decided to give the Milky Oolong another shot. This time, I asked for the water temperature to be raised to **90C** and I infused it for 3min, and while it improved slightly, the water still seemed too hard. The flavor was more pronounced, with a lingering aftertaste, but it remained too light and watery. The green tea bitterness, still present, overshadowed the experience. The issue is thus really in the tea itself rather than preparation it seems.
-<br><br>
+
 ### **Berry Tea**
 
 ![](image-76.png)
 
 No dimension in the tea. The front taste is too artificial.
 This tea was extremely disappointing. It tasted like an overly sweet, artificial supermarket red fruits tea. There was no depth, and the aftertaste was almost pungent, even after I tried airing the tea. After a **3-minute infusion**, I was left with a strongly concentrated, artificial flavor. For about $6, this was the most artificial-tasting tea I’ve ever had in a teahouse, I'd much rather add $2 and get something from [TWG](https://skoomaden.me/posts/review-of-twg-breakfast-teas/). It was overly strong and tasted like hard water. Simply put, it was **not good**.
-<br><br>
+
 
 ### [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/)
 
 ![](image-77.png)
 
 The [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/) had a familiar wild mint taste, but it was too diluted. Instead of the usual [Gunpowder Green Tea](https://en.wikipedia.org/wiki/Gunpowder_tea), they used a different, difficult to identify green tea. They served it with honey, but it was too concentrated to bring out any real flavor and it ended up overpowering my first cup (which arguably, is my fault). Despite this, it was the only tea with a somewhat defined taste, though the bitterness was poorly managed. It felt like a tea-bag [Moroccan tea](https://blog.theteakitchen.com/tea-history-culture/the-history-of-moroccan-tea/), with a correct presentation but not round enough of a flavor.
-<br><br>
+
 ## Conclusion
 
 ![](Presentationgif.gif)

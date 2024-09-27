@@ -469,6 +469,9 @@ a.meta-date:hover {
     color: var(--text-secondary);
     border: 1px solid var(--background-hover);
 }
+    p {
+        margin-bottom: 1.5em;
+    }
 
 /* Tags */
 
