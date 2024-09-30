@@ -112,13 +112,13 @@ Since its official release in the West, [Dai Gyakuten Saiban](https://www.ace-at
 
 ![Famitsu Article for Dai Gyakuten Saiban](image-104.png)
 
-While Famitsu awarded DGS a score of 35/40. This score was based on individual ratings from only four reviewers. Some more seasoned reviewers, however, noted that the pacing, especially in the early stages, felt slower than previous entries, which could be challenging for some players.
+While [Famitsu](https://www.famitsu.com) awarded DGS a score of 35/40. This score was based on individual ratings from only four reviewers. Some more seasoned reviewers, however, noted that the pacing, especially in the early stages, felt slower than previous entries, which could be challenging for some players.
 
-IGN (knowing how much value their opinions actually hold lol) called the pacing "glacial", Nintendo Life hated the "overlong dialogues" and Destructoid called some of the Investigation phases "gimmicky". Despite all this, the overall storytelling and character arcs were lauded, with Ryūnosuke Naruhodō’s growth and his interactions with Sholmes really standing out.
+[IGN](https://me.ign.com/en/) (knowing how much value their opinions actually hold lol) called the pacing "glacial", [Nintendo Life](https://www.nintendolife.com) hated the "overlong dialogues" and [Destructoid](https://www.destructoid.com) called some of the Investigation phases "gimmicky". Despite all this, the overall storytelling and character arcs were lauded, with Ryūnosuke Naruhodō’s growth and his interactions with Sholmes really standing out.
 
 ## The *Phoenix Wright X Layton* Influence
 
-The influence of *Phoenix Wright X Layton* is clear in [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi)'s approach to [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). In interviews, Takumi has mentioned how working on the crossover allowed him to explore storytelling in a historical context, blending puzzle-solving with legal drama. This experience helped shape his vision for [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), where he was able to integrate more elaborate puzzles and deductions into the legal framework. <br /><br />
+The influence of *[Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)* is clear in [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi)'s approach to [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). In interviews, Takumi has mentioned how working on the crossover allowed him to explore storytelling in a historical context, blending puzzle-solving with legal drama. This experience helped shape his vision for [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), where he was able to integrate more elaborate puzzles and deductions into the legal framework. <br /><br />
 
 ![](image-105.png)
 
@@ -140,6 +140,6 @@ The payoff in [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) i
 
 For me, having been part of the journey to bring this game to a wider audience through fan translation, its official release feels like a personal triumph. It's a game that not only honors the legacy of the series but also sets a new benchmark for what a courtroom drama can be.
 
-Whether you're a longtime fan or new to the series, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) offers a rich, immersive experience filled with historical intrigue, cultural depth, and unforgettable characters.
+Whether you're a longtime fan or new to the series, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) offers a rich, immersive experience filled with historical intrigue, cultural clashes, and truly unforgettable characters.
 
 *- yaro*
