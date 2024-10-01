@@ -80,7 +80,7 @@ Takumi’s writing style is instantly recognizable—sharp, witty, and full of t
 
 ![](image-99.png)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) takes the established [Ace Attorney](https://www.ace-attorney.com) formula, and then it keeps on building and building and building a whole new system altogether. One of the most notable additions is the jury system -- British courtrooms now feature a panel of jurors, requiring players to engage in the “[Summation Examination](https://aceattorney.fandom.com/wiki/Jury#Summation_examination)” mechanic. This feature allows you to pit jurors' biases and contradictions against each other in real time, forcing you to think critically about each juror’s perspective and how to manipulate their collective decision. <br />
+[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) takes the established [Ace Attorney](https://www.ace-attorney.com) formula, and then it keeps on building and building and building on it to create a whole new system altogether. The most notable addition is certainly the jury system -- British courtrooms now feature a panel of jurors, requiring players to engage in the “[Summation Examination](https://aceattorney.fandom.com/wiki/Jury#Summation_examination)”; This feature allows you to pit jurors' biases and contradictions against each other in real time, forcing you to think critically about each juror’s perspective and how to manipulate their collective decision. <br />
 
 ![](image-98.png)
 
