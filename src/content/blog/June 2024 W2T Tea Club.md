@@ -2,7 +2,8 @@
   title: White2tea Tea Club — June 2024 ! 
   date: 2024-06-04
   tags: ['Tea Review', 'Cupboard', 'white2tea']
-  description: 'Well this came in early'
+  description: "Well this came in early"
+  lang: "en"
 ---
 
 Just recieved the June 2024 Tea Club in the mail !

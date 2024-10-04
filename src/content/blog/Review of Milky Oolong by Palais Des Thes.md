@@ -3,6 +3,7 @@ title: "Review of Milky Oolong by Palais des Thés"
 date: 2024-06-10
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Milky Oolong by Palais des Thés."
+lang: "en"
 ---
 
 I recently got myself lots of [samples](https://skoomaden.me/posts/new-palais-des-thes-samples-/) from Palais des Thés.

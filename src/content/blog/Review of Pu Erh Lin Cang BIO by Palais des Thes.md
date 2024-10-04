@@ -3,6 +3,7 @@ title: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
 date: 2024-04-25
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
+lang: "en"
 ---
 
 I recently tried Pu Erh Lin Cang BIO, a tea from Palais des Thés. Here's my detailed review of the experience:

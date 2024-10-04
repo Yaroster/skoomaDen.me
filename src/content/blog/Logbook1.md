@@ -3,6 +3,7 @@ title: "China Logbook: 10 Days of Stories and Tea"
 date: 2024-09-01
 tags: ['Logbook']
 description: "My 10-day trip to China was a whirlwind of stories, tea, and new experiences. Here's a logbook of my adventures."
+lang: "en"
 cover: "/covers/cover-03.png"
 ---
 

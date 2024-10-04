@@ -3,6 +3,8 @@ title: Welcome to the skoomaDen !
 date: 2024-04-25
 tags: ['Announcements']
 description: ''
+lang: "en"
+
 ---
 
 Hello everyone ! 

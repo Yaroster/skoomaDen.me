@@ -3,6 +3,7 @@ title: "Review of Lao Chuan Hong by white2tea"
 date: 2024-06-06
 tags: ['Tea Review', 'white2tea']
 description: "My first 100/100 ! One heck of a black tea"
+lang: "en"
 ---
 
 I admit this is where my knowledge of Black Tea stops, Lao Chuan Hong is a supposed well know hongcha but I admit, reading the description we got, I cannot stop being curious about what I possibly await with this one.

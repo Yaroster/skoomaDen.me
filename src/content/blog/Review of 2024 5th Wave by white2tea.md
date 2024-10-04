@@ -3,6 +3,7 @@ title: "Review of 2024 5th Wave by white2tea"
 date: 2024-05-23
 tags: ['Tea Review', 'white2tea']
 description: "Review of 2024 5th Wave by white2tea"
+lang: "en"
 ---
 
 ![](file.png)

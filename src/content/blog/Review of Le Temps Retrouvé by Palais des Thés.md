@@ -3,6 +3,7 @@ title: "Review of Le Temps Retrouvé by Palais des Thés"
 date: 2024-06-17
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Le Temps Retrouvé by Palais des Thés."
+lang: "en"
 ---
 
 I recently tried Le Temps Retrouvé from Palais des Thés.

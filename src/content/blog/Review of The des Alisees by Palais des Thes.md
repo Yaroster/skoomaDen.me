@@ -3,6 +3,7 @@ title: "Review of Thé des Alizés by Palais des Thés"
 date: 2024-05-14
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé des Alizés by Palais des Thés"
+lang: "en"
 ---
 
 ![](862-42161-k6kurnbkdj-removebg-preview.png)

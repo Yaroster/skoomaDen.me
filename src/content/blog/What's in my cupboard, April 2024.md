@@ -3,6 +3,8 @@ title: What's in my cupboard, April 2024
 date: 2024-04-25
 tags: ['Cupboard']
 description: 'An overview of the teas I drank in April 2024 !'
+lang: "en"
+
 ---
   
 ## Introduction

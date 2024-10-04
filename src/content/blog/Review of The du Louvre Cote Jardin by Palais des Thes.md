@@ -3,6 +3,7 @@ title: "Review of Thé du Louvre Cote Jardin by Palais des Thés"
 date: 2024-05-01
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé du Louvre Cote Jardin by Palais des Thés"
+lang: "en"
 ---
 
 ![Thé du Louvre Cote Jardin](teaset_thedulouvre.png)
