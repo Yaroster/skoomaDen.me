@@ -3,7 +3,6 @@ title: "Review of Thé des Moines by Palais des Thés"
 date: 2024-04-25
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé des Moines by Palais des Thés"
-lang: "en"
 ---
 
 ## Preparation

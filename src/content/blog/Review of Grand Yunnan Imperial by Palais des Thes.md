@@ -3,7 +3,6 @@ title: "Review of Grand Yunnan Impérial by Palais des Thés"
 date: 2024-04-25
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Grand Yunnan Impérial by Palais des Thés"
-lang: "en"
 ---
 
 ![Grand Yunnan Impérial](https://us.palaisdesthes.com/media/catalog/product/cache/50708da259540eeb20337bcdb367a3c9/2/2/220-34816-wmr7f3mou6.jpg)

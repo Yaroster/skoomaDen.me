@@ -3,7 +3,6 @@ title: "Review of Grand Jasmin Mao Feng by Palais des Thés"
 date: 2024-05-14
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Grand Jasmin Mao Feng by Palais des Thés"
-lang: "en"
 ---
 
 ![](249-35707-bd3y9mplxo-removebg-preview.png)

@@ -3,7 +3,6 @@ title: "Review of 2018 Turtle Dove by white2tea"
 date: 2024-05-14
 tags: ['Tea Review', 'white2tea']
 description: "Review of 2018 Turtle Dove by white2tea"
-lang: "en"
 ---
 
 ![2018 Turtle Dove](image-1.png)

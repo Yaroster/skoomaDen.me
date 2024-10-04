@@ -3,7 +3,6 @@ title: "Review of Thé du Hammam by Palais des Thés"
 date: 2024-04-25
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Thé du Hammam by Palais des Thés"
-lang: "en"
 ---
 
 I recently tried Thé du Hammam, a tea blend from Palais des Thés. Here's my detailed review of the experience:

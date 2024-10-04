@@ -3,7 +3,6 @@ title: "Review of Fleur de Sureau et Pêche Bio by Palais des Thés"
 date: 2024-04-25
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Fleur de Sureau et Pêche Bio by Palais des Thés"
-lang: "en"
 ---
 
 I recently tried Fleur de Sureau et Pêche Bio, a tea blend from Palais des Thés. Here's my detailed review of the experience:

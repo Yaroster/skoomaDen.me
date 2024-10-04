@@ -3,7 +3,6 @@ title: "Review of 2020 Nightlife by white2tea"
 date: 2024-05-12
 tags: ['Tea Review', 'white2tea']
 description: "Review of 2020 Nightlife by white2tea."
-lang: "en"
 ---
 
 After much anticipation, I've finally had the chance to dive into white2tea's 2020 Nightlife. Here's my detailed review of this intriguing white tea:

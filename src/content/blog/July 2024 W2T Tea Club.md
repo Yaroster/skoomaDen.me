@@ -3,8 +3,6 @@ title: White2tea Tea Club — July 2024 !
 date: 2024-07-24
 tags: ['Tea Review', 'Cupboard', 'white2tea']
 description: 'Excited to dive into the new teas!'
-lang: "en"
-
 ---
 
 Just received the July 2024 Tea Club in the mail!

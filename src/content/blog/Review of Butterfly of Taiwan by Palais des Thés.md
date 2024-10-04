@@ -3,7 +3,6 @@ title: "Review of Butterfly of Taiwan by Palais des Thés"
 date: 2024-06-23
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of the Butterfly of Taiwan by Palais des Thés."
-lang: "en"
 ---
 
 I recently tried Butterfly of Taiwan from Palais des Thés.

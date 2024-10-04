@@ -3,7 +3,6 @@
   date: 2024-09-27
   tags: ['Multimedia Review', 'Game Review']
   description: "[SPOILER FREE] Thank you Shu Takumi."
-  lang: "en"
   cover: "/covers/cover-dgs.png"
 ---
 

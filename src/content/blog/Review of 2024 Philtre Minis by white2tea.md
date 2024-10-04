@@ -3,7 +3,6 @@ title: "Review of 2024 Philtre Minis by white2tea"
 date: 2024-06-23
 tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Philtre Minis by white2tea."
-lang: "en"
 ---
 
 I got this mini as part of a giant purchase of samples from white2tea’s newly released teas! [Teas arriving in July](https://skoomaden.me/posts/teas-arriving-in-july/).

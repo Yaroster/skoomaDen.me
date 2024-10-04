@@ -3,7 +3,6 @@ title: "Review of 2021 Sunskate by white2tea"
 date: 2024-06-02
 tags: ['Tea Review', 'white2tea']
 description: "Review of 2021 Sunskate by white2tea."
-lang: "en"
 ---
 
 Today, I’m reviewing the 2021 Sunskate by white2tea. I got this tea in a mini form from w2t with the [2018 Hot Brandy](https://white2tea.com/products/2018-hot-brandy) I got [this month](https://skoomaden.me/posts/teas-that-arrived-in-june/). 

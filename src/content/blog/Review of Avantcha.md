@@ -3,7 +3,6 @@ title: "Review of Avantcha"
 date: 2024-09-23  
 tags: ['Tea Review', 'Avantcha']  
 description: "An exploration of Avantcha's unique tea offerings."
-lang: "en"
 cover: "/covers/cover-06.png"
 ---
 

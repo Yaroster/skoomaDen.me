@@ -3,7 +3,6 @@
   date: 2024-06-02
   tags: ['Tea Review', 'Cupboard', 'white2tea']
   description: 'Many minis oh so many minis, my credit card is screaming "Help me !"'
-  lang: "en"
 ---
 
 Alright, you guys hold on tight because this is gonna be a long one.

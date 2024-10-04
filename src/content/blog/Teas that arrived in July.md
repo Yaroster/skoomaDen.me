@@ -3,7 +3,6 @@ title: "Teas that arrived in June!"
 date: 2024-05-29
 tags: ['Tea Review', 'Cupboard']
 description: "The (few) teas I've got this month so far !"
-lang: "en"
 ---
 
 Oof, this one is suprising, these two teas should've arrived in May but, oh Well, I'll still show them to you all.

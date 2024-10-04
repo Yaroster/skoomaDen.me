@@ -3,7 +3,6 @@ title: "Review of 2024 Nightlife Mini by white2tea"
 date: 2024-07-05
 tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Nightlife Mini by white2tea."
-lang: "en"
 ---
 
 New Nightlife review, let’s see how this year’s batch holds up.

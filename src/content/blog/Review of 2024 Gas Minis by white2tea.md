@@ -3,7 +3,6 @@ title: "Review of 2024 Gas Minis by white2tea"
 date: 2024-07-05
 tags: ['Tea Review', 'white2tea']
 description: "Review of the 2024 Gas Minis by white2tea."
-lang: "en"
 ---
 
 Oooh this is a tea I’ve been waiting for. One of the cheaper offerings from white2tea, yet it sounds like one of the most interesting ones too.

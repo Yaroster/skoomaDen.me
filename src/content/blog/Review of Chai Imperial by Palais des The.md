@@ -3,7 +3,6 @@ title: "Review of Chaï Impérial by Palais des Thés"
 date: 2024-05-14
 tags: ['Tea Review', 'Palais des Thés']
 description: "Review of Chaï Impérial by Palais des Thés"
-lang: "en"
 ---
 
 ![](771-34801-v9p8uywm6p-removebg-preview.png)

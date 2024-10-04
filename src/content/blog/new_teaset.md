@@ -3,7 +3,6 @@ title: New Teaset, Tray, and an Unpleasant Surprise :/
 date: 2024-04-28
 tags: ['Tea Review']
 description: "I've been experimenting with new sources for my teaware. Although it's not the most elegant option, one of the more affordable sources I decided to try was AliExpress."
-lang: "en"
 ---
 
 Hello Everyone,
