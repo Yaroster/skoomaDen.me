@@ -126,7 +126,7 @@ const defaultActiveTag = activeSlug || (isFrenchPage ? currentSlug : "English");
   <div class="priority-tags">
     {priorityTags.map((slug) => (
       <a
-        href={slug === "English" ? "/" : generateLink(slug)}
+        href={slug === "English" ? "/" : slug === "Français" ? "/fr" : generateLink(slug)}
         target="_self"
         class={`${
           defaultActiveTag === slug ? "tag-active" : ""
