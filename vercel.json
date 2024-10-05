@@ -1,9 +1,12 @@
 {
-    "rewrites": [
-      {
-        "source": "/fr",
-        "destination": "/tags/Français"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/fr",
+      "destination": "/tags/Français"
+    },
+    {
+      "source": "/posts/:slug-fr",
+      "destination": "/fr/posts/:slug"
+    }
+  ]
+}
