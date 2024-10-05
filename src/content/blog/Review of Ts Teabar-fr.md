@@ -64,4 +64,4 @@ Dans l'ensemble, [T's Teabar](https://tsteas.com/en-ae) semble être un projet e
 
 Merci de m'avoir lu !
 
-*- yaro*
+<mark>- yaro</mark>

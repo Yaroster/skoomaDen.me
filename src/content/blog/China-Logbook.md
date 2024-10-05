@@ -63,7 +63,7 @@ I had some great tea with lots of merchants, most of them being incredibly frien
 
 Some tea cakes were 25+ years old! Or so the merchants said... I admit, for most of the tea I've tried, I found their whites too subtle and their greens too bitter, but the Pu'Erhs? Absolutely mind-blowing.
 
-I didn't want most of my travel budget to disappear, however; this *was* the first day of my voyage after all. So I contained myself, bought a total of 200g of tea, and decided that the tea market wasn't enough for me. I needed a [show](http://laosheteahouse.com/article/221.html)!
+I didn't want most of my travel budget to disappear, however; this <mark>was</mark> the first day of my voyage after all. So I contained myself, bought a total of 200g of tea, and decided that the tea market wasn't enough for me. I needed a [show](http://laosheteahouse.com/article/221.html)!
 
 ![](image-44.png)
 

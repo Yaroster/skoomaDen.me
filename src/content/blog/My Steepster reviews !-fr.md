@@ -13,4 +13,4 @@ J’espère que vous prendrez autant de plaisir à les lire que j’ai pris à l
 
 À bientôt !
 
- *- yaro*
+ <mark>- yaro</mark>

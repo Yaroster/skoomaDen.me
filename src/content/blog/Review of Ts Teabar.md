@@ -65,4 +65,4 @@ Overall, [T's Teabar](https://tsteas.com/en-ae) seems to be a work in progress. 
 
 Thanks for reading!
 
-*- yaro*
+<mark>- yaro</mark>

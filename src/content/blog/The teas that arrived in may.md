@@ -8,7 +8,7 @@
 # They're Here!
 
 The wait is finally over! After a week longer than expected, my eagerly awaited package from white2tea has arrived, all the way from Guangzhou. Here's a rundown of the teas that made their way to my doorstep.
-If you guys remember my [Teas arriving in May !](https://skoomaden.me/posts/teas-arriving-in-may/) post, you may be shocked to see I *still* didn't recieve everything, and honestly, that's okay, Guangzhou is a long way from here by foot anyway so I guess I'd rather wait for the package to come than go get it myself.
+If you guys remember my [Teas arriving in May !](https://skoomaden.me/posts/teas-arriving-in-may/) post, you may be shocked to see I <mark>still</mark> didn't recieve everything, and honestly, that's okay, Guangzhou is a long way from here by foot anyway so I guess I'd rather wait for the package to come than go get it myself.
 
 Alright ! Let's get Started !
 
@@ -51,4 +51,4 @@ Now, I didn't get this one yet, but i'll be here soon i'm sure !
 
 Unboxing this collection was a true pleasure, especially after the extra week of anticipation. I'm thrilled to explore each of these teas in depth. Stay tuned for individual reviews and more tea adventures!
 
-  *- yaro*
+  <mark>- yaro</mark>

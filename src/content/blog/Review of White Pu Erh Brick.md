@@ -47,4 +47,4 @@ Flavors: Clear, Round, Delicate
 
 # 90/100
 
-*- yaro*
+<mark>- yaro</mark>

@@ -35,4 +35,4 @@ Flavors: Cardamom, Ginger
 
 # 82/100
 
-*- yaro*
+<mark>- yaro</mark>

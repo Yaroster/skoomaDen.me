@@ -54,4 +54,4 @@ Incredibly enjoyable tea, with lots of personality and complexity. I cannot reco
 
 ### Flavors: Algae, Anise, Charcoal, Smoked, Tobacco
 
-*- yaro*
+<mark>- yaro</mark>

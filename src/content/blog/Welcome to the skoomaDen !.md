@@ -17,4 +17,4 @@ Le Den est toujours ouvert à ceux qui le souhaitent, alors n'hésitez pas à en
 
 À très bientôt !
 
- *- yaro*
+ <mark>- yaro</mark>

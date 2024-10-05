@@ -8,7 +8,7 @@
 
 In a courtroom battle set against the backdrop of Meiji-era Japan and Victorian Britain, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) brings a breath of fresh air to the [Ace Attorney](https://www.ace-attorney.com) franchise that was long overdue.
 
-Before its official localization, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) was a game many fans outside Japan (including me), only dreamed of getting our dirty little ace attorney fan hands on. I vividely remember spending countless hours working on the French translation alongside other passionate fans, bringing the mysteries of *The Great Ace Attorney* to new audiences long before it reached the West. 
+Before its official localization, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) was a game many fans outside Japan (including me), only dreamed of getting our dirty little ace attorney fan hands on. I vividely remember spending countless hours working on the French translation alongside other passionate fans, bringing the mysteries of <mark>The Great Ace Attorney</mark> to new audiences long before it reached the West. 
 
 Today, I reflect not only on my journey with this game but on the incredible evolution of the [Ace Attorney](https://www.ace-attorney.com) franchise and how this installment has left its mark on me and the gaming world.
 
@@ -16,9 +16,9 @@ Today, I reflect not only on my journey with this game but on the incredible evo
 
 ![](image-91.png)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) introduces a slower and more intricate narrative than its predecessors. Spanning two interconnected titles, *Adventures* and *Resolve*, the game tells a continuous story that takes about 80 hours to complete. Unlike earlier entries, where cases were more self-contained, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) decided on a continuous story line, assuming its [Visual Novel](https://wikipedia.org/wiki/Visual_Novel) nature. <br />
+[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) introduces a slower and more intricate narrative than its predecessors. Spanning two interconnected titles, <mark>Adventures</mark> and <mark>Resolve</mark>, the game tells a continuous story that takes about 80 hours to complete. Unlike earlier entries, where cases were more self-contained, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) decided on a continuous story line, assuming its [Visual Novel](https://wikipedia.org/wiki/Visual_Novel) nature. <br />
 
-The pacing is a notable departure from previous [Phoenix Wright](https://www.ace-attorney.com) games. Cases were often quickly solved, leading to immediate, but short-lived satisfaction and some rather boring Investigation phases. Creating a new spin-off altogether gave the writers ample freedom to do whatever they wished to do: stretching cases across multiple court sessions, delving into more elaborate investigations and character developments and interconnecting cases between the two games together. This slower narrative builds anticipation, revealing deeper twists and character arcs with each passing trial. While this deliberate pacing can feel prolonged, especially in *Adventures*, it pays off with richer storytelling and more profound emotional depth. <br />
+The pacing is a notable departure from previous [Phoenix Wright](https://www.ace-attorney.com) games. Cases were often quickly solved, leading to immediate, but short-lived satisfaction and some rather boring Investigation phases. Creating a new spin-off altogether gave the writers ample freedom to do whatever they wished to do: stretching cases across multiple court sessions, delving into more elaborate investigations and character developments and interconnecting cases between the two games together. This slower narrative builds anticipation, revealing deeper twists and character arcs with each passing trial. While this deliberate pacing can feel prolonged, especially in <mark>Adventures</mark>, it pays off with richer storytelling and more profound emotional depth. <br />
 
 ![](image-90.png)
 
@@ -66,7 +66,7 @@ The characters, especially the prosecutors, are as intricately written as they a
 
 Behind this rich tapestry of characters is none other than [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi), the visionary creator of the [Ace Attorney](https://www.ace-attorney.com) series. <br /> <br />
 
-His experience with *[Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)* most definitely inspired this game. Between the more narrative-driven experience with a single coherent story, the historical setting, the character interactions and the humor, Takumi most evidently had a specific idea in mind when he started working on this spin-off series.
+His experience with <mark>[Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)</mark> most definitely inspired this game. Between the more narrative-driven experience with a single coherent story, the historical setting, the character interactions and the humor, Takumi most evidently had a specific idea in mind when he started working on this spin-off series.
 
 ![](image-96.png)
 
@@ -116,9 +116,9 @@ While [Famitsu](https://www.famitsu.com) awarded DGS a score of 35/40. This scor
 
 [IGN](https://me.ign.com/en/) (knowing how much value their opinions actually hold lol) called the pacing "glacial", [Nintendo Life](https://www.nintendolife.com) hated the "overlong dialogues" and [Destructoid](https://www.destructoid.com) called some of the Investigation phases "gimmicky". Despite all this, the overall storytelling and character arcs were lauded, with Ryūnosuke Naruhodō’s growth and his interactions with Sholmes really standing out.
 
-## The *Phoenix Wright X Layton* Influence
+## The <mark>Phoenix Wright X Layton</mark> Influence
 
-The influence of *[Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)* is clear in [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi)'s approach to [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). In interviews, Takumi has mentioned how working on the crossover allowed him to explore storytelling in a historical context, blending puzzle-solving with legal drama. This experience helped shape his vision for [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), where he was able to integrate more elaborate puzzles and deductions into the legal framework. <br /><br />
+The influence of <mark>[Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)</mark> is clear in [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi)'s approach to [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). In interviews, Takumi has mentioned how working on the crossover allowed him to explore storytelling in a historical context, blending puzzle-solving with legal drama. This experience helped shape his vision for [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), where he was able to integrate more elaborate puzzles and deductions into the legal framework. <br /><br />
 
 ![](image-105.png)
 
@@ -142,4 +142,4 @@ For me, having been part of the journey to bring this game to a wider audience t
 
 Whether you're a longtime fan or new to the series, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) offers a rich, immersive experience filled with historical intrigue, cultural clashes, and truly unforgettable characters.
 
-*- yaro*
+<mark>- yaro</mark>

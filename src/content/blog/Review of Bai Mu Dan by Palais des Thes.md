@@ -28,10 +28,10 @@ The first time, I thought that perhaps Gong Fu Style wasn't made for this tea, t
 
 Now let's see how Palais Des Thés describes this tea:
 
-*From Palais des Thés:*
+<mark>From Palais des Thés:</mark>
 
-*"White peony" is a very fine tea, made up of all sorts of leaves in their natural state: silvery buds, Souchong leaves, first and second leaves and stems.*
-*Its woody taste is like the autumn fruits: hazelnuts and chestnuts.*
+<mark>"White peony" is a very fine tea, made up of all sorts of leaves in their natural state: silvery buds, Souchong leaves, first and second leaves and stems.</mark>
+<mark>Its woody taste is like the autumn fruits: hazelnuts and chestnuts.</mark>
 
 Alright, pretty self-explanatory, onto the tasting notes.
 
@@ -78,4 +78,4 @@ I would feel it to be unfair to judge it badly, my apprehensions disappeared aft
 
 # 38/100
 
-*- yaro*
+<mark>- yaro</mark>

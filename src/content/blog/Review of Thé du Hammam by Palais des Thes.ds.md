@@ -47,5 +47,5 @@ Flavors: Dates, Rose
 
 # 36/100
 
-*- yaro*
+<mark>- yaro</mark>
 

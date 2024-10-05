@@ -39,4 +39,4 @@ Sunskate was oxidized very lightly, so much so that we could probably refer to i
 
 While this was a minimal showcase, it will be updated soon to accomodate for the new teas I'll get this month ! Stay tuned :) !
 
-  *- yaro*
+  <mark>- yaro</mark>

@@ -22,7 +22,7 @@ As always, I prepared this tea Gong Fu style, using a gaiwan for steeping and a 
 
 Now let's see how Palais Des Thés describes this tea:
 
-*From Palais des Thés:*
+<mark>From Palais des Thés:</mark>
 
 _"The fruit of a collaboration between the Louvre Museum and Palais des Thés, the thés du Louvre are fragrant new blends which pay homage to the two faces of the Louvre: the monumental aspect of the palace with its elegant architecture and the poetic charm of the Tuileries Garden._
 _The Thé du Louvre - Garden Tea is reminiscent of a gentle stroll through the Tuileries Garden, between colourful flowerbeds and shady copses. A gourmet green tea with notes of apple, plum and quince."_
@@ -77,7 +77,7 @@ Their pure teas are excellent, although their Bai Mu Dan and Grand Jasmin Mao Fe
 However, their flavored teas are a different story: Teas that smell like a dream, but taste like perfume. They're uninteresting, and more often than not, downright disgusting.
 
 I was really hoping that this tea would be different, but it was not.
-To be fair, it's not the worst tea I've had from there, far from it, I'd even go as far as to say *it's not a bad tea*, it's just _a_ tea, like an adventure that is only memorable after it’s ended, it’s only good when the session is closing to an end; it’s too bad really.
+To be fair, it's not the worst tea I've had from there, far from it, I'd even go as far as to say <mark>it's not a bad tea</mark>, it's just _a_ tea, like an adventure that is only memorable after it’s ended, it’s only good when the session is closing to an end; it’s too bad really.
 
 I couldn't be happier I was recommended this tea, as it was a great opportunity finally to find the words to describe why I don't like Palais Des Thés' flavored teas.
 
@@ -92,5 +92,5 @@ I couldn't be happier I was recommended this tea, as it was a great opportunity 
 
 # 42/100
 
-*- yaro*
+<mark>- yaro</mark>
 

@@ -8,7 +8,7 @@
 
 Dans une bataille juridique se déroulant dans le Japon de l'ère Meiji et la Grande-Bretagne victorienne, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) apporte un souffle nouveau à la franchise [Ace Attorney](https://www.ace-attorney.com) qui en avait bien besoin.
 
-Avant sa localisation officielle, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) était un jeu que de nombreux fans hors du Japon (moi y compris) rêvaient seulement de pouvoir essayer. Je me souviens très bien d’avoir passé d'innombrables heures à travailler sur la traduction française avec d'autres fans passionnés, afin de faire découvrir les mystères de *The Great Ace Attorney* à de nouveaux publics bien avant sa sortie en Occident.
+Avant sa localisation officielle, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) était un jeu que de nombreux fans hors du Japon (moi y compris) rêvaient seulement de pouvoir essayer. Je me souviens très bien d’avoir passé d'innombrables heures à travailler sur la traduction française avec d'autres fans passionnés, afin de faire découvrir les mystères de <mark>The Great Ace Attorney</mark> à de nouveaux publics bien avant sa sortie en Occident.
 
 Aujourd'hui, je prends un moment pour réfléchir à mon parcours avec ce jeu, mais aussi à l'évolution incroyable de la franchise [Ace Attorney](https://www.ace-attorney.com) et à la manière dont cet opus a marqué à la fois moi-même et le monde du jeu vidéo.
 
@@ -16,9 +16,9 @@ Aujourd'hui, je prends un moment pour réfléchir à mon parcours avec ce jeu, m
 
 ![](image-91.png)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) introduit une narration plus lente et plus complexe que ses prédécesseurs. Composé de deux titres interconnectés, *Adventures* et *Resolve*, le jeu raconte une histoire continue qui nécessite environ 80 heures pour être complétée. Contrairement aux épisodes précédents, où les affaires étaient plus indépendantes, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) adopte une trame narrative continue, exploitant pleinement son format de [Roman Visuel](https://wikipedia.org/wiki/Visual_Novel). <br />
+[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) introduit une narration plus lente et plus complexe que ses prédécesseurs. Composé de deux titres interconnectés, <mark>Adventures</mark> et <mark>Resolve</mark>, le jeu raconte une histoire continue qui nécessite environ 80 heures pour être complétée. Contrairement aux épisodes précédents, où les affaires étaient plus indépendantes, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) adopte une trame narrative continue, exploitant pleinement son format de [Roman Visuel](https://wikipedia.org/wiki/Visual_Novel). <br />
 
-Le rythme est un départ notable par rapport aux jeux [Phoenix Wright](https://www.ace-attorney.com). Les affaires étaient souvent résolues rapidement, offrant une satisfaction immédiate mais éphémère, et certaines phases d'enquête devenaient ennuyeuses. La création de cette série dérivée a permis aux scénaristes de se libérer et de prendre leur temps : étirer les affaires sur plusieurs sessions de tribunal, approfondir les enquêtes et le développement des personnages, et interconnecter les affaires entre les deux jeux. Cette narration plus lente permet de révéler progressivement des rebondissements plus profonds et des arcs narratifs plus riches à chaque procès. Bien que ce rythme volontaire puisse sembler long, notamment dans *Adventures*, il est récompensé par une narration plus riche et une profondeur émotionnelle plus prononcée.
+Le rythme est un départ notable par rapport aux jeux [Phoenix Wright](https://www.ace-attorney.com). Les affaires étaient souvent résolues rapidement, offrant une satisfaction immédiate mais éphémère, et certaines phases d'enquête devenaient ennuyeuses. La création de cette série dérivée a permis aux scénaristes de se libérer et de prendre leur temps : étirer les affaires sur plusieurs sessions de tribunal, approfondir les enquêtes et le développement des personnages, et interconnecter les affaires entre les deux jeux. Cette narration plus lente permet de révéler progressivement des rebondissements plus profonds et des arcs narratifs plus riches à chaque procès. Bien que ce rythme volontaire puisse sembler long, notamment dans <mark>Adventures</mark>, il est récompensé par une narration plus riche et une profondeur émotionnelle plus prononcée.
 
 ![](image-90.png)
 
@@ -66,7 +66,7 @@ Les personnages, en particulier les procureurs, sont aussi bien écrits que visu
 
 Derrière cette riche tapisserie de personnages se trouve nul autre que [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi), le créateur visionnaire de la série [Ace Attorney](https://www.ace-attorney.com). <br /> <br />
 
-Son expérience avec *[Professeur Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)* a clairement inspiré ce jeu. Entre une expérience narrative plus fluide, un cadre historique, les interactions entre les personnages et l’humour omniprésent, Takumi avait visiblement une idée précise en tête lorsqu'il a entrepris de travailler sur cette série dérivée.
+Son expérience avec <mark>[Professeur Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)</mark> a clairement inspiré ce jeu. Entre une expérience narrative plus fluide, un cadre historique, les interactions entre les personnages et l’humour omniprésent, Takumi avait visiblement une idée précise en tête lorsqu'il a entrepris de travailler sur cette série dérivée.
 
 ![](image-96.png)
 
@@ -115,9 +115,9 @@ Cependant, cela n'est pas nécessairement vrai au Japon ou pour une partie de la
 
 [IGN](https://me.ign.com/fr) (sachant combien leurs avis comptent, lol) a qualifié le rythme de "glacial", [Nintendo Life](https://www.nintendolife.com) n'a pas apprécié les "dialogues trop longs", et [Destructoid](https://www.destructoid.com) a décrit certaines phases d'investigation comme "gadgetisées". Malgré tout, la narration et les arcs des personnages ont été largement salués, en particulier l'évolution de Ryūnosuke et ses interactions avec Sholmes.
 
-## L'Influence de *Phoenix Wright X Layton*
+## L'Influence de <mark>Phoenix Wright X Layton</mark>
 
-L'influence de *[Professeur Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)* est évidente dans l'approche de [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi) pour [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). Dans des interviews, Takumi a mentionné que son travail sur le crossover lui a permis d'explorer la narration dans un contexte historique, mélangeant résolution d'énigmes et drame juridique. Cette expérience a contribué à façonner sa vision pour [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), où il a intégré des énigmes et des déductions plus élaborées dans le cadre juridique.
+L'influence de <mark>[Professeur Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney)</mark> est évidente dans l'approche de [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi) pour [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/). Dans des interviews, Takumi a mentionné que son travail sur le crossover lui a permis d'explorer la narration dans un contexte historique, mélangeant résolution d'énigmes et drame juridique. Cette expérience a contribué à façonner sa vision pour [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), où il a intégré des énigmes et des déductions plus élaborées dans le cadre juridique.
 
 ![](image-105.png)
 
@@ -141,4 +141,4 @@ Pour moi, ayant participé au travail de traduction pour amener ce jeu à un pub
 
 Que vous soyez un fan de longue date ou un nouveau venu dans la série, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) offre une expérience riche et immersive, remplie d'intrigues historiques, de conflits culturels et de personnages inoubliables.
 
-*- yaro*
+<mark>- yaro</mark>

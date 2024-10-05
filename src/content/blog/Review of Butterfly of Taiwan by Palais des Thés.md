@@ -47,7 +47,7 @@ Butterfly of Taiwan is a good session tea, especially light and fitting well as 
 
 # 72/100
 
-*- yaro*
+<mark>- yaro</mark>
 
 ## Flavors:
 

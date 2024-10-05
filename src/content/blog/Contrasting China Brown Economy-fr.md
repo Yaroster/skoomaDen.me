@@ -22,21 +22,21 @@ Il s'agit donc à la fois d'un article d'opinion et d'une critique conjointe des
 Dr. Brown décrit [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) comme un leader profondément concentré sur la consolidation du pouvoir au sein du [PCC](https://fr.wikipedia.org/wiki/Parti_communiste_chinois) et à travers toute la Chine. Il le décrit comme le dirigeant le plus puissant depuis Mao, en insistant sur les techniques employées pour maintenir la loyauté au sein du Parti :
 
 > "Xi Jinping n'a pas seulement accumulé plus de pouvoir que tout autre dirigeant chinois depuis Mao, il l'a aussi fait plus rapidement et avec plus d'assurance dans sa propre direction."
- (*Xi: A Study in Power*, p. 38).
+ (<mark>Xi: A Study in Power</mark>, p. 38).
 
 Brown soutient que la capacité de Xi à créer un pouvoir durable réside dans un mélange de nominations stratégiques au sein du Parti et de l'édification d'une influence quasi-cultuelle, utilisant la campagne anti-corruption presque exclusivement comme un moyen de détruire l'opposition.
 
 Cependant, cette idée même est strictement réfutée par son contemporain, Dr. Economy, lors de sa [présentation à l'Université Victoria de Wellington](https://www.youtube.com/watch?v=OnBBJ6dXsu4&list=LL&index=1).
 
 > "Les gens demandent souvent si la campagne anti-corruption de Xi Jinping est vraiment juste un mécanisme pour éliminer ses ennemis politiques ou si elle est légitime, et je pense qu'il est clair que c'est les deux... Xi Jinping n'a pas 620 000 ennemis politiques ; il s'agit d'un effort légitime pour nettoyer le Parti communiste."
- (*[Economy](https://www.hoover.org/profiles/elizabeth-economy)*, 2019).
+ (<mark>[Economy](https://www.hoover.org/profiles/elizabeth-economy)</mark>, 2019).
 
 **Mon avis :** [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) utilise continuellement la métaphore d'une course de relais, un prédécesseur doit préparer le bâton correctement avant de le transmettre à un autre. [La pensée de Xi Jinping](https://fr.wikipedia.org/wiki/Pensée_de_Xi_Jinping) est donc simplement la continuation logique de ce que [Deng Xiaoping](https://fr.wikipedia.org/wiki/Deng_Xiaoping) et [Hu Jintao](https://fr.wikipedia.org/wiki/Hu_Jintao) ont bâti avant lui. Ils n'ont bien sûr pas réussi à compléter le [socialisme aux caractéristiques chinoises](https://fr.wikipedia.org/wiki/Socialisme_aux_caract%C3%A9ristiques_chinoises), mais Xi leur rend hommage dans le premier volume de [La Gouvernance de la Chine](https://fr.wikipedia.org/wiki/La_Gouvernance_de_la_Chine), les qualifiant de porteurs légitimes de ce bâton métaphorique.
 
 Bien que le récit puisse être remis en question, Dr. Economy elle-même soutient qu'elle ne croit pas que nous assistons actuellement à la formation d'une règle à vie :
 
 > "Il peut désormais occuper à vie les trois postes les plus importants — Secrétaire général du Parti communiste, Président du pays et Président de la Commission militaire centrale —, bien que je ne m'attende pas à ce qu'il le fasse."
- (*[Economy](https://www.hoover.org/profiles/elizabeth-economy)*, 2019).
+ (<mark>[Economy](https://www.hoover.org/profiles/elizabeth-economy)</mark>, 2019).
 
 Je pense que Brown, avec sa profonde expérience des affaires internes chinoises, exagère peut-être l'étendue de l'influence de Xi, en établissant des parallèles malheureux avec Mao. En revanche, Economy dresse un tableau plus nuancé, reliant les affaires étrangères et internes pour construire ce qui ressemble à la perception interne des Chinois quant au régime de Xi.
 
@@ -46,14 +46,14 @@ Je pense que Brown, avec sa profonde expérience des affaires internes chinoises
 Dr. Brown poursuit son analyse de [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) en se concentrant sur la manière dont Xi utilise son immense pouvoir pour assurer la stabilité interne de la Chine. Les politiques intérieures de Xi, telles que la campagne anti-corruption et son insistance sur le contrôle via le Parti, visent en fin de compte à préserver la domination du [Parti communiste](https://fr.wikipedia.org/wiki/Parti_communiste_chinois) en Chine.
 
 > "La consolidation du pouvoir par Xi vise à garantir que le Parti communiste reste incontesté en Chine, même si cela doit se faire au détriment des libertés individuelles."
- (*Xi: A Study in Power*, p. 45).
+ (<mark>Xi: A Study in Power</mark>, p. 45).
 
 Brown voit Xi comme un leader qui priorise la survie du Parti, même si cela implique de restreindre les libertés individuelles. Les dynamiques internes de la Chine, selon lui, concernent fondamentalement la préservation de ce statu quo de contrôle pour empêcher toute perturbation susceptible d'affaiblir la mainmise du Parti.
 
 D'un autre côté, Dr. Economy se concentre davantage sur les ambitions mondiales de Xi et comment sa consolidation du pouvoir en Chine constitue un tremplin pour projeter l'influence de la Chine à l'étranger. Selon Economy, les politiques de Xi concernent autant l'exportation du modèle chinois que la préservation de la stabilité interne.
 
 > "Xi Jinping a clairement indiqué que sa vision pour la Chine va au-delà de ses frontières... Il cherche à projeter le modèle de développement politique et économique actuel de la Chine à l'échelle mondiale."
- (*[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)*, p. 112).
+ (<mark>[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)</mark>, p. 112).
 
 Economy souligne que le contrôle domestique de Xi constitue la base de ses aspirations mondiales, des initiatives comme la [Belt and Road](https://fr.wikipedia.org/wiki/Initiative_des_Nouvelles_Routes_de_la_soie) au rôle croissant de la Chine dans les institutions internationales. L'ambition de Xi est de redéfinir les normes mondiales et de présenter la Chine comme une alternative aux démocraties libérales occidentales.
 
@@ -67,14 +67,14 @@ D'une perspective plus large, les ambitions de Xi vont clairement au-delà des f
 Dr. Brown dépeint [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) comme un leader plus préoccupé par la préservation du statu quo que par la mise en place de réformes radicales. Selon lui, la direction de Xi consiste à assurer la dominance du Parti tout en effectuant des ajustements calculés pour maintenir la stabilité et le pouvoir.
 
 > "Xi n'est pas un réformateur au sens où il transformerait fondamentalement le système. Ses réformes visent plutôt à maintenir la mainmise du Parti sur le pouvoir et à assurer la pérennité du système."
- (*Xi: A Study in Power*, p. 65).
+ (<mark>Xi: A Study in Power</mark>, p. 65).
 
 Brown souligne que, bien que Xi parle le langage de la réforme, ses politiques reflètent une approche plus conservatrice axée sur le renforcement du contrôle du Parti plutôt que sur une véritable modernisation de la Chine.
 
 En revanche, Dr. Economy soutient que le leadership de [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) représente une nouvelle forme de réforme. Elle souligne comment les politiques de Xi transforment les paysages intérieurs et extérieurs de la Chine, rompant avec le mantra de [Deng Xiaoping](https://fr.wikipedia.org/wiki/Deng_Xiaoping) consistant à "garder un profil bas".
 
 > "La Troisième Révolution de Xi représente une rupture significative avec le passé... Il cherche à créer une Chine plus affirmée et expansive, de plus en plus autoritaire à l'intérieur, mais aussi plus engagée à façonner l'ordre mondial."
- (*[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)*, p. 150).
+ (<mark>[The Third Revolution](https://www.amazon.com/Third-Revolution-Jinping-Chinese-State/dp/0190866071)</mark>, p. 150).
 
 Economy affirme que les réformes de Xi visent à créer un État plus fort et plus centralisé, capable de rivaliser sur la scène mondiale. Bien que ses politiques renforcent le contrôle du Parti sur le plan intérieur, elles reflètent également une vision plus large du rôle de la Chine dans le monde.
 

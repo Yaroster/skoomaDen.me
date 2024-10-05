@@ -46,4 +46,4 @@ Preparation:
 
 # 75/100
 
-*- yaro*
+<mark>- yaro</mark>
