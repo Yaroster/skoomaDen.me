@@ -1,7 +1,7 @@
 ---
 title: "Review of Grand Yunnan Impérial by Palais des Thés"
 date: 2024-04-25
-tags: ['Tea Review', 'Palais des Thés']
+tags: ['Teas']
 description: "Review of Grand Yunnan Impérial by Palais des Thés"
 ---
 

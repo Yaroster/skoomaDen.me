@@ -1,7 +1,7 @@
 ---
   title: New white2tea teas !!!
   date: 2024-06-02
-  tags: ['Tea Review', 'Cupboard', 'white2tea']
+  tags: ['Teas']
   description: 'Many minis oh so many minis, my credit card is screaming "Help me !"'
 ---
 

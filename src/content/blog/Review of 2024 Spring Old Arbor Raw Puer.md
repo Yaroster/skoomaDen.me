@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 Spring Old Arbor Raw Puer by white2tea"
 date: 2024-05-18
-tags: ['Tea Review', 'white2tea']
+tags: ['Teas']
 description: "Review of 2024 Spring Old Arbor Raw Puer by white2tea."
 ---
 

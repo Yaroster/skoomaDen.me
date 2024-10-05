@@ -1,7 +1,7 @@
 ---
 title: "Review of Milky Oolong by Palais des Thés"
 date: 2024-06-10
-tags: ['Tea Review', 'Palais des Thés']
+tags: ['Teas']
 description: "Review of the Milky Oolong by Palais des Thés."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 teadontlie Minis by white2tea"
 date: 2024-07-05
-tags: ['Tea Review', 'white2tea']
+tags: ['Teas']
 description: "Review of the 2024 teadontlie Minis by white2tea."
 ---
 

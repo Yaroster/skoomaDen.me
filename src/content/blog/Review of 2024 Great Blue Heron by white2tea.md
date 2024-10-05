@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 Great Blue Heron Minis by white2tea"
 date: 2024-05-22
-tags: ['Tea Review', 'white2tea']
+tags: ['Teas']
 description: "Review of 2024 Great Blue Heron Minis by white2tea"
 ---
 

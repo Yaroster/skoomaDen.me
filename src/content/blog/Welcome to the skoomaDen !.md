@@ -1,20 +1,20 @@
 ---
-title: Welcome to the skoomaDen !
+title: Bienvenue au skoomaDen !
 date: 2024-04-25
-tags: ['Announcements']
+tags: ['Annonces', 'Français']
 description: ''
 ---
 
-Hello everyone ! 
+Bonjour à tous ! 
 
-I'm Yaroster, owner of the hand behind the Den !
+Je suis Yaroster, le maître d'œuvre derrière le Den !
 
-Here, we'll talk about everything from tea to coding, from games to books, from music to movies.
+Ici, nous parlerons de tout, du thé à la programmation, des jeux aux livres, de la musique aux films.
 
-I hope you'll enjoy your stay here, and that you'll find something that will make you smile.
+J'espère que vous apprécierez votre passage ici et que vous trouverez quelque chose qui vous fera sourire.
 
-The den is always open to whomever wishes, so don't hesitate to come in and say hi !
+Le Den est toujours ouvert à ceux qui le souhaitent, alors n'hésitez pas à entrer et à dire bonjour !
 
-See you soon !
+À très bientôt !
 
  *- yaro*

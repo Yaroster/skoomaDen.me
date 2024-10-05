@@ -1,7 +1,7 @@
 ---
 title: "Review of Avantcha"  
 date: 2024-09-23  
-tags: ['Tea Review', 'Avantcha']  
+tags: ['Teas']  
 description: "An exploration of Avantcha's unique tea offerings."
 cover: "/covers/cover-06.png"
 ---

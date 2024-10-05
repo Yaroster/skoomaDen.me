@@ -205,7 +205,7 @@ The first thing I saw was a large board on which was written "本国宝级", Nat
 
 ![](image-62.png)
 
-Indeed, the full text translated to "日本国宝级经典动画," "Japan's National Treasure-Level Classic Anime." I thus paid 35元 and got into the building. It was an exhibition of [cels](https://en.wikipedia.org/wiki/Cel) from every manga classic you can think of. 
+Indeed, the full text translated to "日本国宝级经典动画," "Japan's National Treasure-Level Classic Animes." I thus paid 35元 and got into the building. It was an exhibition of [cels](https://en.wikipedia.org/wiki/Cel) from every manga classic you can think of. 
 
 ![](<Group 1-6.png>)
 
@@ -299,7 +299,7 @@ Walking past the Eastern Gate (lit. Donghuamen), I stumbled upon a place I had s
 There were many malls around the Donghuamen Eastern Gate, a main boulevard connecting them all together. I would enter the smallest of entrances to be led into giant underground malls, filled with passionate Beijingers who seemed to have an innate knowledge of the intricate passageways connecting the malls, like a thin thread of well-held-together fabric.
 
 One such underground mall is connected to the easternmost metro station!
-This specific mall was filled with anime merch and shops, and cosplayers filming themselves doing [Douyin](https://zh.wikipedia.org/zh-hans/%E6%8A%96%E9%9F%B3) dance moves! It was very fun!
+This specific mall was filled with Animes merch and shops, and cosplayers filming themselves doing [Douyin](https://zh.wikipedia.org/zh-hans/%E6%8A%96%E9%9F%B3) dance moves! It was very fun!
 
 ![](<Group 1-20.png>)
 

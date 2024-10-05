@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 Philtre Minis by white2tea"
 date: 2024-06-23
-tags: ['Tea Review', 'white2tea']
+tags: ['Teas']
 description: "Review of the 2024 Philtre Minis by white2tea."
 ---
 

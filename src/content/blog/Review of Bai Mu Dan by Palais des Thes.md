@@ -1,7 +1,7 @@
 ---
 title: "Review of Bai Mu Dan by Palais des Thés"
 date: 2024-05-01
-tags: ['Tea Review', 'Palais des Thés']
+tags: ['Teas']
 description: "Review of Bai Mu Dan by Palais des Thés"
 ---
 

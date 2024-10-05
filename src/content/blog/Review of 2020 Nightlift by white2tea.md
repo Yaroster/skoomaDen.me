@@ -1,7 +1,7 @@
 ---
 title: "Review of 2020 Nightlife by white2tea"
 date: 2024-05-12
-tags: ['Tea Review', 'white2tea']
+tags: ['Teas']
 description: "Review of 2020 Nightlife by white2tea."
 ---
 

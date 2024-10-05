@@ -1,7 +1,7 @@
 ---
 title: "Review of Le Temps Retrouvé by Palais des Thés"
 date: 2024-06-17
-tags: ['Tea Review', 'Palais des Thés']
+tags: ['Teas']
 description: "Review of the Le Temps Retrouvé by Palais des Thés."
 ---
 

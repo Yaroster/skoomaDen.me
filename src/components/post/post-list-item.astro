@@ -37,7 +37,7 @@ const { post } = Astro.props;
 
     <div class="meta">
       <DateTag date={post.data.date} />
-      {post.data.tags?.map((tag) => <Tag tag={tag} />)}
+      {post.data.tags?.filter(tag => tag !== "Français").map((tag) => <Tag tag={tag} />)}
     </div>
 
   </div>

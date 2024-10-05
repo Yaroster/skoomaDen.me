@@ -6,21 +6,147 @@ type Props = {
 };
 
 const { slugs, activeSlug, generateLink } = Astro.props;
+
+// Tags prioritaires "English" et "Français"
+const priorityTags = ["English", "Français"];
+let otherTags = slugs.filter(slug => !priorityTags.includes(slug));
+
+// Remplacements spécifiques pour le français
+const frenchTagReplacements = {
+  "Animes": "Animés",
+  "Announcements": "Annonces",
+  "Books": "Livres",
+  "Games": "Jeux",
+  "Logbook": "Journal de Bord",
+  "Multimedia": "Multimédia",
+  "Teas": "Thés",
+  "Teahouse": "Maison de Thé",
+};
+
+// On récupère le dernier segment de l'URL (le slug actif)
+const currentSlug = decodeURIComponent(Astro.url.pathname.split('/').pop() || '');
+
+// Vérifie si la page actuelle est en français ou doit afficher des tags traduits
+const isFrenchPage = [
+  "Français", 
+  "Thés", 
+  "Animés", 
+  "Multimédia", 
+  "Maison de Thé", 
+  "Journal de Bord", 
+  "Jeux",
+  "Livres",
+  "Annonces"
+].includes(currentSlug);
+
+// Appliquer les remplacements de tags uniquement si nous sommes sur une page en français comme /tags/Français, /tags/Thés, etc.
+if (isFrenchPage) {
+  otherTags = otherTags.map(tag => frenchTagReplacements[tag] || tag);
+  // Supprimer les doublons en français
+  otherTags = [...new Set(otherTags)];
+} else {
+  // Si nous ne sommes pas sur une page française, filtrer les tags français pour éviter les doublons en anglais
+  otherTags = otherTags.filter(tag => !Object.values(frenchTagReplacements).includes(tag));
+}
+
+// Sélectionne le tag actif par défaut s'il n'y en a pas
+const defaultActiveTag = activeSlug || (isFrenchPage ? currentSlug : "English");
 ---
 
-<div class="meta tags-page">
-  {
-    slugs.map((slug, index) => (
-      <>
-        <a
-          href={generateLink(slug)}
-          target="_self"
-          class={`${activeSlug === slug ? "tag-active" : ""}`}
-        >
-          {slug}
-        </a>
-        <span>{index === slugs.length - 1 ? "" : ""}</span>
-      </>
-    ))
+<style>
+  .meta.tags-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
   }
+
+  .priority-tags {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .other-tags {
+    display: flex;
+    justify-content: center; /* Centre horizontalement les autres tags */
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .priority-tags a {
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: #f3e8ff;
+    color: #6a0dad;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  }
+
+  .priority-tags a:hover {
+    background-color: #e0c3ff;
+    transform: translateY(-1px);
+  }
+
+  .highlighted-tag {
+    background-color: #b084f7;
+    color: white;
+  }
+
+  .tag-active {
+    background-color: #7d3cff;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .other-tags a {
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+  }
+</style>
+
+<div class="meta tags-page">
+  <!-- Affichage des tags prioritaires "English" et "Français" -->
+  <div class="priority-tags">
+    {priorityTags.map((slug) => (
+      <a
+        href={slug === "English" ? "/" : generateLink(slug)}
+        target="_self"
+        class={`${
+          defaultActiveTag === slug ? "tag-active" : ""
+        } ${slug === "Français" || slug === "English" ? "highlighted-tag" : ""}`}
+      >
+        {slug}
+      </a>
+    ))}
+  </div>
+
+  <!-- Affichage des autres tags, traduits et filtrés pour éviter les doublons -->
+  <div class="other-tags">
+    {otherTags.map((slug) => (
+      <a
+        href={generateLink(slug)}
+        target="_self"
+        class={`${defaultActiveTag === slug ? "tag-active" : ""}`}
+      >
+        {slug}
+      </a>
+    ))}
+  </div>
 </div>

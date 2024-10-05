@@ -36,9 +36,12 @@ type Props = {
 };
 
 const { slug, posts, tags } = Astro.props;
+
+// Trier les articles par date décroissante
+const sortedPosts = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 ---
 
 <Layout>
   <SlugList slugs={tags} activeSlug={slug} generateLink={(slug) => `/tags/${encodeURI(slug)}`} />
-  <PostListing posts={posts} />
+  <PostListing posts={sortedPosts} />
 </Layout>

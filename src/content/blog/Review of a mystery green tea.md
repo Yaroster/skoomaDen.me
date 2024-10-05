@@ -1,7 +1,7 @@
 ---
 title: "Review of a Mysterious Green Tea"
 date: 2024-06-09
-tags: ['Tea Review']
+tags: ['Teas']
 description: "Review of a mysterious green tea I was gifted recently"
 ---
 

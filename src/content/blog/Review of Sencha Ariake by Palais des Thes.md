@@ -1,7 +1,7 @@
 ---
 title: "Review of Sencha Ariake by Palais des Thés"
 date: 2024-04-25
-tags: ['Tea Review', 'Palais des Thés']
+tags: ['Teas']
 description: "Review of Sencha Ariake by Palais des Thés"
 ---
 

@@ -1,7 +1,7 @@
 ---
   title: White2tea Tea Club — June 2024 ! 
   date: 2024-06-04
-  tags: ['Tea Review', 'Cupboard', 'white2tea']
+  tags: ['Teas']
   description: 'Well this came in early'
 ---
 
