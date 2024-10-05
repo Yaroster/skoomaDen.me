@@ -307,8 +307,8 @@ article > p {
 }
 
 p.summary {
-    font-family: var(--sans-serif-regular);
-    font-size: 1.188rem;
+    font-family: var(--serif-copy);
+    font-size: 1.25rem;
     line-height: 1.563rem;
     color: var(--text-secondary-alt);
     letter-spacing: -0.011em;
