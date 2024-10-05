@@ -329,9 +329,7 @@ p.post-summary {
     line-height: 1.75rem;
     color: var(--text-secondary-alt);
     letter-spacing: -0.011em;
-    margin-top: var(--spacing-06);
-    margin-bottom: var(--spacing-06);
-    
+    margin-bottom: var(--spacing-06);    
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
 }
