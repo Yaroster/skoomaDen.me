@@ -1,7 +1,7 @@
 ---
 title: "Chai Latte et Philosophie de comptoir"
 date: 2024-05-04
-tags: ['Thés']
+tags: ['Archive']
 description: "Il est 6h du matin, je me fais un Chai Latte et je réfléchis à la quête éternelle du succès."
 ---
 

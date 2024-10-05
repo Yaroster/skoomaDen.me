@@ -13,6 +13,14 @@
 }
 
 @font-face {
+    font-family: "description";
+    src: url("/fonts/description.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: "08regular";
     src: url("/fonts/08regular.woff") format("woff"),
          url("/fonts/08regular.woff2") format("woff2");
@@ -307,17 +315,16 @@ article > p {
 }
 
 p.summary {
-    font-family: var(--serif-copy);
-    font-size: 1.25rem;
+    font-family: "description";
     line-height: 1.563rem;
     color: var(--text-secondary-alt);
     letter-spacing: -0.011em;
-    margin-top: var(--spacing-05);
-    margin-bottom: var(--spacing-06);
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
 }
 
 p.post-summary {
-    font-family: var(--sans-serif-regular);
+    font-family: "description";
     font-size: 1.375rem;
     line-height: 1.75rem;
     color: var(--text-secondary-alt);
@@ -339,12 +346,6 @@ p.post-summary {
 mark {
     border-radius: 0;
     background: transparent;
-    background-image: linear-gradient(
-      to right,
-      rgba(255, 204, 0, 0.1),
-      rgba(255, 204, 0, 0.3) 12%,
-      rgba(255, 204, 0, 0.1)
-    );
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
     color: var(--text-primary);

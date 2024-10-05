@@ -2,7 +2,7 @@
   title: "Dai Gyakuten Saiban : Une Odyssée de Justice à Travers les Empires."
   date: 2024-09-27
   tags: ['Multimédia', 'Jeux', 'Français']
-  description: "[SANS SPOILER] Merci Shu Takumi."
+  description: "Merci Shu Takumi."
   cover: "/covers/cover-dgs.png"
 ---
 
