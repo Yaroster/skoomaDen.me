@@ -9,11 +9,19 @@ type Props = {
 
 const { post } = Astro.props;
 
-// Si l'article a le tag "Archive", on ne l'affiche pas sauf si on est sur la page des Archives
+// Determine if the post is in French by checking if the slug contains "-fr"
+const isFrenchPost = post.slug.includes("-fr");
+
+// Generate the URL depending on whether the post is French or English
+const postUrl = isFrenchPost 
+  ? `/fr/posts/${post.slug.replace('-fr', '')}` // Rewrite to /fr/posts/ without the -fr in the URL
+  : `/en/posts/${post.slug}`; // Rewrite to /en/posts/ for English posts
+
+// If the article has the tag "Archive", we do not display it unless we are on the Archive page
 const isArchivePage = decodeURIComponent(Astro.url.pathname).includes('/tags/Archive');
 
 if (!isArchivePage && post.data.tags?.includes("Archive")) {
-  return null; // Ne pas afficher les articles ayant le tag "Archive" sauf sur la page des Archives
+  return null; // Do not display Archive-tagged articles unless on the Archive page
 }
 
 ---
@@ -21,7 +29,7 @@ if (!isArchivePage && post.data.tags?.includes("Archive")) {
 <section>
   {
     post.slug && (
-      <a href={`/posts/${post.slug}`} target="_self">
+      <a href={postUrl} target="_self">
         {post.data.cover && (
           <figure>
             <img
@@ -35,11 +43,11 @@ if (!isArchivePage && post.data.tags?.includes("Archive")) {
   }
   <div>
 
-    <a href={`/posts/${post.slug}`} target="_self">
+    <a href={postUrl} target="_self">
       <h2 class="front-page-heading">{post.data.title}</h2>
     </a>
 
-    <a href={`/posts/${post.slug}`} target="_self">
+    <a href={postUrl} target="_self">
       <p class="summary">{post.data.description}</p>
     </a>
 
