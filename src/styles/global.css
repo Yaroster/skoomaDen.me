@@ -344,6 +344,12 @@ p.post-summary {
 mark {
     border-radius: 0;
     background: transparent;
+    background-image: linear-gradient(
+        to right,
+        rgba(255, 204, 0, 0.1),
+        rgba(255, 204, 0, 0.3) 12%,
+        rgba(255, 204, 0, 0.1)
+      );
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
     color: var(--text-primary);
