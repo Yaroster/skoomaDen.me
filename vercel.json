@@ -5,8 +5,8 @@
       "destination": "/tags/Français"
     },
     {
-      "source": "/posts/:slug-fr",
-      "destination": "/fr/posts/:slug"
+      "source": "/:path*/*-fr",
+      "destination": "/fr/:path*"
     }
   ]
 }
