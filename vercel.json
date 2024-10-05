@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/fr",
+        "destination": "/tags/Français"
+      }
+    ]
+  }
+  
