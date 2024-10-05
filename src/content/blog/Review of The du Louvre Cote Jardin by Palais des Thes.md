@@ -1,7 +1,7 @@
 ---
 title: "Review of Thé du Louvre Cote Jardin by Palais des Thés"
 date: 2024-05-01
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of Thé du Louvre Cote Jardin by Palais des Thés"
 ---
 

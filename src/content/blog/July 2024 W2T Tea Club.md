@@ -1,7 +1,7 @@
 ---
 title: White2tea Tea Club — July 2024 ! 
 date: 2024-07-24
-tags: ['Teas']
+tags: ['Archive']
 description: 'Excited to dive into the new teas!'
 ---
 

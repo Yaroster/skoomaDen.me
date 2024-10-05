@@ -8,6 +8,14 @@ type Props = {
 };
 
 const { post } = Astro.props;
+
+// Si l'article a le tag "Archive", on ne l'affiche pas sauf si on est sur la page des Archives
+const isArchivePage = decodeURIComponent(Astro.url.pathname).includes('/tags/Archive');
+
+if (!isArchivePage && post.data.tags?.includes("Archive")) {
+  return null; // Ne pas afficher les articles ayant le tag "Archive" sauf sur la page des Archives
+}
+
 ---
 
 <section>

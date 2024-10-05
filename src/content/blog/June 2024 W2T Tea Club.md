@@ -1,7 +1,7 @@
 ---
   title: White2tea Tea Club — June 2024 ! 
   date: 2024-06-04
-  tags: ['Teas']
+  tags: ['Archive']
   description: 'Well this came in early'
 ---
 

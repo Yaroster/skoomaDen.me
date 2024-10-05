@@ -1,7 +1,7 @@
 ---
 title: "Review of Thé des Alizés by Palais des Thés"
 date: 2024-05-14
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of Thé des Alizés by Palais des Thés"
 ---
 

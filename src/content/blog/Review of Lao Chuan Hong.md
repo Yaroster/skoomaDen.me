@@ -1,7 +1,7 @@
 ---
 title: "Review of Lao Chuan Hong by white2tea"
 date: 2024-06-06
-tags: ['Teas']
+tags: ['Archive']
 description: "My first 100/100 ! One heck of a black tea"
 ---
 

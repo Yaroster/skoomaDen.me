@@ -1,7 +1,7 @@
 ---
 title: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
 date: 2024-04-25
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of Pu Erh Lin Cang BIO by Palais des Thés"
 ---
 

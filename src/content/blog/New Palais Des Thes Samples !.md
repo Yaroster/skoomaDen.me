@@ -1,7 +1,7 @@
 ---
 title: "New Palais Des Thés Samples !"
 date: 2024-06-10
-tags: ['Teas']
+tags: ['Archive']
 description: "Maybe I went overboard, again ?"
 ---
 

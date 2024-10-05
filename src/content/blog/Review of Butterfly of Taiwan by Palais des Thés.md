@@ -1,7 +1,7 @@
 ---
 title: "Review of Butterfly of Taiwan by Palais des Thés"
 date: 2024-06-23
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of the Butterfly of Taiwan by Palais des Thés."
 ---
 

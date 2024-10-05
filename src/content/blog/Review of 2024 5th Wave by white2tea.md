@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 5th Wave by white2tea"
 date: 2024-05-23
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of 2024 5th Wave by white2tea"
 ---
 

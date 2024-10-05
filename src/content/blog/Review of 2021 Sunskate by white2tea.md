@@ -1,7 +1,7 @@
 ---
 title: "Review of 2021 Sunskate by white2tea"
 date: 2024-06-02
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of 2021 Sunskate by white2tea."
 ---
 

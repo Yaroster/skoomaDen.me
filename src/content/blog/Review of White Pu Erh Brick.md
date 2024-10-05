@@ -1,7 +1,7 @@
 ---
 title: "Review of White Pu Erh Brick"
 date: 2024-04-29
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of a mysterious White Pu Erh Brick"
 ---
 

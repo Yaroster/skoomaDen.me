@@ -1,7 +1,7 @@
 ---
   title: New white2tea teas !!!
   date: 2024-06-02
-  tags: ['Teas']
+  tags: ['Archive']
   description: 'Many minis oh so many minis, my credit card is screaming "Help me !"'
 ---
 

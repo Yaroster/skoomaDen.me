@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 Nightlife Mini by white2tea"
 date: 2024-07-05
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of the 2024 Nightlife Mini by white2tea."
 ---
 

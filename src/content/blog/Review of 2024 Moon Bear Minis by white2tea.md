@@ -1,7 +1,7 @@
 ---
 title: "Review of 2024 Moon Bear Minis by white2tea"
 date: 2024-07-07
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of the 2024 Moon Bear Minis by white2tea."
 ---
 

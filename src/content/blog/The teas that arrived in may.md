@@ -1,7 +1,7 @@
 ---
   title: Teas that arrived in May!
   date: 2024-05-12
-  tags: ['Teas']
+  tags: ['Archive']
   description: 'Unboxing and exploring the teas I FINALLY received this month!'
 ---
 

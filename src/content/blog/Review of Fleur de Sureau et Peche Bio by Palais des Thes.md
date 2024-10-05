@@ -1,7 +1,7 @@
 ---
 title: "Review of Fleur de Sureau et Pêche Bio by Palais des Thés"
 date: 2024-04-25
-tags: ['Teas']
+tags: ['Archive']
 description: "Review of Fleur de Sureau et Pêche Bio by Palais des Thés"
 ---
 

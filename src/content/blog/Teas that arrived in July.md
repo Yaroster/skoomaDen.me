@@ -1,7 +1,7 @@
 ---
 title: "Teas that arrived in June!"
 date: 2024-05-29
-tags: ['Teas']
+tags: ['Archive']
 description: "The (few) teas I've got this month so far !"
 ---
 

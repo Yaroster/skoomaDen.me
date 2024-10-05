@@ -1,7 +1,7 @@
 ---
 title: "Chai Latte and Bar-room Philosophy"
 date: 2024-05-04
-tags: ['Teas']
+tags: ['Archive']
 description: "It's 6 am, made myself some Chai Latte and thinking about the eternal quest for success."
 ---
 

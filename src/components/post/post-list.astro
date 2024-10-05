@@ -7,8 +7,16 @@ type Props = {
 };
 
 const { posts } = Astro.props;
+
+// Filtrer les articles pour ne pas afficher ceux avec le tag "Archive" sauf si on est sur la page Archive
+const isArchivePage = decodeURIComponent(Astro.url.pathname).includes('/tags/Archive');
+
+const filteredPosts = isArchivePage 
+  ? posts  // Si on est sur la page des Archives, afficher tous les articles
+  : posts.filter(post => !post.data.tags?.includes("Archive"));  // Sinon, exclure ceux avec "Archive"
+
 ---
 
 <div>
-  {(posts ?? []).map((post) => <PostListItem post={post} />)}
+  {(filteredPosts ?? []).map((post) => <PostListItem post={post} />)}
 </div>

@@ -5,6 +5,8 @@ import SlugList from "../components/slug-list.astro";
 import { posts, tags } from "../helpers";
 
 const englishPosts = posts.filter(post => !post.data.tags?.includes("Français"));
+const articles = posts.filter(post => !post.data.tags?.includes("Archives"));
+
 ---
 
 <Layout>
