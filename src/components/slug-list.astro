@@ -54,22 +54,24 @@ const defaultActiveTag = activeSlug || (isFrenchPage ? currentSlug : "English");
 ---
 
 <style>
-  .meta.tags-page {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    margin-bottom: 20px;
-    margin-left: -20px;
-    box-sizing: border-box;
-    margin-top: -44px;
-  }
+:global(.meta.tags-page) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-left: -20px; /* Default for larger screens */
+  box-sizing: border-box;
+  margin-top: -44px;
+}
 
-  @media screen and (min-width: 768px) {
-    .meta.tags-page {
-      margin-bottom: 0px;
-    }
+/* iPhones or mobile devices (targeting max-width 767px, typical for mobile) */
+@media (max-width: 767px) {
+  :global(.meta.tags-page) {
+    margin-left: -5px; /* Remove left margin for smaller screens like iPhones */
   }
+}
+
 
   .priority-tags {
     display: flex;
