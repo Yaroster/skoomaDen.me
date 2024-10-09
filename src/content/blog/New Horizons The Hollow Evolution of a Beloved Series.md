@@ -69,9 +69,7 @@ The crafting system, while not part of the original *Animal Crossing* formula, d
 
 At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels more like a sandbox game than an authentic *Animal Crossing* experience. It’s become a task-driven game where you have to create your own objectives. In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), the connection to your town was natural. You felt like you were part of something growing and alive. <mark>[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) turns that into a project-management game where you’re the capitalist overseer.</mark>
 
-![](image-124.png)
-
-## =What Happened to the Heart of Animal Crossing?
+## What Happened to the Heart of Animal Crossing?
 
 ![](image-126.png)
 
@@ -80,4 +78,4 @@ At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_H
 ![](image-125.png)
 
 In the end, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) is great for those who love designing islands, but for fans like my girlfriend who are seeking that deeper connection with their town and villagers, it falls short. It’s a game for builders and managers, not for those who want to lose themselves in the charm and warmth of a living town. Sure, if you haven't played New Leaf, it would be difficult to compare without a reference point, new players would've been lost. And that’s why [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) still reigns supreme in her eyes. 
-
+![](image-124.png)
