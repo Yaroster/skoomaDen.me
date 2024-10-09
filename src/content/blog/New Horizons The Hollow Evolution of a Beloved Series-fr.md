@@ -1,5 +1,5 @@
 ---
-title: "ACNH : L'évolution Creuse D'une Série Bien-Aimée"  
+title: "ACNH: L'Évolution Vide d'Une Série Bien-Aimée"  
 date: 2024-10-10  
 tags: ['Multimédia','Jeux', 'Français']  
 description: "Pourquoi New Leaf continue d'éclipser New Horizons."  
