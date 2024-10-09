@@ -39,6 +39,8 @@ Le rythme plus lent permet aux joueurs d’absorber ces subtilités culturelles.
 
 ## Personnages
 
+![](https://i.imgur.com/rZ9fGTE.jpeg)
+
 [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) brille par ses personnages, bien plus que par ses procès parfois interminables. La transformation de Ryūnosuke, de novice à avocat aguerri, suit un schéma classique, mais ici, c’est fait avec une subtilité que la franchise avait peut-être oubliée. La relation tendue entre le Japon et la Grande-Bretagne est palpable, et ce n’est pas une simple tension de façade. On y plonge jusqu’au cou.
 
 [Kazuma Asogi](https://aceattorney.fandom.com/wiki/Kazuma_Asogi), l’ami charismatique, est la force qui pousse Ryūnosuke à avancer. Mais soyons honnêtes, son rôle est bien plus prévisible que ce qu’on essaie de nous faire croire. Malgré cela, il est un pilier émotionnel, même si son arc n'atteint pas les hauteurs qu'on aurait pu espérer.
