@@ -1,5 +1,5 @@
 ---
-title: "Dai Gyakuten Saiban: An Odyssey of Justice Across Empires."
+title: "Dai Gyakuten Saiban: Justice Across Empires."
 date: 2024-09-27
 tags: ['Multimedia', 'Games']
 description: "Thank you, Shu Takumi."
