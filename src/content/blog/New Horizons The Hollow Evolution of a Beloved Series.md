@@ -10,7 +10,7 @@ If there’s one thing my girlfriend loves to rant about, it’s how *Animal Cro
 
 ## Furniture and Customization
 
-Despite [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) allowing players to place furniture outdoors—a feature fans had long clamored for—there’s something missing. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had a wider variety of furniture sets, many of which were more cohesive and thoughtfully designed. <mark>It’s surprising, but [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) simply had better furniture options.</mark> And to top it off, [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had larger rooms, offering players more freedom to decorate inside. In [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons), it feels like they added random items without the same care. The outside furniture is nice, but why lose the quality indoor sets?
+Despite [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) allowing players to place furniture outdoors—a feature fans had long clamored for—there’s something missing. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had a wider variety of furniture sets, many of which were more cohesive and thoughtfully designed. <mark>It’s surprising, but [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) simply had better furniture options.</mark> And to top it off, [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had larger rooms, offering players more freedom to decorate inside.
 
 ![](image-117.png)
 
