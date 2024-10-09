@@ -71,7 +71,6 @@ At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_H
 
 ![](image-124.png)
 
-<br><br>
 
 ## What Happened to the Heart of Animal Crossing?
 
@@ -81,3 +80,4 @@ At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_H
 
 In the end, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) is great for those who love designing islands, but for fans like my girlfriend who are seeking that deeper connection with their town and villagers, it falls short. It’s a game for builders and managers, not for those who want to lose themselves in the charm and warmth of a living town. Sure, if you haven't played New Leaf, it would be difficult to compare without a reference point, new players would've been lost. And that’s why [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) still reigns supreme in her eyes. 
 
+<mark>- yaro</mark>
