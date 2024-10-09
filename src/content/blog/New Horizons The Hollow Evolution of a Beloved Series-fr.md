@@ -2,7 +2,7 @@
 title: "ACNH: L'Évolution Vide d'Une Série Bien-Aimée"  
 date: 2024-10-10  
 tags: ['Multimédia','Jeux', 'Français']  
-description: "Pourquoi New Leaf continue d'éclipser New Horizons."  
+description: "Tout ce pourquoi New Leaf continue d'éclipser New Horizons."  
 cover: "/covers/cover-acnh.png"  
 ---
 
