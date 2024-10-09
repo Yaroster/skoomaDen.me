@@ -41,9 +41,11 @@ Le studio a su capitaliser sur l'épuisement créatif de [Pixar](https://www.cne
 ## Réinvention Stylistique : The Last Wish  
 ![](image-113.png)
 
-Prenons [*Puss in Boots: The Last Wish*](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish). En surface, ce film marque une évolution stylistique indéniable, avec une direction artistique audacieuse inspirée de *Spider-Man: Into the Spider-Verse*. Mais derrière ce choix esthétique se cache une réalité plus cynique : DreamWorks ne fait que suivre une tendance déjà initiée ailleurs. Oui, *The Last Wish* est visuellement époustouflant, mais cette beauté ne peut dissimuler le fait que le studio a simplement adapté une formule déjà éprouvée pour lui donner un coup de jeune.
+Prenons [*Puss in Boots: The Last Wish*](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish). Ceux qui tentent de réduire la direction artistique de ce film à une simple imitation de la tendance lancée par *Spider-Man: Into the Spider-Verse* passent complètement à côté du sujet. Ce film se distingue non seulement par son style audacieux et illustratif, mais surtout parce qu’il prouve que l’animation occidentale a encore un potentiel inexploité. Dans un paysage saturé de faux Pixar — des films si dépourvus d'inspiration qu'ils semblent dirigés par une IA — *The Last Wish* est un souffle de vie, presque défiant.
 
-L’exploration de la mortalité est une belle idée, surtout dans un film destiné à un public familial, mais là encore, on sent que DreamWorks cherche à combler un vide émotionnel plutôt qu’à réellement innover. C'est un film qui joue sur les mêmes ressorts émotionnels que ses prédécesseurs tout en déguisant cela sous une nouvelle esthétique, certes séduisante, mais au final peu révolutionnaire.
+Ce qui rend ce film véritablement exceptionnel, c’est la manière dont ses choix artistiques ne sont pas simplement cosmétiques. La texture, les visuels rappelant des coups de pinceau, tout sert à raconter une histoire plus profonde et plus émotionnelle sur la mortalité. Ce n’est pas un thème léger pour un film destiné aux familles, mais DreamWorks l'aborde de front, en utilisant chaque once d'ingéniosité visuelle pour construire une narration vivante, originale et audacieuse.
+
+Il ne s'agit pas simplement de maintenir un personnage emblématique à flot. Non, *The Last Wish* est la preuve que l’animation occidentale a encore la capacité d’innover véritablement quand elle n'est pas diluée par la cupidité des studios. Pendant que d'autres se contentent de produire des copies oubliables et sans âme des gloires passées de Pixar, *The Last Wish* rappelle que l’animation peut — et doit — repousser les limites, à la fois visuellement et narrativement.
 
 ## Introspection : The Wild Robot  
 ![](image-114.png)
