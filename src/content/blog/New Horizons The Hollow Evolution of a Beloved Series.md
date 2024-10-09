@@ -74,7 +74,7 @@ At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_H
 
 ## What Happened to the Heart of Animal Crossing?
 
-[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) lost something important: its spirit. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had heart—letters from your dad, the town tree growing as a symbol of your progress. Now, those small touches are gone. There’s no emotional anchor. <mark>Where [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) felt like a living, breathing community, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels like a checklist of tasks to complete.</mark> The tree, the letters, the little things that mattered are missing. What we’re left with is a beautiful but soulless shell.
+[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) lost something important: its spirit. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had heart—letters from your dad, the town tree growing as a symbol of your progress. Now, those small touches are gone. There’s no emotional anchor. <mark>Where [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) felt like a living, breathing community, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels like a checklist of tasks to complete.</mark> The growing tree, the snappy conversations, the little things that mattered are missing. What we’re left with is a beautiful but soulless shell.
 
 ![](image-125.png)
 
