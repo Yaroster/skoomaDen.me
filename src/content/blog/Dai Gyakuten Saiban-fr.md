@@ -61,6 +61,8 @@ Derrière tout ça, il y a évidemment [Shu Takumi](https://en.wikipedia.org/wik
 
 Le jeu combine tensions historiques et batailles juridiques avec une profondeur qui manquait cruellement dans certains volets de la série. <mark>*Dai Gyakuten Saiban* n’est pas un simple spin-off, c’est un rappel que Takumi sait encore comment faire monter la tension sans exploser les nerfs de ses joueurs (quoique...).</mark>
 
+![](image-97.png)
+
 ## Le Tribunal
 
 ![](image-99.png)

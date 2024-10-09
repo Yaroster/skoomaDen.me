@@ -61,6 +61,8 @@ Behind it all is, of course, [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Taku
 
 The game blends historical tensions and legal battles with a depth that some recent installments lacked. <mark>*Dai Gyakuten Saiban* isn’t just a spin-off, it’s a reminder that Takumi still knows how to build tension without blowing his players' nerves (well, maybe...).</mark>
 
+![](image-97.png)
+
 ## The Courtroom
 
 ![](image-99.png)
