@@ -18,7 +18,7 @@ Yes, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)
 
 <mark>The "villager-trading" trend in [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) cheapened the entire experience.</mark> Trading villagers like collectibles for the sake of getting the cutest one? That takes away from the heart of the game. Villagers are no longer part of a rich community; they’ve become trophies. This dynamic robs the game of its emotional core.
 
-### Villager Dynamics: From Personality to Repetition
+## Villager Dynamics: From Personality to Repetition
 
 One of the most heartbreaking losses in *New Horizons* is not just how villagers talk to you but *how little you can do with them*. In *New Leaf*, villagers felt like they were part of your daily life in a deeper way—you could play mini-games like hide and seek, ask them for favors, and even have more interactive moments like inviting them to hang out at your house. Now, while villagers in *New Horizons* can sit, read, and do aerobics -- but all these interactions feel surface-level.
 
