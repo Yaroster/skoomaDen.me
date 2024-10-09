@@ -17,7 +17,7 @@ Despite [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizo
 Yes, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) makes customization easier with tools like terraforming and cliff creation, but for her, it’s an empty experience compared to the authentic charm [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) offered. <mark>It’s not just about making an island look pretty; it’s about the feeling of building something personal and alive, and [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) misses that mark.</mark>
 
 
-## Villager Dynamics: From Personality to Repetition
+## From Personality to Repetition
 
 One of the most glaring differences is how villagers interact with the player. In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), conversations felt more spontaneous, with villagers expressing a range of emotions—sometimes blunt, sometimes affectionate. In [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons), all the villagers seem to have adopted the same sunny, repetitive tone, and their quirks are gone. The uniqueness that made each character special in [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) has been watered down.
 
@@ -30,6 +30,7 @@ One of the most glaring differences is how villagers interact with the player. I
 
 In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), being the mayor wasn’t just a title—it made you feel important. You had an office, a sense of purpose, and every decision felt like it mattered. In [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons), they pretend you’re just another villager, but the reality is you’re still in control of everything. It just feels less significant. <mark>[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) turned what was a meaningful role into a checklist of tasks.</mark> Gone is the feeling of leading your town; instead, you're managing a project.
 
+![](NL_Player_as_Mayor_2.png)
 
 ## From Vibrant Towns to Lifeless Islands
 
@@ -48,14 +49,13 @@ While [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons
 
 The game’s release also felt incomplete. Features like Kap’n and Katrina were added months after launch, and this trickle of content made the game feel unfinished, like it was always playing catch-up. <mark>It felt like they were reacting to complaints rather than delivering a full experience from the start.</mark>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-INScb0vxM?si=D6tDPUxQtrSDkUfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="width: 100%; height: 472.5px" allowfullscreen></iframe>
-
 ## Multiplayer and Mini-Games
 
 In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), multiplayer was engaging thanks to the mini-games on Tortimer Island. [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)? Multiplayer feels pointless. There’s no real interaction, no shared experiences—just wandering around other islands with little purpose. The mini-games were a huge loss, and without them, multiplayer feels hollow.
 
 ![](image-121.png)
 
+Even though a lot more players can now play together, the experience feels less connected. The island tours were a fun way to bond with friends, and their absence is sorely felt. <mark>It’s a shame that [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) missed the mark on what made multiplayer in [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) so special.</mark> <br><br>
 
 ## Bright Spots Amidst the Flaws
 
@@ -67,15 +67,17 @@ The crafting system, while not part of the original *Animal Crossing* formula, d
 
 ## The Sandbox Problem: Freedom and No Connection
 
-At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels more like a sandbox game than an authentic *Animal Crossing* experience. It’s become a task-driven game where you have to create your own objectives. In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), the connection to your town was natural. You felt like you were part of something growing and alive. <mark>[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) turns that into a project-management game where you’re the capitalist overseer.</mark>
+At its core, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels more like a sandbox game than an authentic *Animal Crossing* experience. It’s become a task-driven game where you have to create your own objectives. In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), the connection to your town was natural. You felt like you were part of something growing and alive. <mark>[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) turns that into a project-management game where you’re the capitalist overseer.</mark> <br>
+
+![](image-124.png)
+
+<br><br>
 
 ## What Happened to the Heart of Animal Crossing?
-
-![](image-126.png)
 
 [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) lost something important: its spirit. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had heart—letters from your dad, the town tree growing as a symbol of your progress. Now, those small touches are gone. There’s no emotional anchor. <mark>Where [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) felt like a living, breathing community, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels like a checklist of tasks to complete.</mark> The tree, the letters, the little things that mattered are missing. What we’re left with is a beautiful but soulless shell.
 
 ![](image-125.png)
 
 In the end, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) is great for those who love designing islands, but for fans like my girlfriend who are seeking that deeper connection with their town and villagers, it falls short. It’s a game for builders and managers, not for those who want to lose themselves in the charm and warmth of a living town. Sure, if you haven't played New Leaf, it would be difficult to compare without a reference point, new players would've been lost. And that’s why [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) still reigns supreme in her eyes. 
-![](image-124.png)
+

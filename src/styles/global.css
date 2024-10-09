@@ -332,6 +332,7 @@ p.post-summary {
     margin-bottom: var(--spacing-06);    
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+    margin-top: 0rem;
 }
 
 
