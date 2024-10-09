@@ -312,3 +312,5 @@ This was my last stop before a rather sad final trip to my hostel, and then to t
 My 10-day adventure in China was an incredible journey filled with cultural immersion, new friendships, and unforgettable experiences. From the historic sites of Beijing to the vibrant markets and peaceful teahouses, every day brought something new to discover. This trip not only rekindled my love for Mandarin but also deepened my appreciation for Chinese culture. Whether it was sipping tea with merchants, walking along the Great Wall, or exploring the hidden gems of the city, each moment added a new story to my logbook. I leave China with a heart full of memories and a strong desire to return, and trust me: I will return ! And this time with much more stories to tell you guys on skoomaDen ! 
 
 **Thank you all for reading me, I love you all and wish you a good day, no matter where you all are <3 !**
+
+<mark>- yaro</mark>

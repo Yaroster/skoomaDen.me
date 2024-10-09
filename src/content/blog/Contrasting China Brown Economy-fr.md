@@ -94,3 +94,5 @@ Finalement, je crois que les deux auteurs, [Brown](https://www.kcl.ac.uk/people/
 De mon point de vue, [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping) représente une continuation de la trajectoire historique de la Chine, mélangeant à la fois réforme et continuité. Son accent sur la stabilité et la centralisation reflète une profonde compréhension des besoins politiques de la Chine, tandis que ses ambitions mondiales poussent la Chine vers un rôle plus affirmé dans l'ordre international. Les analyses des deux auteurs offrent des perspectives complémentaires qui aident à dresser un portrait plus complet du leadership complexe et dynamique de Xi Jinping.
 
 P.S. : Il me semble que, bien que les deux auteurs soient des experts de la question des politiques chinoises, ils adoptent une perspective très centrée sur la politique étrangère américaine. Il serait rafraîchissant de voir ces auteurs sortir des sentiers battus et adopter une posture plus indépendante, en particulier pour [Dr. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s Third Revolution.
+
+<mark>- yaro</mark>

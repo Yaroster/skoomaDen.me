@@ -304,3 +304,5 @@ C'était mon dernier arrêt avant un dernier voyage assez triste vers mon auberg
 Mon aventure de 10 jours en Chine a été un voyage incroyable rempli d'immersion culturelle, de nouvelles amitiés, et d'expériences inoubliables. Des sites historiques de Pékin aux marchés animés en passant par les paisibles salons de thé, chaque jour a apporté son lot de découvertes. Ce voyage a non seulement ravivé mon amour pour le mandarin, mais aussi approfondi mon appréciation de la culture chinoise. Que ce soit en sirotant du thé avec des commerçants, en marchant le long de la Grande Muraille, ou en explorant les trésors cachés de la ville, chaque instant a ajouté une nouvelle histoire à mon carnet de voyage. Je quitte la Chine avec un cœur rempli de souvenirs et une forte envie de revenir, et croyez-moi : je reviendrai ! Et cette fois-ci avec encore plus d'histoires à vous raconter sur skoomaDen !
 
 **Merci à vous tous de m'avoir lu, je vous aime tous et je vous souhaite une bonne journée, peu importe où vous vous trouvez <3 !**
+
+<mark>- yaro</mark>

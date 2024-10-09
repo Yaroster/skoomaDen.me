@@ -52,13 +52,11 @@ Et que dire de [*The Wild Robot*](https://en.wikipedia.org/wiki/The_Wild_Robot) 
 
 [*The Wild Robot*](https://www.penguinrandomhouse.com/books/317222/the-wild-robot-by-peter-brown/) illustre bien ce dilemme auquel fait face DreamWorks : l’envie d’explorer de nouveaux territoires, tout en restant suffisamment accessible pour ne pas compromettre les profits.
 
-## L'échec lumineux : Illumination Studios
-
-Pendant ce temps, il est impossible d’ignorer l’impact catastrophique d'[Illumination Studios](https://fr.wikipedia.org/wiki/Illumination_Entertainment) sur l’animation. Avec des films comme *Les Minions* ou *Le Lorax*, Illumination a prouvé qu'il est possible de produire des œuvres cyniquement construites autour du merchandising, vidées de toute substance. Là où DreamWorks au moins tente de masquer ses intentions commerciales derrière un vernis d’innovation, Illumination ne fait même plus cet effort. C’est l’exploitation pure et simple du marché, une machine à cash qui semble se moquer de l’idée même d’art.
-
 ## Conclusion : DreamWorks face à son avenir  
 ![](image-116.png)
 
 La vraie question n'est donc pas de savoir si [DreamWorks](https://fr.wikipedia.org/wiki/DreamWorks_Animation) peut encore innover, mais de savoir s'il ne va pas finir par tomber dans le même piège que ses concurrents, aveuglé par la recherche du profit. L’histoire de [Pixar](https://fr.wikipedia.org/wiki/Pixar_Animation_Studios) est une leçon que DreamWorks ferait bien de méditer. À force de courir après l’audace visuelle et l'expansion commerciale, un studio peut facilement perdre son âme, se répétant inlassablement jusqu’à l’épuisement de sa créativité.
 
 DreamWorks peut-il continuer à surprendre, ou est-il condamné à suivre la voie déjà tracée par [Pixar](https://fr.wikipedia.org/wiki/Pixar_Animation_Studios) et [Disney](https://www.vulture.com/2019/07/disney-remakes-box-office-nostalgia.html), celle d’un appât du gain qui finit par écraser toute tentative d’innovation véritable ? Le temps nous le dira, mais les signes sont déjà là : un studio qui, malgré ses éclats, pourrait bien être sur le point de s’enliser dans une quête perpétuelle de profits au détriment de son essence créative.
+
+<mark>- yaro</mark>

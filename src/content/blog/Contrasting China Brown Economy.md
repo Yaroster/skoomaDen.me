@@ -123,3 +123,5 @@ From my perspective, <mark>[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping
 
 P.S: It is my belief that, while both authors are experts on the question of Chinese policy, they certainly are very US foreign policy centric.
 It would most definitely be a refreshing experience to see these authors break the mold and taking a more independant stance, this is especially true for [Dr. Economy](https://www.hoover.org/profiles/elizabeth-economy)'s Third Revolution.
+
+<mark>- yaro</mark>

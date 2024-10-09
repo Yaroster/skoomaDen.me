@@ -52,13 +52,11 @@ And what about [*The Wild Robot*](https://en.wikipedia.org/wiki/The_Wild_Robot)?
 
 [*The Wild Robot*](https://www.penguinrandomhouse.com/books/317222/the-wild-robot-by-peter-brown/) perfectly illustrates the dilemma DreamWorks faces: the desire to explore new territories while remaining accessible enough not to jeopardize profits.
 
-## The Bright Failure: Illumination Studios
-
-Meanwhile, it’s impossible to ignore the catastrophic impact of [Illumination Studios](https://en.wikipedia.org/wiki/Illumination_Entertainment) on animation. With films like *Minions* or *The Lorax*, Illumination has proven that it's possible to produce works cynically built around merchandising, stripped of any substance. Where DreamWorks at least tries to disguise its commercial intentions with a veneer of innovation, Illumination doesn’t even make that effort. It’s pure exploitation of the market, a cash machine that seems to mock the very idea of art.
-
 ## Conclusion: DreamWorks and Its Future  
 ![](image-116.png)
 
 The real question, then, is not whether [DreamWorks](https://en.wikipedia.org/wiki/DreamWorks_Animation) can still innovate, but whether it will eventually fall into the same trap as its competitors, blinded by the pursuit of profit. The story of [Pixar](https://en.wikipedia.org/wiki/Pixar_Animation_Studios) is a lesson DreamWorks would do well to heed. By constantly chasing visual audacity and commercial expansion, a studio can easily lose its soul, endlessly repeating itself until its creativity is exhausted.
 
 Can DreamWorks continue to surprise, or is it doomed to follow the path already laid by [Pixar](https://en.wikipedia.org/wiki/Pixar_Animation_Studios) and [Disney](https://www.vulture.com/2019/07/disney-remakes-box-office-nostalgia.html), the path of profit-chasing that ends up crushing any true attempt at innovation? Time will tell, but the signs are already there: a studio that, despite its brilliance, may well be on the verge of getting stuck in a perpetual quest for profits at the expense of its creative essence.
+
+<mark>- yaro</mark>
