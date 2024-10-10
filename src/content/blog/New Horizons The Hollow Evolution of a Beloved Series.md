@@ -48,23 +48,23 @@ Where is the sense of community? No club, no disco—nothing feels alive. <mark>
 
 While [*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) introduced some decent new KK Slider tracks, the hourly music throughout the day feels uninspired. In [*New Leaf*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), each hour had its own soundtrack that contributed to the day’s rhythm and emotional connection. <mark>In both games, music shaped the atmosphere, but [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) made each hour feel distinct, adding depth to your experience.</mark>
 
-[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) tries to create a laid-back island vibe, but it doesn’t hit the mark. Most tracks are forgettable, and only a few stand out. The game’s release also felt incomplete. Features like Kap’n and Katrina were added months after launch, making the game feel like it was constantly playing catch-up. <mark>It felt like they were reacting to complaints rather than delivering a complete experience from the start.</mark>
-
 ![](image-120.png)
+
+[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) tries to create a laid-back island vibe, but it doesn’t hit the mark. Most tracks are forgettable, and only a few stand out. The game’s release also felt incomplete. Features like Kap’n and Katrina were added months after launch, making the game feel like it was constantly playing catch-up. <mark>It felt like they were reacting to complaints rather than delivering a complete experience from the start.</mark>
 
 ## Multiplayer and Mini-Games
 
 In [*New Leaf*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), multiplayer was engaging thanks to the mini-games on Tortimer Island. These tours allowed players to participate in fun activities like bug catching, fishing contests, and even maze games, fostering a sense of shared experience. <mark>The interactivity brought friends together, and each visit felt purposeful.</mark>
 
-[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)? Multiplayer feels pointless. Even though a lot more players can now join, there’s no real interaction or engaging activities to do together—just wandering around islands. The absence of mini-games leaves the multiplayer feeling hollow. <mark>It's a missed opportunity to create meaningful bonds, making *New Horizons*’ multiplayer far less connected than [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf)’s.</mark>
-
 ![](image-121.png)
+
+[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)? Multiplayer feels pointless. Even though a lot more players can now join, there’s no real interaction or engaging activities to do together—just wandering around islands. The absence of mini-games leaves the multiplayer feeling hollow. <mark>It's a missed opportunity to create meaningful bonds, making *New Horizons*’ multiplayer far less connected than [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf)’s.</mark>
 
 ## Bright Spots Amidst the Flaws
 
-![](image-122.png)
-
 The crafting system, while new to the *Animal Crossing* formula, adds a layer of engagement. However, for nostalgic players, crafting felt unnecessary—it wasn’t part of the original charm. It’s nice, but doesn’t always mesh with the cozy simplicity that long-time fans love.
+
+![](image-122.png)
 
 As for the museum? Absolutely stunning. <mark>This is one area where [*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) truly shines.</mark> The design is breathtaking, and Celeste now has a real purpose, offering star recipes and stargazing opportunities that weren’t present before. This gave her a deeper role, unlike in previous entries.
 
@@ -74,9 +74,9 @@ As for the museum? Absolutely stunning. <mark>This is one area where [*New Horiz
 
 At its core, [*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels more like a sandbox game than an authentic *Animal Crossing* experience. The freedom to design your island is impressive, but it also strips away the connection players had to their towns. <mark>In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), you felt like a part of something alive and growing, but *New Horizons* transforms that into a task-driven, goal-oriented project-management game.</mark>
 
-[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) introduces a capitalist undertone, where every action is geared towards efficiency rather than fostering emotional ties with your town.
-
 ![](image-124.png)
+
+[*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) introduces a capitalist undertone, where every action is geared towards efficiency rather than fostering emotional ties with your town.
 
 ## What Happened to the Heart of Animal Crossing?
 
