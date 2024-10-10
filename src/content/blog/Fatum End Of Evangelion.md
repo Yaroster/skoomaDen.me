@@ -1,5 +1,5 @@
 ---
-title: "Shinji’s Fatum: End of Evangelion"
+title: "Shinji’s Fatum: The End of Evangelion"
 date: 2024-10-11
 tags: ['Multimedia', 'Anime']
 description: "A fate marked by inevitable fatality."
