@@ -6,7 +6,9 @@ type Props = {
 const { tag } = Astro.props;
 ---
 
-<a
-  href={`/tags/${encodeURI(tag)}`}
-  target="_self"
->{tag}</a>
+{tag !== "Français" && (
+  <a
+    href={`/tags/${encodeURI(tag)}`}
+    target="_self"
+  >{tag}</a>
+)}

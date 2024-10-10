@@ -66,12 +66,13 @@ const { Content } = await post.render();
     }}
   />
 
-  <!-- Affichage des tags en excluant "Français" -->
   <div class="meta">
-    {post.data.tags?.filter(tag => tag !== "Français").map((tag) => (
-      <span>{tag}</span>
-    ))}
+    {post.data.tags
+      ?.filter(tag => tag !== "Français")  // Filter out "Français" tag
+      .map((tag) => <tag tag={tag} />)}
   </div>
+  
+  
 
   <div style="margin-top: 2rem;"> <!-- Add some spacing above Disqus -->
     <!-- <Disqus /> Add the Disqus component here I have to uncomment this  -->
