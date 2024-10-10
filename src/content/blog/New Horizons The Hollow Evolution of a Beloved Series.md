@@ -22,9 +22,9 @@ Yes, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)
 
 One of the most heartbreaking losses in [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) is not just how villagers talk to you but *how little you can do with them*. In [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), villagers felt like they were part of your daily life in a deeper way—you could play mini-games like hide and seek, ask them for favors, and even have more interactive moments like inviting them to hang out at your house. Now, while villagers in [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) can sit, read, and do aerobics -- but all these interactions feel surface-level.
 
-<mark>Gone are the dynamic activities that made the villagers feel truly alive and autonomous in [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf).</mark> Instead of engaging in unique events, villagers seem locked into the same repetitive behaviors, with little variation in their routines. This lack of deeper interaction hurts the core of what made *Animal Crossing* special—those unexpected, joyful moments with your villagers that made you feel connected to the world. Now, the interactions feel more like staged sets rather than organic parts of a daily life.
-
 ![](image-118.png)
+
+<mark>Gone are the dynamic activities that made the villagers feel truly alive and autonomous in [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf).</mark> Instead of engaging in unique events, villagers seem locked into the same repetitive behaviors, with little variation in their routines. This lack of deeper interaction hurts the core of what made *Animal Crossing* special—those unexpected, joyful moments with your villagers that made you feel connected to the world. Now, the interactions feel more like staged sets rather than organic parts of a daily life.
 
 <mark>This lack of variety in conversations strips the game of its emotional depth.</mark> You no longer feel like you're connecting with distinct personalities -- that made decisions they wanted to do -- but rather managing a population of programmed pleasers. It’s not just a minor downgrade; it fundamentally alters the spirit of the game. In a series where community and interaction were supposed to be at the heart of the experience, this change feels like a hollowing out of what once made *Animal Crossing* truly magical.
 
@@ -80,7 +80,7 @@ At its core, [*New Horizons*](https://en.wikipedia.org/wiki/Animal_Crossing:_New
 
 ## What Happened to the Heart of Animal Crossing?
 
-[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) lost something important: its spirit. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had heart—letters from your dad, the town tree growing as a symbol of your progress. Now, those small touches are gone. There’s no emotional anchor. <mark>Where [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) felt like a living, breathing community, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels like a checklist of tasks to complete.</mark> The growing tree, the snappy conversations, the little things that mattered are missing. What we’re left with is a beautiful but soulless shell.
+[New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) lost something important: its spirit. [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) had heart—letters from your parents, the town tree growing as a symbol of your progress. Now, those small touches are gone. There’s no emotional anchor. <mark>Where [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) felt like a living, breathing community, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) feels like a checklist of tasks to complete.</mark> The fun activities, the snappy conversations, the little things that mattered are missing. What we’re left with is a beautiful but soulless shell.
 
 ![](image-125.png)
 
