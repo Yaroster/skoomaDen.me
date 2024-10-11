@@ -21,8 +21,6 @@ In 2001, *Shrek* marked a decisive turning point in animation history. Not only 
 
 The originality of the work is not only what sets it apart but also the scale of its cultural impact. It opened the door to a new form of animated storytelling, blending satire with humor accessible to both children and adults. By subverting classic expectations, *Shrek* not only challenged Disney on its own turf but also demonstrated that an alternative animation model could thrive.
 
-![](image-113.png)
-
 However, this revolution was short-lived. Starting with *Shrek the Third*, the franchise gradually lost its biting subversion and became a commercial exploitation. The sequels failed to maintain the creative momentum of the first film, settling for recycled jokes and tropes without seeking innovation. What began as a rebellion against Disney turned into a repetitive model, symptomatic of the difficulty for a studio to reconcile creativity with financial success.
 
 
