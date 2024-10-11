@@ -114,7 +114,7 @@ In *The End of Evangelion*, the visual language plays a key role in conveying th
 
 ![](image-137.png)
 
-#### I. The Fragmentation of Reality
+### I. The Fragmentation of Reality
 
 The film regularly uses surreal imagery and stylistic ruptures, like live-action sequences, to depict Shinji’s mental breakdown. These visual choices blur the line between reality and the characters' perceptions, creating a sense of dissociation.
 
@@ -122,7 +122,7 @@ The film regularly uses surreal imagery and stylistic ruptures, like live-action
 
 > <mark>"Silence is as violent as destruction."</mark>
 
-#### II. Symbolism of Colors: Red and Desolation
+### II. Symbolism of Colors: Red and Desolation
 
 Red is recurrent in the destruction scenes, symbolizing both the violence and chaos tied to Instrumentality. In contrast, the more introspective scenes use colder, muted tones, like in the final beach scene, which shows the emotional void felt by Shinji and the other characters.
 
@@ -130,7 +130,7 @@ Red is recurrent in the destruction scenes, symbolizing both the violence and ch
 
 This contrast between colors represents the tension between the collapse of the external world and the characters' emotional distress.
 
-#### III. Visual Disorientation and the Live-Action Sequence
+### III. Visual Disorientation and the Live-Action Sequence
 
 The live-action sequence, sometimes referred to as the “audience scene,” introduces a radical stylistic shift. By mixing animation and real-life footage, the film further erases the boundary between the characters' subjective perception and reality. These images include scenes of empty movie theaters and deserted streets, pushing the viewer to reflect on the nature of consciousness and perception.
 
