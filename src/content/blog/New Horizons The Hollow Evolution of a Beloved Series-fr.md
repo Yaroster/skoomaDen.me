@@ -20,7 +20,7 @@ Certes, [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizo
 
 ## La dynamique des villageois : de la personnalité à la répétition
 
-L'une des pertes les plus déchirantes dans [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) n'est pas seulement la façon dont les villageois vous parlent, mais *combien vous pouvez faire avec eux*. Dans [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), les villageois faisaient partie de votre quotidien de manière plus profonde – vous pouviez jouer à des mini-jeux comme cache-cache, leur demander des services, et même avoir des moments interactifs comme les inviter chez vous. Aujourd'hui, bien que les villageois dans [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) puissent s'asseoir, lire et faire des exercices, toutes ces interactions semblent superficielles.
+L'une des pertes les plus déchirantes dans [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) est non seulement la façon dont les villageois vous parlent, mais *combien vous pouvez faire avec eux*. Dans [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf), les villageois faisaient partie de votre quotidien de manière plus profonde – vous pouviez jouer à des mini-jeux comme cache-cache, leur demander des services, et même avoir des moments interactifs comme les inviter chez vous. Aujourd'hui, bien que les villageois dans [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) puissent s'asseoir, lire et faire des exercices, toutes ces interactions semblent superficielles.
 
 ![](image-118.png)
 
