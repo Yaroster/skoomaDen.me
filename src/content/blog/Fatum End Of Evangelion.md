@@ -136,13 +136,6 @@ The live-action sequence, sometimes referred to as the “audience scene,” int
 
 ![](image-140.png)
 
-These visual elements show that realityHere is the remainder of your article with the necessary formatting and continuation:
-
-```markdown
-...include scenes of empty movie theaters and deserted streets, pushing the viewer to reflect on the nature of consciousness and perception.
-
-![](image-140.png)
-
 These visual elements show that reality in *The End of Evangelion* is filtered through Shinji’s exclusive thoughts. He sees in others his own reflection. The criticisms they levy against him are, in fact, criticisms he directs at himself.
 
 ---
