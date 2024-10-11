@@ -1,7 +1,7 @@
 ---
 title: "Shinji’s Fatum: The End of Evangelion"
 date: 2024-10-11
-tags: ['Multimedia', 'Anime']
+tags: ['Multimedia', 'Animes']
 description: "A fate marked by inevitable fatality."
 cover: "/covers/cover-eoe.png"
 ---
