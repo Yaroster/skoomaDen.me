@@ -53,9 +53,11 @@ The Wired acts as a projection of Lain’s unconscious. In this virtual space, h
 
 ![](sel_groups014.jpg)
 
-In *Serial Experiments Lain*, Lain undergoes a quantifiable fragmentation of her identity. This fragmentation is expressed through her interactions in the Wired, where she encounters various versions of herself. Each version represents a different facet of her self: the shy Lain, the omniscient Wired Lain, the social Lain. This process is as much technological as it is psychological. <mark>Lain’s identity continues to deconstruct</mark> as she delves deeper into this digital universe.
+In *Serial Experiments Lain*, Lain undergoes a process of identity fragmentation, but this is not simply a psychological defense mechanism. The fragmentation is inherent to her very nature, given her dual existence in the real world and the Wired. Lain's various versions of herself—shy Lain, omniscient Wired Lain, and social Lain—are expressions of this deeper, multifaceted identity. Her identity fragmentation is not merely a reaction to trauma but an essential part of her being, the result of her omnipresence in the Wired and the merging of realities.
 
-Lacan defines identity through the concept of the "mirror stage," where the individual forms in relation to how they perceive themselves in the gaze of others or through external representations. In Lain’s case, this mirror is distorted by the Wired, a space where she is confronted with "reflections" of herself that no longer belong to her. The dissolution of the self then becomes inevitable: Lain loses any anchor point in reality, and her identity fragments into a series of blurred and contradictory representations.
+This process is as much technological as it is psychological. Lain’s fragmented identity emerges from her very existence as an entity within the Wired, where each reflection of herself is a projection of a different part of her being. <mark>The Wired becomes a distorted mirror</mark>, forcing Lain to confront a multitude of fractured selves.
+
+Lacan defines identity through the concept of the "mirror stage," where the individual forms in relation to how they perceive themselves in the gaze of others. In Lain’s case, this mirror is not just distorted but entirely shattered by her dual existence. <mark>The Wired, in this sense, acts as the ultimate "distorted mirror."</mark>
 
 ![](image-151.png)
 > <mark>"Who are you? Who am I?"</mark>
@@ -64,13 +66,13 @@ This repeated questioning by Lain throughout the series is the ultimate expressi
 
 In the Wired, Lain becomes an object of manipulation. Her reality and identity are no longer under her control; they are reconfigured by the rules of the Wired and the other entities that inhabit this digital universe. Each new interaction with this world reinforces her disorientation, leaving her unable to maintain any continuity in her identity. This gradual fragmentation can be interpreted as a reflection of the phenomenon of <mark>"psychic disintegration,"</mark> where the individual loses the coherence of their being in the face of overwhelming forces.
 
-### Depersonalization as a Defense Mechanism
+### Depersonalization as a Consequence of Lain’s Nature
 
 ![](SEL180.png)
 
-As Lain confronts these shattered versions of herself, she develops a state of depersonalization. This condition, often linked to trauma or extreme psychological experiences, manifests as a sense of detachment from oneself and a dissociation between the self and reality. For Lain, this state of depersonalization appears as a response to the overwhelming pressure of immersion in the Wired and the loss of her unique identity.
+As Lain confronts these shattered versions of herself, she experiences depersonalization. However, this condition is not simply a defense mechanism. Lain's depersonalization is a natural consequence of her existence across both the Wired and the real world. <mark>Her omnipresence in the Wired means that she is always fragmented</mark>, always existing in multiple forms. This state is less about protecting herself from trauma and more about the existential reality of her being. Lain’s inability to fully integrate these multiple selves results in a disconnection from her physical body and reality.
 
-Lain’s depersonalization could be interpreted as a defense mechanism. Faced with the confusion of her self and the inability to control her existence in the Wired, she emotionally and psychologically distances herself from what is happening. By losing touch with her body, her emotions, and even her relationships with others, <mark>she adopts a position of withdrawal, a kind of protection against the total collapse of her psyche.</mark>
+Lain’s depersonalization reflects the psychological and existential weight of being split between two worlds. Rather than a retreat or withdrawal due to overwhelming pressure, it is the inevitable byproduct of existing simultaneously in the Wired and reality. She is constantly shifting between these planes, and this constant movement leads to her eventual disconnection from herself and others. Her sense of self is unstable, not just because of trauma, but because her nature is inherently fluid and fragmented.
 
 ![](image-155.png)
 
