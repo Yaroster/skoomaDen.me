@@ -2,7 +2,7 @@
 title: "Alienation through Space: Lain Iwakura"
 date: 2024-10-12
 tags: ['Multimedia', 'Animes']
-description: "A psychoanalysis of the character Lain"
+description: "A psychoanalysis of Lain Iwakura as a character."
 cover: "/covers/cover-lain.png"
 ---
 

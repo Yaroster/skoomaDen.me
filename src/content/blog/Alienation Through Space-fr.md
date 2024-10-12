@@ -2,7 +2,7 @@
 title: "L'Alienation par l'Espace: Lain Iwakura"
 date: 2024-10-12
 tags: ['Multimédia', 'Animés', 'Français']
-description: "Une psychanalyse du personnage de Lain"
+description: "Une psychanalyse du personnage de Lain Iwakura"
 cover: "/covers/cover-lain.png"
 ---
 
