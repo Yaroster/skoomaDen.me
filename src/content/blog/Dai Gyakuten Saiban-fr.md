@@ -1,5 +1,5 @@
 ---
-title: "Dai Gyakuten Saiban : Justice à Travers les Empires."
+title: "Dai Gyakuten Saiban: Justice à Travers les Empires."
 date: 2024-09-27
 tags: ['Multimédia', 'Jeux', 'Français']
 description: "Merci Shu Takumi."
