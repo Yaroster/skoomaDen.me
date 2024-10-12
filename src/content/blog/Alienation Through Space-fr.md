@@ -102,7 +102,7 @@ Le choix final de Lain, qui décide d’effacer son existence de la mémoire de 
 L’effacement de la mémoire n’est pas un simple oubli ; c’est une <mark>négation ontologique.</mark> Lain cesse d’exister autant en tant que corps physique qu'en tant qu’entité mentale. Cette dissolution complète est la conclusion logique d’un processus de fragmentation qui a débuté dès son entrée dans le Wired. <mark>Lain devient une entité sans passé, sans identité, sans futur.</mark>
 
 ![](SEL190.png)
->"Si on ne se souvient pas de toi, alors tu n'as jamais existé."
+> <mark>"Si on ne se souvient pas de toi, alors tu n'as jamais existé."</mark>
 
 En effaçant les souvenirs des autres, Lain accepte l’idée que son existence même n’a jamais été réelle. Cette phrase souligne le lien entre l’identité et la mémoire, et met en lumière la fragilité de l’existence humaine dans un monde où tout peut être effacé​.
 

@@ -102,7 +102,7 @@ Lain’s final choice, to erase her existence from the memory of her loved ones,
 The erasure of memory is not a simple forgetfulness; it is an <mark>ontological negation.</mark> Lain ceases to exist as both a physical body and a mental entity. This complete dissolution is the logical conclusion of a fragmentation process that began with her entry into the Wired. <mark>Lain becomes an entity without a past, without identity, without a future.</mark>
 
 ![](SEL190.png)
->"If no one remembers you, then you never existed."
+> <mark>"If no one remembers you, then you never existed."</mark>
 
 By erasing the memories of others, Lain accepts the idea that her very existence was never real. This phrase underscores the link between identity and memory, highlighting the fragility of human existence in a world where everything can be erased.
 
