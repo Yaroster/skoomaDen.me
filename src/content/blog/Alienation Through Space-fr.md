@@ -53,18 +53,16 @@ Le Wired agit comme une projection de l’inconscient de Lain. Dans cet espace v
 
 ![](sel_groups014.jpg)
 
-Dans *Serial Experiments Lain*, Lain subit un processus de fragmentation de l'identité, mais il ne s'agit pas simplement d'un mécanisme de défense psychologique. La fragmentation est inhérente à sa propre nature, étant donné sa double existence dans le monde réel et le Wired. Les différentes versions de Lain—Lain timide, Lain omnisciente du Wired, et Lain sociale—sont des expressions de cette identité profonde et multifacette. La fragmentation de son identité n'est pas seulement une réaction à un traumatisme, mais une partie essentielle de son être, résultant de son omniprésence dans le Wired et de la fusion des réalités.
+Dans Serial Experiments Lain, Lain ne subit une véritable fragmentation quantifiable de son identité. Cette fragmentation s’exprime à travers ses interactions dans le Wired, où elle rencontre diverses versions d’elle-même. Chaque version représente une facette différente de son moi : la Lain timide, la Lain omnisciente du Wired, la Lain sociale. Ce processus est autant technologique que psychologique. <mark>L’identité de Lain ne cesse de se déconstruire</mark> au fur et à mesure qu’elle plonge dans cet univers numérique.
 
-Ce processus est à la fois technologique et psychologique. L'identité fragmentée de Lain émerge de son existence même en tant qu'entité dans le Wired, où chaque reflet d'elle-même est la projection d'une partie différente de son être. <mark>Le Wired devient un miroir déformé</mark>, forçant Lain à affronter une multitude de versions fracturées d'elle-même.
-
-Lacan définit l'identité à travers le concept du "stade du miroir", où l'individu se forme en fonction de la manière dont il se perçoit dans le regard des autres. Dans le cas de Lain, ce miroir n'est pas seulement déformé, mais totalement brisé par sa double existence. <mark>Le Wired, en ce sens, agit comme le "miroir déformé" ultime.</mark>
+Lacan définit l’identité à travers le concept de "stade du miroir", où l’individu se forme en fonction de la perception qu’il a de lui-même dans le regard des autres ou à travers des représentations extérieures. Dans le cas de Lain, ce miroir est déformé par le Wired, un espace où elle est confrontée à des "reflets" d’elle-même qui ne lui appartiennent plus. La dissolution du moi devient alors inévitable : Lain perd tout point d’ancrage dans la réalité et son identité se fragmente en une série de représentations floues et contradictoires.
 
 ![](image-151.png)
 > <mark>"Qui es-tu ? Qui suis-je ?"</mark>
 
-Ce questionnement répété par Lain tout au long de la série est l'expression ultime de cette perte d'identité. Elle ne peut plus se reconnaître, ni dans le monde réel, ni dans le Wired, symbolisant une déconnexion totale entre son moi intérieur et le monde extérieur.
+Cette interrogation répétée de Lain tout au long de la série est l’expression ultime de cette perte d’identité. Elle n’arrive plus à se reconnaître, ni dans le monde réel ni dans le Wired, ce qui symbolise une déconnexion totale entre son moi interne et le monde extérieur​.
 
-Dans le Wired, Lain devient un objet de manipulation. Sa réalité et son identité ne sont plus sous son contrôle ; elles sont reconfigurées par les règles du Wired et les autres entités qui peuplent cet univers numérique. Chaque nouvelle interaction avec ce monde renforce sa désorientation, la laissant incapable de maintenir une quelconque continuité dans son identité. Cette fragmentation progressive peut être interprétée comme le reflet du phénomène de <mark>"désintégration psychique"</mark>, où l'individu perd la cohérence de son être face à des forces écrasantes.
+Dans le Wired, Lain devient un objet de manipulation. Sa réalité et son identité ne sont plus sous son contrôle ; elles sont reconfigurées par les règles du Wired et par les autres entités qui peuplent cet univers numérique. Chaque nouvelle interaction avec ce monde renforce sa désorientation, et elle n’a plus la possibilité de maintenir une continuité dans son identité. Cet éclatement progressif peut être interprété comme un reflet du phénomène de <mark>"désintégration psychique"</mark>, où l'individu perd la cohérence de son être face à des forces qui le dépassent.
 
 ### La dépersonnalisation comme méchaniisme de défense
 
