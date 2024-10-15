@@ -3,7 +3,7 @@ title: "Une Chine Contrastée : Pouvoir, Politique et les Récits Occidentaux."
 date: 2024-08-16  
 tags: ['Livres', 'Français']  
 description: "Une critique conjointe des livres les plus récents du Dr. Brown et du Dr. Economy."  
-cover: "/covers/cover-04.png"
+cover: "/covers/cover-04.jpg"
 ---
 
 ## À propos de la légitimité...
@@ -11,6 +11,8 @@ cover: "/covers/cover-04.png"
 Avant tout, je tiens à clarifier certains points et préjugés que j'ai concernant ces ouvrages, dans un souci de transparence.
 
 Ma connaissance des affaires internes chinoises est bien plus limitée que mon expérience directe avec leurs politiques étrangères, un trait que ces deux auteurs ne partagent certainement pas avec moi, puisqu'ils sont tous deux experts dans leur domaine et traitent des affaires chinoises depuis longtemps.
+
+![](image-178.png)
 
 Mon approche pour cette critique sera à la fois celle d'un homme passionné qui fait de son mieux pour se tenir informé et exprimer son opinion sur les affaires actuelles, et celle de quelqu'un ayant une expérience directe avec les institutions étrangères de la Chine et leurs efforts pour, selon les mots de l'actuel secrétaire général [Xi Jinping](https://fr.wikipedia.org/wiki/Xi_Jinping), "ouvrir les portes de la Chine plus largement" ([discours au 19e Congrès national](http://www.xinhuanet.com/english/special/19cpcnc/documents.htm)).
 

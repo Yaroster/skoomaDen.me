@@ -3,16 +3,16 @@ title: "A Contrasted China: Power, Policy, and the Western Narratives."
 date: 2024-08-16
 tags: ['Books']
 description: "A joint review of both Dr. Brown and Dr. Economy's most recent books."
-cover: "/covers/cover-04.png"
+cover: "/covers/cover-04.jpg"
 ---
-
-
 
 ## About legitimacy...
 
 Before anything, I would like to clarify certain points and biases I have concerning these books for transparency.
 
 My knowledge of Chinese internal affairs is much more limited than my direct experiences with their foreign policies, a trait that these two authors certainly do not share with me as they are both experts in their fields and have dealt with Chinese affairs for quite a long time.
+
+![](image-177.png)
 
 My approach for this critique will be both from the point of view of a passionate man who does his best to stay informed and opinionated about current affairs and from the point of view of someone with direct experience with China's foreign institutions and their efforts to, in the words of current General Secretary [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping), "open China's doors wider" [(19th National Congress speech)](http://www.xinhuanet.com/english/special/19cpcnc/documents.htm).
 
