@@ -76,7 +76,7 @@ La dépersonnalisation de Lain reflète le poids psychologique et existentiel d'
 
 Dans cette dépersonnalisation, nous retrouvons des éléments rappelant les symptômes de la "déréalisation", où l'individu perd tout contact avec la réalité. Lain ne perçoit plus le monde qui l'entoure comme tangible. <mark>Le Wired devient son seul point de référence, mais même cet espace est instable, fluctuant.</mark> Ce processus la mène à un isolement psychique complet.
 
-## Transcendance et annihilation de l’identité
+## III. Transcendance et annihilation de l’identité
 
 ### Une figure transcendance numérique ou de deconstruction de soi ?
 

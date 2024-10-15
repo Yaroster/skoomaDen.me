@@ -78,7 +78,7 @@ Lain’s depersonalization reflects the psychological and existential weight of 
 
 In this depersonalization, we find elements reminiscent of the symptoms of "derealization," where the individual loses all contact with reality. Lain no longer feels the world around her as tangible. <mark>The Wired becomes her only point of reference, but even this space is unstable, fluctuating.</mark> This process leads her to complete psychic isolation.
 
-## Transcendence and Identity Annihilation
+## III. Transcendence and Identity Annihilation
 
 ### A Figure of Digital Transcendence or Self-Destruction?
 
