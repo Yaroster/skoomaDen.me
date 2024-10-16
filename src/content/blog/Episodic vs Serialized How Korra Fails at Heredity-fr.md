@@ -1,5 +1,5 @@
 ---
-title: "Épisodique vs. Sérialisé : Pourquoi Korra échoue à l'Hérédité"
+title: "Épisodique vs Sérialisé: L'Héritage Gaché de Korra"
 date: 2024-10-16
 description: "Pourquoi Korra ne parvient pas à honorer l'héritage de son prédécesseur."
 tags: ['Multimédia', 'Animés','Français']
