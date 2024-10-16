@@ -12,7 +12,7 @@ La ville respire, ses structures <mark>froides et immenses</mark> se dressent co
 
 Dans Serial Experiments Lain, chaque fil qui relie est aussi une corde qui étrangle. C’est un voyage vers une dissolution totale, où la quête d'identité se heurte à l’immensité d’un monde <mark>hyperconnecté mais vide</mark>, où chaque connexion éloigne un peu plus de soi-même.
 
-## I. La ville comme espace d'aliénation et de confusion identitaire
+## La ville comme espace d'aliénation et de confusion identitaire
 
 ### La dérive urbaine : Lain perdue dans son environnement
 
@@ -47,7 +47,7 @@ Lain est ainsi prise dans un double processus d'effacement. Dans la ville, elle 
 
 Le Wired agit comme une projection de l’inconscient de Lain. Dans cet espace virtuel, ses peurs, ses désirs et ses contradictions refont surface, non pas sous forme de symboles, mais de réalités tangibles et interactives. <mark>Ce qui devrait rester caché ou intériorisé dans l’inconscient s'extériorise brutalement dans le Wired, brouillant définitivement la frontière entre intérieur et extérieur, réel et imaginaire.</mark>
 
-## II. Dépersonnalisation et dissolution du moi
+## Dépersonnalisation et dissolution du moi
 
 ### La fragmentation de l'identité
 
@@ -76,7 +76,7 @@ La dépersonnalisation de Lain reflète le poids psychologique et existentiel d'
 
 Dans cette dépersonnalisation, nous retrouvons des éléments rappelant les symptômes de la "déréalisation", où l'individu perd tout contact avec la réalité. Lain ne perçoit plus le monde qui l'entoure comme tangible. <mark>Le Wired devient son seul point de référence, mais même cet espace est instable, fluctuant.</mark> Ce processus la mène à un isolement psychique complet.
 
-## III. Transcendance et annihilation de l’identité
+## Transcendance et annihilation de l’identité
 
 ### Une figure transcendance numérique ou de deconstruction de soi ?
 

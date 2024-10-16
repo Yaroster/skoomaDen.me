@@ -114,7 +114,7 @@ Dans *The End of Evangelion*, le langage visuel joue un rôle clé pour transmet
 
 ![](image-137.png)
 
-### I. La fragmentation de la réalité
+### La fragmentation de la réalité
 
 Le film utilise régulièrement des images surréalistes et des ruptures stylistiques, comme les séquences en prise de vue réelle, pour montrer la désintégration mentale de Shinji. Ces choix visuels brouillent la frontière entre la réalité et la perception des personnages, créant un sentiment de dissociation.
 
@@ -122,7 +122,7 @@ Le film utilise régulièrement des images surréalistes et des ruptures stylist
 
 > <mark>"Le silence est aussi violent que la destruction."</mark>
 
-### II. Symbolisme des couleurs : rouge et désolation
+### Symbolisme des couleurs : rouge et désolation
 
 Le rouge est récurrent dans les scènes de destruction, symbolisant à la fois la violence et le chaos lié à l'Instrumentalité. En contraste, les scènes plus introspectives utilisent des tons plus froids et ternes, comme dans la scène finale sur la plage, qui montrent le vide émotionnel ressenti par Shinji et les autres personnages.
 
@@ -130,7 +130,7 @@ Le rouge est récurrent dans les scènes de destruction, symbolisant à la fois 
 
 Ce contraste entre les couleurs représente la tension entre l'effondrement du monde extérieur et la détresse émotionnelle des personnages.
 
-### III. La désorientation visuelle et la séquence en prise de vue réelle
+### La désorientation visuelle et la séquence en prise de vue réelle
 
 La séquence en prise de vue réelle, parfois appellée la "scene de l'audience", introduit un décalage stylistique radical. En mêlant animation et images réelles, le film efface encore plus la frontière entre la perception subjective des personnages et la réalité. Ces images incluent des scènes de salles de cinéma et de rues désertes, poussant le spectateur à réfléchir à la nature de la conscience et de la perception.
 

@@ -12,7 +12,7 @@ The city breathes, its <mark>cold and immense</mark> structures standing like si
 
 In *Serial Experiments Lain*, every thread that connects is also a noose that strangles. It is a journey toward total dissolution, where the search for identity clashes with the vastness of a <mark>hyperconnected but empty</mark> world, where each connection drives one further from oneself.
 
-## I. The City as a Space of Alienation and Identity Confusion
+## The City as a Space of Alienation and Identity Confusion
 
 ### Urban Drift: Lain Lost in Her Environment
 
@@ -47,7 +47,7 @@ Thus, Lain is caught in a dual process of erasure. In the city, she physically l
 
 The Wired acts as a projection of Lain’s unconscious. In this virtual space, her fears, desires, and contradictions resurface, not as symbols, but as tangible and interactive realities. <mark>What should remain hidden or internalized in the unconscious violently externalizes in the Wired, permanently blurring the line between inner and outer, real and imaginary.</mark>
 
-## II. Depersonalization and Self-Dissolution
+## Depersonalization and Self-Dissolution
 
 ### The Fragmentation of Identity
 
@@ -78,7 +78,7 @@ Lain’s depersonalization reflects the psychological and existential weight of 
 
 In this depersonalization, we find elements reminiscent of the symptoms of "derealization," where the individual loses all contact with reality. Lain no longer feels the world around her as tangible. <mark>The Wired becomes her only point of reference, but even this space is unstable, fluctuating.</mark> This process leads her to complete psychic isolation.
 
-## III. Transcendence and Identity Annihilation
+## Transcendence and Identity Annihilation
 
 ### A Figure of Digital Transcendence or Self-Destruction?
 
