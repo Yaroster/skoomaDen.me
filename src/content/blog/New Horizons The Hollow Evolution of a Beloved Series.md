@@ -1,5 +1,5 @@
 ---
-title: "ACNH: The Hollow Evolution of a Beloved Series"  
+title: "A Quite Dull New Horizon: Animal Crossing"  
 date: 2024-10-10  
 tags: ['Multimedia','Games']  
 description: "A breakdown of why New Leaf continues to outshine New Horizons."  
