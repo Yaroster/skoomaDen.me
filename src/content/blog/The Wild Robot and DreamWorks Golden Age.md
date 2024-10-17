@@ -1,7 +1,7 @@
 ---
 title: "The Wild Robot & DreamWorks' Golden Age"  
 date: 2024-10-08  
-tags: ['Multimedia']  
+tags: ['Multimedia', 'Archive']  
 description: "A critical analysis of DreamWorks and its potential to remain a creative leader in animation."  
 cover: "/covers/cover-dreamworks.jpg"  
 ---
