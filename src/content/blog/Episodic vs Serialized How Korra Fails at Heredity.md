@@ -1,6 +1,6 @@
 ---
 title: "Episodic vs Serialized: How Korra Fails at Heredity"
-date: 2024-10-16
+date: 2024-10-17
 description: "Why Korra ultimately falls short of its predecessor's legacy."
 tags: ['Multimedia', 'Animes']
 cover: "/covers/cover-korra.png"
