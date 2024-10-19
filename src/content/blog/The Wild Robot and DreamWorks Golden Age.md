@@ -66,3 +66,5 @@ DreamWorks finds itself at a crossroads. Having repeatedly proven that it can in
 > <mark>"DreamWorks must choose between innovation and stagnation, as it is only by refusing the easy path that it can remain a creative leader."</mark>
 
 To secure its future, DreamWorks will need to foster internal creativity, continue taking bold risks, and most importantly, stay true to its original vision: that of a studio unafraid to challenge norms.
+
+  <mark>- yaro</mark>

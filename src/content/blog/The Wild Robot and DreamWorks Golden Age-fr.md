@@ -66,3 +66,5 @@ DreamWorks se trouve à une croisée des chemins. Après avoir prouvé à plusie
 > <mark>"DreamWorks doit choisir entre innovation et stagnation, car c'est en refusant la facilité qu'il pourra rester un leader créatif."</mark>
 
 Pour garantir son avenir, DreamWorks devra encourager la créativité interne, continuer à prendre des risques audacieux, et surtout, rester fidèle à sa vision initiale : celle d'un studio qui ose bousculer les normes.
+
+  <mark>- yaro</mark>
