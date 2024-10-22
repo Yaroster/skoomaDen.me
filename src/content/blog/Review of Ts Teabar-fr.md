@@ -2,7 +2,7 @@
 title: Critique de T's Teabar  
 date: 2024-09-17  
 tags: ['Thés', 'Maison de Thé', 'Français']  
-description: "Une évaluation de T's Teabar à Abu Dhabi"
+description: "Une évaluation de T's Teabar à Abu Dhabi."
 cover: "/covers/cover-01.png"
 ---
 

@@ -2,7 +2,7 @@
 title: Review of T's Teabar  
 date: 2024-09-17  
 tags: ['Teas', 'Teahouse']  
-description: "An evaluation of T's Teabar in Abu Dhabi"
+description: "An evaluation of T's Teabar in Abu Dhabi."
 cover: "/covers/cover-01.png"
 ---
 
