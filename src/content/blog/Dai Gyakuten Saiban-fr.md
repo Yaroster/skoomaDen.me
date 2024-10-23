@@ -1,115 +1,99 @@
 ---
-title: "Justice à Travers les Empires: Dai Gyakuten Saiban."
+title: "Justice entre Empires : Dai Gyakuten Saiban"
 date: 2024-09-27
-tags: ['Multimédia', 'Jeux', 'Français']
-description: "Merci Shu Takumi."
+tags: ['Multimédia', 'Jeux']
+description: "Merci, Shu Takumi."
 cover: "/covers/cover-dgs.png"
 ---
-Dans une bataille juridique se déroulant dans le Japon de l'ère Meiji et la Grande-Bretagne victorienne, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) réussit l'exploit de ranimer une franchise qui commençait sérieusement à tourner en rond. Il fallait bien un retour dans le passé pour que la série retrouve un semblant de souffle.
 
-Avant même sa localisation officielle, *Dai Gyakuten Saiban* n’était qu’un rêve inaccessible pour les fans occidentaux (dont moi). Et après des heures à me saigner pour traduire le jeu en français avec d'autres passionnés, Capcom finit enfin par réaliser que ce jeu méritait de sortir hors des frontières japonaises. Bravo pour l’illumination tardive.
+Je me revois encore à mes débuts de romhacker, à cette époque où *Dai Gyakuten Saiban* était ce joyau inaccessible, coincé au Japon. J'avais passé des heures, aux côtés d'une communauté passionnée, à essayer de le traduire. <mark>Le voir enfin sortir en Occident, c’était une victoire pour nous tous.</mark> En repensant à ce parcours, je ne peux m'empêcher de m’émerveiller devant la manière dont ce jeu a su redonner du souffle à une série qui commençait à perdre son élan.
 
-Aujourd'hui, il est temps de revenir sur ce jeu et de comprendre son importance dans une série qui en avait cruellement besoin.
+Avec son décor entre le Japon de l'ère Meiji et la Grande-Bretagne victorienne, *Dai Gyakuten Saiban* n'est pas juste un autre jeu *Ace Attorney*—c’est une épopée qui tisse histoire, intrigues juridiques, et cette envie de repousser les frontières du genre. Le rythme du jeu peut en surprendre certains, mais pour ceux qui sont prêts à se plonger dans son atmosphère, chaque moment en vaut la peine.
 
-## La Nouvelle Ère de [Ace Attorney](https://www.ace-attorney.com)
+## Une nouvelle ère pour [Ace Attorney](https://www.ace-attorney.com)
 
 ![](image-91.png)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) fait le pari d’une narration lente, voire laborieuse, par rapport à ses prédécesseurs. Composé de deux titres (*Adventures* et *Resolve*), l’histoire s’étire sur 80 heures, et on les sent bien passer. Fini les petites affaires qu’on boucle en une ou deux sessions. Ici, chaque procès s’étale, chaque enquête traîne en longueur, et on doit être prêt à s’enfoncer dans cette intrigue sans fin. Pour certains, ce sera un voyage profond. Pour d’autres, un chemin de croix.
+Jouer à *Dai Gyakuten Saiban* nous semble comme une lente infusion—on sent que la récompense approche, mais l'attente fait partie du voyage. Le jeu ne cherche pas à offrir des affaires rapides et simples. Chaque procès pèse son temps, nous laissant assimiler ses complexités, ressentir chaque révélation. Ici, pas de frissons immédiats ; c’est un engagement, un vrai.
 
-<mark>Là où les jeux *Phoenix Wright* offraient des résolutions rapides et satisfaisantes, *Dai Gyakuten Saiban* prend plaisir à faire durer les choses.</mark> Les scénaristes ont visiblement décidé qu’il était temps d’arrêter d’être pressé et de se concentrer sur la construction lente, très lente, de l’intrigue. Heureusement, tout cet étirement n’est pas vain : des arcs narratifs plus riches, des twists plus cinglants, et une profondeur émotionnelle qui émerge si vous avez la patience de tenir bon.
+<mark>Là où des jeux comme Phoenix Wright misent sur des résolutions rapides, *Dai Gyakuten Saiban* nous invite à ralentir, à apprécier chaque moment.</mark> Répartie sur deux titres (*Adventures* et *Resolve*), l’histoire s’étend sur 80 heures. Chaque affaire monte crescendo, mélangeant émotions et révélations, pour aboutir à des finales aussi satisfaisantes qu’intenses. Ce n’est pas une simple narration ; c’est un récit qui exige patience et immersion, récompensé par des arcs narratifs plus profonds et des rebondissements plus puissants.
 
-![](image-90.png)
+## Synopsis : Deux mondes, un avocat
 
-## Synopsis
+Ryūnosuke Naruhodō, ancêtre du légendaire *Phoenix Wright*, se retrouve plongé dans le système judiciaire britannique—un système aussi élitiste qu'impérialiste. Un terrain de jeu rêvé pour des drames juridiques. Ryūnosuke doit naviguer dans cet environnement étranger, jonglant avec des dilemmes éthiques qui le mettent sans cesse à l’épreuve.
 
-Ryūnosuke Naruhodō, un ancêtre de [Phoenix Wright](https://aceattorney.fandom.com/wiki/Phoenix_Wright), se retrouve catapulté au Royaume-Uni pour devenir avocat de la défense. Super idée. Un jeune avocat japonais, au milieu d’un système juridique britannique élitiste et raciste. Le rêve. Mais notre héros va apprendre à naviguer entre deux mondes tout en se heurtant à des dilemmes éthiques qui le feront souvent vaciller. Tout ça avec son assistante [Susato Mikotoba](https://aceattorney.fandom.com/wiki/Susato_Mikotoba), qui est là pour rappeler que même les meilleures intentions peuvent être sabordées par la réalité. 
+À ses côtés, Susato Mikotoba, son assistante dévouée, l’ancre et le stabilise. Sa présence nous rappelle que même les meilleures intentions peuvent être entravées par un monde qui n'est pas encore prêt à les accepter.
 
-## Immersion
-
-Le cadre du XIXe siècle, entre un Japon en pleine modernisation et une Grande-Bretagne impérialiste, donne au jeu une esthétique différente des précédents titres. Enfin, un peu d’air frais. Mais au-delà du décor, c’est la confrontation des systèmes de pensée, des cultures et des égos nationaux qui fait que chaque procès a un poids particulier. 
+## Immersion : Le poids de deux empires
 
 ![](image-101.png)
 
-Ryūnosuke, en tant qu’étranger, est vu d’un mauvais œil partout où il va. Ça donne une tension constante, un malaise latent dans chaque interaction. <mark>Le jeu plonge alors dans une espèce de bataille entre idéologies, chaque pays essayant de prouver sa supériorité morale et légale.</mark> Une guerre froide judiciaire.
+Naviguer dans *Dai Gyakuten Saiban* donne l’impression de se retrouver au milieu d’une bataille d’idéaux, bien au-delà des simples affaires juridiques. Situé au 19e siècle, entre un Japon en plein essor et une Grande-Bretagne impérialiste, chaque procès devient une lutte de pouvoir entre deux visions du monde, chacun cherchant à imposer sa moralité et son système légal.
 
-![](image-102.png)
+<mark>À travers les yeux de Ryūnosuke, on ressent la condescendance des personnages britanniques, le racisme à peine voilé, et ce rappel constant qu’on est un étranger dans ce système.</mark> Ce rythme lent nous permet d’absorber ces tensions culturelles. Certes, l'histoire semble s’étirer parfois, mais même dans ces moments de lenteur, il y a une profondeur indéniable dans la façon dont le jeu traite ces luttes idéologiques. Ici, il ne s’agit pas seulement de gagner un procès, mais de comprendre les rouages complexes du système auquel on se confronte.
 
-Le rythme plus lent permet aux joueurs d’absorber ces subtilités culturelles. Mais soyons honnêtes, certains trouveront le rythme aussi haletant qu’une course d’escargots. Chaque bataille n’est pas qu’une question de droit, mais bien une lutte d’influence entre deux empires.
-
-## Personnages
+## Personnages : De novice à avocat aguerri
 
 ![](https://i.imgur.com/rZ9fGTE.jpeg)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) brille par ses personnages, bien plus que par ses procès parfois interminables. La transformation de Ryūnosuke, de novice à avocat aguerri, suit un schéma classique, mais ici, c’est fait avec une subtilité que la franchise avait peut-être oubliée. La relation tendue entre le Japon et la Grande-Bretagne est palpable, et ce n’est pas une simple tension de façade. On y plonge jusqu’au cou.
+L’un des atouts majeurs de *Dai Gyakuten Saiban* réside dans son développement des personnages. Le parcours de Ryūnosuke, qui évolue de novice hésitant à avocat aguerri, est familier, mais ici, tout est fait avec subtilité. Suivre son évolution, affaire après affaire, c’est comme voir un proche gagner en confiance, tout en conservant son humanité.
 
-[Kazuma Asogi](https://aceattorney.fandom.com/wiki/Kazuma_Asogi), l’ami charismatique, est la force qui pousse Ryūnosuke à avancer. Mais soyons honnêtes, son rôle est bien plus prévisible que ce qu’on essaie de nous faire croire. Malgré cela, il est un pilier émotionnel, même si son arc n'atteint pas les hauteurs qu'on aurait pu espérer.
+Kazuma Asogi, l’ami charismatique de Ryūnosuke, joue un rôle clé dans son développement. Son arc, bien que parfois prévisible, n’en est pas moins émouvant. Il sert de pilier émotionnel, même si son évolution ne surprend pas toujours.
 
 ![](image-93.png)
 
-Puis, il y a [Herlock Sholmes](https://aceattorney.fandom.com/wiki/Herlock_Sholmes). Un personnage aussi ridicule qu’incontournable. Capcom a osé réinventer Sherlock Holmes en une parodie ambulante, et contre toute attente, ça marche. Ses déductions foireuses et son humour éclatent au milieu de l’ambiance parfois trop sérieuse du jeu.
+Puis, il y a *Herlock Sholmes*. Oui, Capcom a osé réinventer Sherlock Holmes en une caricature de lui-même, et, étonnamment, cela fonctionne. <mark>Capcom a pris le risque audacieux de tourner Sherlock Holmes en dérision, et cela fonctionne à merveille.</mark> Ses déductions farfelues et son humour décalé apportent une touche de légèreté bienvenue dans un jeu parfois très sérieux. C’est absurde, mais ça colle parfaitement à la dynamique narrative.
 
 ![](image-94.png)
 
-Mais le véritable joyau reste [Barok van Zieks](https://aceattorney.fandom.com/wiki/Barok_van_Zieks). Ce procureur est une figure imposante, avec son racisme flagrant et son humour noir. Chaque interaction avec lui est un rappel que Ryūnosuke n’est pas à sa place, et qu’il est constamment jugé avant même d’entrer dans la salle d’audience. Van Zieks est peut-être l'un des procureurs les plus fascinants de toute la franchise, et croyez-moi, il y en a eu des lourds.
+Barok van Zieks, le procureur, est sans conteste l'un des personnages les plus fascinants de la série *Ace Attorney*. Son racisme flagrant et son humour noir ajoutent une tension palpable à chaque interaction. <mark>Chaque échange avec van Zieks nous rappelle qu’il ne s’agit pas simplement d’un combat pour la justice, mais d’un combat pour le respect.</mark> Sa présence imposante rend chaque procès plus intense, et sa complexité en fait l’un des antagonistes les plus mémorables de la série.
 
-![](image-95.png)
-
-## La Vision de [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi)
-
-Derrière tout ça, il y a évidemment [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi), le génie derrière la série, dont la patte est reconnaissable à des kilomètres. Après s’être amusé avec *Professeur Layton vs. Phoenix Wright*, il a pris tout ce qui fonctionnait et a décidé de le déployer à fond dans *Dai Gyakuten Saiban*. Entre l’humour, la complexité des personnages et les rebondissements narratifs, il prouve encore une fois qu'il n’est pas là pour jouer selon les règles établies. 
+## La vision de Shu Takumi : Histoire et drame entremêlés
 
 ![](image-96.png)
 
-Le jeu combine tensions historiques et batailles juridiques avec une profondeur qui manquait cruellement dans certains volets de la série. <mark>*Dai Gyakuten Saiban* n’est pas un simple spin-off, c’est un rappel que Takumi sait encore comment faire monter la tension sans exploser les nerfs de ses joueurs (quoique...).</mark>
+Au cœur de *Dai Gyakuten Saiban*, on retrouve la patte indéniable de Shu Takumi. Après son travail sur *Professor Layton vs. Phoenix Wright*, on sent qu'il a tout misé sur cette série, incorporant tout ce qu'il avait appris. Son humour tranchant, ses dynamiques complexes et ses retournements de situation parfaitement minutés font de cette œuvre quelque chose de spécial.
 
-![](image-97.png)
+Ce qui fait vraiment briller ce jeu, c’est la manière dont Takumi marie le contexte historique à l’intrigue judiciaire. Il fusionne avec brio les tensions de la Restauration Meiji avec les ambitions coloniales de la Grande-Bretagne. <mark>Les conflits idéologiques ne sont pas de simples décors—ils sont au cœur même de la narration et des personnages.</mark> La loi devient ici bien plus qu’un outil de justice ; c’est un instrument de pouvoir et d’influence. Cette thématique donne à *Dai Gyakuten Saiban* une résonance toute particulière.
 
-## Le Tribunal
+Cependant, j’ai parfois eu l’impression que le jeu aurait pu aller plus loin. Le récit aborde subtilement la lutte identitaire du Japon face à l’impérialisme occidental, mais sans toujours approfondir ce thème. <mark>C’est un témoignage de la maîtrise narrative de Takumi que, même avec ces occasions manquées, le jeu reste riche et immersif.</mark>
+
+## La salle d’audience : Innovation et drame
 
 ![](image-99.png)
 
-Le système de jury est sans aucun doute l’une des meilleures innovations du jeu. L'« [Examen des Délibérations](https://aceattorney.fandom.com/wiki/Jury#Summation_examination) » permet de dynamiser les procès d’une manière nouvelle. C’est à vous de démonter les préjugés des jurés, et si certains d'entre eux semblent totalement bornés, c'est toute la complexité du système qui est mise en avant. Un ajout qui transforme ce qui aurait pu être un simple recyclage en quelque chose de frais et engageant.
+Les batailles judiciaires dans *Dai Gyakuten Saiban* ne consistent pas seulement à résoudre des mystères—elles nous confrontent aux préjugés d’un système tout entier. <mark>Un des ajouts les plus marquants du jeu est l'"Examen des Sommaires", où il nous faut convaincre un jury en démantelant leurs biais un par un.</mark> Cette mécanique apporte une nouvelle dimension, transformant chaque procès en véritable combat social.
+
+Il y a un plaisir immense à faire basculer l’avis d’un jury biaisé. Ces moments sont parmi les plus gratifiants du jeu, nous faisant sentir que nous ne combattons pas seulement pour un client, mais contre un système oppressif.
+
+Ajoutons à cela une meilleure gestion des preuves. Fini les moments frustrants où l’on connaît la solution mais où le jeu refuse de nous laisser la présenter. *Dai Gyakuten Saiban* introduit une flexibilité bienvenue, permettant d’avancer de façon plus fluide. Les scénaristes semblent avoir compris comment équilibrer défi et liberté, rendant les procès bien plus agréables.
+
+## Musique : Une symphonie de tension
 
 ![](image-100.png)
 
-Ajoutez à cela une meilleure gestion des preuves. Fini les situations frustrantes où vous connaissez la solution mais le jeu refuse de vous la valider. Ici, *Dai Gyakuten Saiban* montre que les scénaristes ont (enfin) compris qu’un peu de flexibilité ne fait pas de mal.
+Aucun jeu *Ace Attorney* ne serait complet sans sa bande-son, et *Dai Gyakuten Saiban* ne fait pas exception. Composée par Yasumasa Kitagawa, la musique s’accorde parfaitement avec la tension des scènes d’audience et l’atmosphère pesante du cadre historique.
 
-## Musique
+<mark>Chaque morceau semble soigneusement conçu pour nous plonger plus profondément dans l’histoire.</mark> Qu’il s’agisse des musiques tendues dans les tribunaux ou du thème enjoué de *Herlock Sholmes*, chaque note renforce l’ambiance générale. Ces petits détails musicaux ajoutent une profondeur supplémentaire à une expérience déjà captivante.
 
-La bande-son de [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/), composée par [Yasumasa Kitagawa](https://aceattorney.fandom.com/wiki/Yasumasa_Kitagawa), accompagne magnifiquement cette atmosphère lourde et tendue. Des orchestrations subtilement dosées qui reflètent les époques Meiji et victorienne, tout en gardant l’énergie dramatique qu'on attend de la série.
-<br><br>
-<iframe src="https://www.youtube.com/embed/oLZ96kPl0Ew?si=JmECVmdxMetGsCXY" 
-        title="Lecteur vidéo YouTube" 
-        frameborder="0" 
-        allow="accéléromètre; lecture automatique; bloc-notes; médias cryptés; gyroscope; image dans l'image; partage Web" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen 
-        style="width: 100%; height: 472.5px">
-</iframe>
+## Réception critique et héritage : Un bilan contrasté
 
-Les critiques ont salué la façon dont la musique améliore à la fois la narration et le contexte historique, mêlant des thèmes orchestraux reflétant les époques victorienne et Meiji, tout en conservant l'énergie ludique et intense que les fans attendent de la série. Le thème de [Herlock Sholmes](https://aceattorney.fandom.com/wiki/Herlock_Sholmes), en particulier, ajoute une touche légère et brillante à ses déductions, complétant l'humour et l'excentricité de son personnage.
+![](image-104.png)
 
-## Réception Critique et Héritage
+À sa sortie en Occident, *Dai Gyakuten Saiban* a été salué à juste titre. Les critiques et les joueurs ont célébré le développement complexe des personnages, la richesse du récit et les innovations en termes de gameplay. Il est désormais considéré comme l'un des meilleurs volets de la série *Ace Attorney*.
 
-Depuis sa sortie officielle en Occident, [Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) a reçu un accueil très positif. Les critiques et les joueurs ont salué le jeu pour sa narration captivante, le développement complexe de ses personnages et ses mécaniques de gameplay innovantes. Beaucoup le considèrent comme l’un des meilleurs volets de la série.
+Mais tout n’a pas été rose. Certains ont reproché au jeu son rythme lent, *Famitsu* lui attribuant une note de 35/40, tandis que des sites comme *IGN* parlaient de rythme "glacial". Pourtant, pour ceux qui acceptent de lui accorder du temps, cette lenteur participe à son charme.
 
-![Article Famitsu pour Dai Gyakuten Saiban](image-104.png)
+<mark>*Dai Gyakuten Saiban* exige de la patience, mais pour ceux qui s’y investissent, cette lenteur ne fait qu’ajouter à son charme.</mark>
 
-Cependant, cela n'est pas nécessairement vrai au Japon ou pour une partie de la presse occidentale. Bien que [Famitsu](https://www.famitsu.com) ait attribué une note de 35/40 à DGS, certains critiques plus chevronnés ont noté que le rythme, en particulier dans les premières phases, était plus lent que dans les épisodes précédents, ce qui pouvait être un défi pour certains joueurs.
-
-[IGN](https://me.ign.com/fr) a qualifié le rythme de "glacial", [Nintendo Life](https://www.nintendolife.com) n'a pas apprécié les "dialogues trop longs", et [Destructoid](https://www.destructoid.com) a décrit certaines phases d'investigation comme "gadgetisées". Malgré tout, la narration et les arcs des personnages ont été largement salués, en particulier l'évolution de Ryūnosuke et ses interactions avec Sholmes.
-
-## Conclusion
+## Conclusion : Un voyage qui en vaut la peine
 
 ![](image-108.png)
 
-[Dai Gyakuten Saiban](https://www.ace-attorney.com/great1-2/us/) réussit à redonner un souffle à la franchise *Ace Attorney*, en s’appuyant sur un cadre historique complexe et une narration qui prend son temps. Bien que le rythme lent puisse rebuter certains, le jeu tire parti de cette lenteur pour offrir des personnages profondément développés et des intrigues denses, où chaque procès est une véritable bataille culturelle et juridique.
+En fin de compte, *Dai Gyakuten Saiban* est un jeu qui exige un vrai engagement. Il ne s’agit pas d’un plaisir rapide, mais d’un récit profond qui récompensera ceux qui lui consacreront du temps. Avec ses personnages captivants, ses procès complexes et ses moments mémorables, il offre l'une des expériences judiciaires les plus enrichissantes de la franchise *Ace Attorney*.
 
-Entre la tension palpable du Japon face à la Grande-Bretagne, des personnages marquants comme [Barok van Zieks](https://aceattorney.fandom.com/wiki/Barok_van_Zieks) et [Herlock Sholmes](https://aceattorney.fandom.com/wiki/Herlock_Sholmes), et des innovations comme le système de jury, le jeu transcende les standards de la série.
+La profondeur de l’histoire, le choc culturel entre le Japon et la Grande-Bretagne, et des personnages comme Ryūnosuke, *Herlock Sholmes* ou *Barok van Zieks* s'unissent pour créer une expérience qui reste en tête longtemps après le générique de fin.
 
-Pour ceux qui ont la patience de s'immerger dans ce mélange d'intrigues juridiques et de chocs culturels, *Dai Gyakuten Saiban* se révèle être un ajout crucial à la franchise. Le travail de [Shu Takumi](https://en.wikipedia.org/wiki/Shu_Takumi) montre encore une fois qu'il sait repousser les limites de la série, sans sacrifier la profondeur émotionnelle.
-
-Pour ma part, ayant participé à la traduction française avant la sortie officielle, voir ce jeu enfin accessible à un plus grand public est une satisfaction. Que vous soyez un fan de longue date ou un nouveau venu, *Dai Gyakuten Saiban* offre une expérience riche et captivante, emplie de mystères, de personnages fascinants et de moments d'introspection qui marqueront durablement l'univers des jeux narratifs.
+Pour ceux qui ont la patience de traverser ses moments plus calmes, *Dai Gyakuten Saiban* est un véritable triomphe. C’est un jeu qui ne laisse pas simplement des souvenirs de procès résolus, mais des réflexions sur la justice, le pouvoir et les systèmes qui les régissent. Shu Takumi a offert ici quelque chose d’unique—un jeu qui respecte son héritage tout en se forgeant une place à part.
 
 <mark>- yaro</mark>
