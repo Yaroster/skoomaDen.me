@@ -63,3 +63,5 @@ Mise à part les quelques points que je reproche à l’histoire, je comprends q
 ![](image-211.png)
 
 Malgré tout cela, je considère que [Tyrion Cuthbert](https://attorneyofthearcane.fandom.com/wiki/Tyrion_Cuthbert:_Attorney_of_the_Arcane) est probablement mon Visual Novel préféré de l’année, et je préfère volontiers y jouer que de faire la trilogie d’[**Apollo Justice**](https://www.ace-attorney.com/aj-trilogy/).
+
+<mark>- yaro</mark>
