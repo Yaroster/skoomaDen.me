@@ -1,7 +1,7 @@
 ---
 title: "Justice entre Empires : Dai Gyakuten Saiban"
 date: 2024-09-27
-tags: ['Multimédia', 'Jeux']
+tags: ['Multimédia', 'Jeux', 'Français']
 description: "Merci, Shu Takumi."
 cover: "/covers/cover-dgs.png"
 ---
