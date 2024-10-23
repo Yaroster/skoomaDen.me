@@ -530,7 +530,7 @@ footer p {
         height: 2rem;
     }
     a.logo {
-        gap: var(--spacing-03);
+        gap: var(--spacing-04);
     }
     a.logo span{
         font-size: 1.5rem;
