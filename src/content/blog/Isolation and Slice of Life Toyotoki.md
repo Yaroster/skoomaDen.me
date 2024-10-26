@@ -60,15 +60,17 @@ The visual limitations, however, quickly become apparent. With only about a doze
 
 The soundtrack primarily consists of gentle piano pieces, well-suited to the island’s atmosphere. However, it suffers from a lack of variety. After several hours, the repetitiveness dampens the emotional impact, lacking themes tailored to each significant moment in the game.
 
-<iframe 
-    src="https://www.youtube.com/embed/AY9ZSd2NVD8?si=XAVeSFzZ7YHRBbMh" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen 
-    style="width: 100%; height: 35vh; display: block; border: none;">
-</iframe>
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://www.youtube.com/embed/AY9ZSd2NVD8?si=XAVeSFzZ7YHRBbMh" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+    </iframe>
+</div>
 
 Nevertheless, sound effects like rustling leaves and echoing footsteps add a crucial layer of realism. Japanese voice acting during key scenes adds depth, making the characters feel more alive.
 

@@ -60,16 +60,17 @@ Les limites visuelles, cependant, deviennent vite apparentes. Avec seulement une
 
 La bande sonore est essentiellement composée de morceaux de piano doux, bien adaptés à l’atmosphère de l’île. Cependant, elle souffre de son manque de variété. Au bout de plusieurs heures, la répétitivité atténue l’impact émotionnel, manquant d’adapter les thèmes à chaque moment fort du jeu.
 <br><br>
-<iframe 
-    src="https://www.youtube.com/embed/AY9ZSd2NVD8?si=XAVeSFzZ7YHRBbMh" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen 
-    style="width: 100%; height: 35vh; display: block; border: none;">
-</iframe>
-
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://www.youtube.com/embed/AY9ZSd2NVD8?si=XAVeSFzZ7YHRBbMh" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+    </iframe>
+</div>
 
 Néanmoins, les effets sonores, comme le bruissement des feuilles et les pas échos, apportent une couche de réalisme importante. Les doublages japonais lors des scènes clés ajoutent de la profondeur, rendant les personnages plus vivants.
 
