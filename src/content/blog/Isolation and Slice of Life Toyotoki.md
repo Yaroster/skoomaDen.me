@@ -74,7 +74,7 @@ Nevertheless, sound effects like rustling leaves and echoing footsteps add a cru
 
 ## Historical Context
 
-Contrary to Japanese visual novels from the 2000s, known for their multiple routes and alternative endings (see the infamous Clannad flowchart below), *Tales from Toyotoki* takes a resolutely unique and linear narrative approach. My translator friends encouraged me to explore this title, not only for its novelty but for its difference: here, there are no multiple routes or alternatives, just a single journey, carefully crafted to tell a coming-of-age story imbued with a sense of fate, reminiscent of classic romantic tragedies.
+Unlike Japanese visual novels from the 2000s, known for their multiple routes and alternative endings (see the famous Clannad Flowchart below), Tales from Toyotoki takes a resolutely unique and linear narrative approach. My translator friends encouraged me to explore this title, not only for its novelty but for its difference: it does not, like many, try to stand out by getting lost in a non-linear narrative; instead, it asserts itself with a single, carefully structured path, designed to tell an initiatory story imbued with a sense of fate, reminiscent of classic romantic tragedies.
 
 ![](image-217.png)
 Credit: [Morlok8k](https://ks.fhs.sh/viewtopic.php?t=8352)

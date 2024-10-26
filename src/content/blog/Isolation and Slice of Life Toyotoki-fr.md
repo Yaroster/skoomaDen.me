@@ -75,7 +75,7 @@ Néanmoins, les effets sonores, comme le bruissement des feuilles et les pas éc
 
 ## Contexte Historique
 
-À rebours des visual novels japonais des années 2000, connus pour leurs multiples routes et fins alternatives (voir le fameux Flowchart de Clannad ci-dessous, un exemple type du non-linéaire), *Tales from Toyotoki* adopte une approche narrative résolument unique et linéaire. Mes amis traducteurs m’ont encouragé à explorer ce titre, non seulement pour sa nouveauté mais pour sa différence : ici, pas de routes multiples ni d’alternatives, mais un seul cheminement, soigneusement structuré pour raconter un récit initiatique imprégné d’un fatum, rappelant les tragédies romantiques classiques.
+À rebours des visual novels japonais des années 2000, connus pour leurs multiples routes et fins alternatives (voir le fameux Flowchart de Clannad ci-dessous, un exemple type du non-linéaire), *Tales from Toyotoki* adopte une approche narrative résolument unique et linéaire. Mes amis traducteurs m’ont encouragé à explorer ce titre, non seulement pour sa nouveauté mais pour sa différence : on n'essaie pas, comme beaucoup, a se perdre dans un récit non-linéaire pour se demarque, mais on s'affirme plutot derriere un seul cheminement, soigneusement structuré pour raconter un récit initiatique imprégné d’un fatum, rappelant les tragédies romantiques classiques.
 
 ![](image-217.png)
 Credit: [Morlok8k](https://ks.fhs.sh/viewtopic.php?t=8352) 
