@@ -10,7 +10,7 @@ Le lointain murmure des vagues se brisant sur les rivages de Toyotoki se mêle a
 
 ![](image-212.png)
 
-Dans *Tales from Toyotoki : Arrivée de la Sorcière*, [Fragaria](https://fragaria.info/) propose une histoire de passage à l'âge adulte où l'adolescence rencontre l'isolement et la connexion, explorant la découverte de soi et la culture okinawaïenne. Ce qui commence comme un récit tranquille de tranche de vie évolue en un voyage émotionnel — une aventure dans l'identité, la résilience et les liens qui transcendent la vie quotidienne.
+Dans *Tales from Toyotoki: Arrival of the Witch*, [Fragaria](https://fragaria.info/) propose une histoire de passage à l'âge adulte où l'adolescence rencontre l'isolement et la connexion, explorant la découverte de soi et la culture okinawaïenne. Ce qui commence comme un récit tranquille de tranche de vie évolue en un voyage émotionnel — une aventure dans l'identité, la résilience et les liens qui transcendent la vie quotidienne.
 
 ## Structure Narrative
 
@@ -78,9 +78,11 @@ Néanmoins, les effets sonores tels que le bruissement des feuilles et les pas r
 
 Contrairement aux visual novels japonais des années 2000, connus pour leurs multiples chemins et fins alternatives (voir le célèbre organigramme de Clannad ci-dessous), *Tales from Toyotoki* adopte une approche narrative unique et linéaire. Mes amis traducteurs m'ont encouragé à explorer ce titre, non seulement pour son originalité mais aussi pour son récit distinctif : il ne cherche pas à diviser le joueur, mais plutôt à l'immerger dans la profondeur d'une culture.
 
-![](clannad-flowchart.png)
+![](image-217.png)
 
 ## Conclusion
+
+![](image-218.png)
 
 *Tales from Toyotoki* offre une expérience narrative inoubliable, alliant la simplicité des tranches de vie à la profondeur des luttes humaines. À travers la lentille de l'isolement et des relations, Fragaria nous rappelle que chaque vie, même dans ses aspects les plus ordinaires, est remplie de richesse. La profondeur émotionnelle, les personnages attachants et l'exploration délicate de la culture okinawaïenne en font une aventure qui transcende le simple jeu vidéo.
 
