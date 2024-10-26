@@ -1,5 +1,5 @@
 ---
-title: "Épisodique vs Sérialisé: L'Echec de Korra"
+title: "Épisodique vs Sérialisé: L'Échec de Korra"
 date: 2024-10-17
 description: "Pourquoi Korra ne parvient pas à hériter de l'héritage de son prédécesseur."
 tags: ['Multimédia', 'Animés', 'Français']
