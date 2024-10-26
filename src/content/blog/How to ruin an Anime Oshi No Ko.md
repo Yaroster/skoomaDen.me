@@ -1,7 +1,7 @@
 ---
 title: "How to Ruin an Anime: Oshi No Ko"  
 date: 2024-10-13  
-tags: ['Multimedia', 'Animes', 'Archive']  
+tags: ['Multimedia', 'Animes']  
 description: "The incredible ability of a work to sabotage itself."  
 cover: "/covers/cover-oshi-no-ko.png"  
 ---

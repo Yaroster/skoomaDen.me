@@ -1,7 +1,7 @@
 ---
 title: "Comment Ruiner un Animé: Oshi No Ko"  
 date: 2024-10-13  
-tags: ['Multimédia', 'Animés', 'Français', 'Archive']  
+tags: ['Multimédia', 'Animés', 'Français']  
 description: "L'incroyable capacité d'une œuvre à se saboter elle-même."  
 cover: "/covers/cover-oshi-no-ko.png"  
 ---

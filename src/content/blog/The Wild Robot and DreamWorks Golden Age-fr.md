@@ -1,7 +1,7 @@
 ---
 title: "Le Robot Sauvage & L'Âge d'Or de DreamWorks"  
 date: 2024-10-08  
-tags: ['Multimédia', 'Français', 'Archive']  
+tags: ['Multimédia', 'Archive']  
 description: "Une analyse critique de DreamWorks et de son potentiel à rester un leader créatif dans l'animation."  
 cover: "/covers/cover-dreamworks.jpg"  
 ---
