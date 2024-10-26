@@ -54,7 +54,7 @@ Visually, *Toyotoki* offers a simple yet charming world. The backgrounds, edited
 
 ![](<Screenshot 2024-10-24 190734.png>)
 
-The visual limitations, however, quickly become apparent. With only about a dozen CGs for a 35-hour duration and limited sprite variations, certain scenes lack visual impact. Character expressions also lack diversity, making emotional moments occasionally repetitive. Compared to *Tyrion Cuthbert*, which I previously [critiqued](https://skoomaden.me/en/posts/innovation-through-homage-tyrion-cuthbert) and which has a broader variety of sprites, *Toyotoki* feels static, losing some narrative nuances. Details like Akari’s figure-filled living room go unnoticed due to insufficient visual updates.
+The visual limitations, however, quickly become apparent. With only about a dozen CGs for a 35-hour duration and limited sprite variations, certain scenes lack visual impact. Character expressions also lack diversity, making emotional moments occasionally repetitive. Compared to *Tyrion Cuthbert*, which I previously [critiqued](https://skoomaden.me/en/posts/innovation-through-hommage-tyrion-cuthbert) and which has a broader variety of sprites, *Toyotoki* feels static, losing some narrative nuances. Details like Akari’s figure-filled living room go unnoticed due to insufficient visual updates.
 
 ## Soundtrack
 
@@ -74,7 +74,7 @@ Nevertheless, sound effects like rustling leaves and echoing footsteps add a cru
 
 ## Historical Context
 
-Contrary to Japanese visual novels from the 2000s, known for their multiple routes and alternative endings (see the famous Clannad flowchart below, a classic example of non-linear storytelling), *Tales from Toyotoki* takes a resolutely unique and linear narrative approach. My translator friends encouraged me to explore this title, not only for its novelty but for its difference: here, there are no multiple routes or alternatives, just a single journey, carefully crafted to tell a coming-of-age story imbued with a sense of fate, reminiscent of classic romantic tragedies.
+Contrary to Japanese visual novels from the 2000s, known for their multiple routes and alternative endings (see the infamous Clannad flowchart below), *Tales from Toyotoki* takes a resolutely unique and linear narrative approach. My translator friends encouraged me to explore this title, not only for its novelty but for its difference: here, there are no multiple routes or alternatives, just a single journey, carefully crafted to tell a coming-of-age story imbued with a sense of fate, reminiscent of classic romantic tragedies.
 
 ![](image-217.png)
 Credit: [Morlok8k](https://ks.fhs.sh/viewtopic.php?t=8352)
