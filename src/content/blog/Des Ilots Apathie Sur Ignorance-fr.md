@@ -6,18 +6,18 @@ description: "Une réflexion sur l'ignorance comme choix face à l'abondance."
 cover: "/covers/cover-ignorance.jpg"
 ---
 
-Pour le profane, il y a des sujets qui ne semblent tout simplement jamais intéressants. Il n’y prête alors attention qu’anecdotiquement, se contentant d’une connaissance en surface de ce qui lui semble être une quantité infinie d’informations, dont le seul objectif est de lui permettre de s’immiscer dans des conversations fournies. C’est, en somme, ce que Brel appelait "se suffire", <mark>une maladie de l’âme qui décide de se contenter du minimum et qui accepte de ne jamais aller au-delà.</mark> C’était la conviction de nombreux penseurs, qui voyaient dans ce qu’ils appelaient "le peuple" une paresse de l’esprit.
+Pour le profane, il y a des sujets qui ne semblent tout simplement jamais intéressants. Il n’y prête alors attention qu’anecdotiquement, se contentant d’une connaissance en surface de ce qui lui semble être une quantité infinie d’informations, dont le seul objectif est de lui permettre de s’immiscer dans des conversations fournies. C’est, en somme, ce que Brel appelait "se suffire", <mark>une maladie de l’âme qui décide de se contenter du minimum et qui accepte de ne jamais aller au-delà.</mark> C’était la conviction de nombreux penseurs, qui voyaient dans ce qu’ils appelaient "l'Ignorance'" une paresse de l’esprit.
 
 ---
 
 ## Haute Culture et Ruissellement
 
-Bien qu'il ne soit pas commun aujourd’hui de prendre une allure hautaine face à celui qui ne sait pas ce que l’on sait, beaucoup décident très tôt de voir en ceux que l’on nommera pour l’heure « les ignorants » une maladie sociale plus profonde, qui prend racine dans une culture populaire détachée de la « Haute Culture » comme source de savoir. Ce serait donc aux détenteurs du savoir de guider — d’enraciner ceux qui ont perdu le droit chemin et qui ont décidé de s’isoler du mentorat de la haute culture.
+Bien qu'il ne soit pas commun aujourd’hui de prendre une allure hautaine face à celui qui ne sait pas ce que l’on sait, beaucoup décident très tôt de diagnostiquer une maladie sociale plus profonde, qui prend racine dans une culture populaire détachée de la « Haute Culture » comme source de savoir. Ce serait donc aux détenteurs de savoir de guider — d’enraciner ceux qui ont perdu le droit chemin et qui ont décidé de s’isoler de leur mentorat.
 
 Steiner écrivait :  
 > <mark>« La culture est asphyxiée lorsqu’elle est confinée à une élite ; elle s’épanouit seulement lorsqu’elle est accessible, sans médiation, à tous ceux qui en ont soif. »</mark>
 
-Il voyait en la responsabilité des classes aisées de laisser "ruisseler" le savoir d’en haut et d’agir en garde-fous pour éviter que la culture populaire ne "contamine" la source. Ainsi, l’ignorant devient assujetti aux lois sociales dominantes et subit cette contamination culturelle sans même le réaliser. Il est facile, rétrospectivement, d'expliquer cette panique des classes privilégiées par l’évolution des sociétés : l'Homme, libéré du joug féodal et salarié, ne suit plus la route ardue de l'ascension sociale, mais construit une culture d’opposition — <mark>une machine qui a donné naissance à toutes les sous-cultures populaires du XXe siècle.</mark>
+Steiner voyait en la responsabilité des classes aisées de laisser "ruisseler" le savoir d’en haut et d’agir en garde-fous pour éviter que la culture populaire ne "contamine" la source. Ainsi, l’ignorant devient assujetti aux lois sociales dominantes et subit cette contamination culturelle sans même le réaliser. Il est facile, rétrospectivement, d'expliquer cette panique des classes privilégiées par l’évolution des sociétés : l'Homme, libéré du joug féodal et salarié, ne suit plus la route ardue de l'ascension sociale, mais construit une culture d’opposition — <mark>une mise en branle qui a donné naissance à toutes les sous-cultures populaires du XXe siècle.</mark>
 
 Si l’on reprend cette analyse sociologique, l’élite de "là-haut" s’est soudainement vue contrainte de se prétendre "du peuple", apaisant ainsi ceux qui, abusés, pointaient du doigt leur déconnexion. Mais ces théories, bien qu’elles éclairent les limites des positions de Steiner et de ses disciples, omettent une raison centrale de cette écriture : le droit à l’information.
 
