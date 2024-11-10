@@ -1,7 +1,7 @@
 ---
 title: "Chinese and Arabic: The Wall of Cultures"  
 date: 2024-11-07  
-tags: ['Games', 'Multimedia']  
+tags: ['Multimedia']  
 description: "How the West faces cultural challenges in China and the Arab world."  
 cover: "/covers/cover-arabe-chinois.png"  
 ---

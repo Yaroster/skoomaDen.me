@@ -1,7 +1,7 @@
 ---
 title: "Chinois et Arabe : Le Mur des Cultures"  
 date: 2024-11-07  
-tags: ['Jeux', 'Multimédia', 'Français']  
+tags: ['Multimédia', 'Français']  
 description: "Comment l'Occident fait face aux défis culturels chinois et arabes."  
 cover: "/covers/cover-arabe-chinois.png"  
 ---
