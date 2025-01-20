@@ -30,7 +30,7 @@ This is where the distinction between homage and innovation becomes crucial. The
 
 ![](image-205.png)
 
-Whether this argument resonates with you or not, it’s undeniable that the game’s **user interface** and **character design** are exceptional. The use of character models suited to **4K**, the universal interface between the [mobile and PC versions](https://vndb.org/v45489), and the aesthetic coherence of the locations and characters are a true visual treat. I found myself taking screenshots about thirty times throughout my playthrough, sharing my praises for the game’s visual elements with anyone who would listen.
+Whether this argument resonates with you or not, it’s undeniable that the game’s **user interface** and **character design** are exceptional. The use of character sprites suited to **4K**, the universal interface between the [mobile and PC versions](https://vndb.org/v45489), and the aesthetic coherence of the locations and characters are a true visual treat. I found myself taking screenshots about thirty times throughout my playthrough, sharing my praises for the game’s visual elements with anyone who would listen.
 
 ![](image-206.png)
 
