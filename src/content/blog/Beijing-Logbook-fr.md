@@ -1,5 +1,5 @@
 ---
-title: "Carnet de Voyage en Chine : 10 Jours d'Histoires et de Thé"
+title: "Pékin: 10 Jours d'Histoires et de Thé"
 date: 2024-09-01
 tags: ['Journal de Bord', 'Français']
 description: "Mon voyage de 10 jours en Chine a été une aventure pleine d'histoires, de thé, et de nouvelles expériences. Voici le journal de mes aventures."
