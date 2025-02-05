@@ -5,36 +5,66 @@ tags: ['Multimédia', 'Français']
 description: "Une retrospective de l'industrie cinématographique chinoise après la rétrocession."
 cover: "/covers/cover-yanxi.png"
 ---
-Lorsque l’on parle de dramas asiatiques, l’ampleur du sujet peut même confondre les spectateurs les plus assidus. Les services de VOD ont largement popularisé ces œuvres en Occident, et les films et séries de la péninsule coréenne ont envahi nos écrans ainsi que les hautes sphères de reconnaissance internationale. La "barrière d’un pouce des sous-titres", comme l’a si bien dit [Bong Joon-Ho](https://en.wikipedia.org/wiki/Bong_Joon-ho), a été brisée.
+---
+titre: "Politique des drames de palais : l'industrie cinématographique chinoise."
+date: 2025-01-20  
+tags: ['Multimédia']  
+description: "Une plongée approfondie dans l'industrie cinématographique chinoise après sa résurgence."
+couverture: "/covers/cover-yanxi.png"
+---
 
-Le Japon, pour sa part, domine largement le monde de l’animation, grâce à des années de "[Cool Japan](https://www.cao.go.jp/cool_japan/english/pdf/published_document3.pdf)" : une initiative gouvernementale débutée dans les années 2000 visant à promouvoir la culture populaire japonaise à l’échelle mondiale, notamment dans les secteurs de l’anime, du manga et des jeux vidéo. En Asie, deux autres mastodontes du divertissement se démarquent : l’Inde, avec sa gigantesque machine bollywoodienne, et la Chine continentale, enrichie par l’apport des réalisateurs hongkongais ayant rejoint le pays après la rétrocession de la [Région Administrative Spéciale](https://fr.wikipedia.org/wiki/Région_administrative_spéciale_(Chine)) par les Britanniques, il y a un peu plus de 25 ans.
+Lorsqu'on parle de dramas asiatiques, la simple ampleur du sujet peut même déconcerter les spectateurs les plus passionnés. Les plateformes de [VOD](https://fr.wikipedia.org/wiki/Vidéo_à_la_demande) ont considérablement popularisé ces œuvres en Occident, et les films et séries de la péninsule coréenne ont envahi nos écrans ainsi que les cercles de reconnaissance prestigieux. La barrière d'un pouce des sous-titres, comme [Bong Joon-ho](https://fr.wikipedia.org/wiki/Bong_Joon-ho) l'a judicieusement exprimé, a été brisée.
+
+Le Japon, quant à lui, domine largement le monde de l'animation, grâce à des années de [Cool Japan](https://www.cao.go.jp/cool_japan/english/pdf/published_document3.pdf) : une initiative gouvernementale lancée dans les années 2000 pour promouvoir la culture populaire japonaise à l'échelle mondiale, notamment dans les domaines de l'anime, du manga et des jeux vidéo. En Asie, deux autres géants du divertissement se distinguent : l'Inde, avec sa gigantesque machine Bollywood, et la Chine continentale, enrichie par les contributions des cinéastes de Hong Kong qui ont rejoint le pays après la rétrocession de la [Région administrative spéciale](https://fr.wikipedia.org/wiki/R%C3%A9gions_administratives_sp%C3%A9ciales_de_Chine) par les Britanniques il y a un peu plus de 25 ans.
 
 ![](image-219.png)
 
-Cette Chine, immense par sa population, sa taille et son talent, adopte une approche protectionniste qui réduit l’intérêt d’exporter sa production culturelle. Son marché domestique est largement suffisant, et de nombreux réalisateurs hongkongais et taïwanais, désillusionnés par un rêve américain où ils se retrouvent cantonnés à de simples exécutants, se tournent vers l’énorme marché national. La collaboration entre les budgets continentaux et le savoir-faire hongkongais a donné naissance à des chefs-d’œuvre comme [Farewell My Concubine](https://mydramalist.com/3646-farewell-my-concubine) et [Shanghai Triad](https://mydramalist.com/9858-shanghai-triad). Le début des années 2000 promettait un âge d’or réunissant les talents chinois en un bloc homogène. Pourtant, cette promesse n’a jamais été pleinement réalisée.
+### **L'essor d'une puissance protectionniste**
+
+La Chine, vaste en population, taille et talent, adopte une approche protectionniste qui réduit le besoin d'exporter sa production culturelle. Son marché domestique est plus que suffisant, et de nombreux cinéastes de Hong Kong et de Taïwan, désillusionnés par un rêve américain où ils se retrouvent relégués au rôle d'exécutants, se tournent vers l'énorme marché national chinois. La collaboration entre les budgets continentaux et l'expertise de Hong Kong a donné naissance à des chefs-d'œuvre tels que *Adieu ma concubine* et *Les Triades de Shanghai*. Les premières années 2000 promettaient une ère dorée unissant les talents chinois en un bloc cohérent. Pourtant, cette promesse n’a jamais été pleinement réalisée.
+
+Au lieu de cela, l’industrie cinématographique chinoise a subi une transformation impulsée par des politiques gouvernementales, des incitations économiques et des changements dans les préférences du public. Le gouvernement a introduit des quotas sur les films étrangers, garantissant que les productions nationales dominent les écrans de cinéma. Simultanément, des subventions et des exonérations fiscales ont encouragé les cinéastes locaux à produire des contenus de haute qualité. Ces mesures n’ont pas seulement protégé l’industrie mais ont également favorisé l’innovation dans le cadre des contraintes de la réglementation.
 
 ![](image-220.png)
 
-Aujourd’hui, l’Empire du Milieu concentre principalement ses efforts sur ses séries télévisées, les C-Dramas, souvent plus longs et complexes que leurs équivalents coréens, avec des budgets tout aussi impressionnants. Ces séries explorent tous les genres : moderne, science-fiction, historique, mais surtout le favori de beaucoup : le harem.
+### **L'âge d'or des C-Dramas**
 
-Le genre du harem est souvent mal compris. Il est profondément ancré dans la culture chinoise, héritée de l’opéra. [*Empress in the Palace*](https://mydramalist.com/4474-legend-of-concubine-zhen-huan) est peut-être le C-Drama le plus populaire de son époque, et pour de bonnes raisons : il suit un schéma classique. Dans la Cité interdite, concubines et impératrices se battent bec et ongles pour dominer le harem.
+Aujourd'hui, la Chine canalise principalement ses énergies créatives dans les séries télévisées, communément appelées C-Dramas. Ces productions surpassent souvent leurs homologues coréens en longueur et en complexité, avec des budgets tout aussi impressionnants. Couvrant des genres allant de la romance moderne à la science-fiction et aux épopées historiques, les C-Dramas répondent à des goûts diversifiés. Parmi ceux-ci, le drame de harem se distingue comme un favori pérenne. Enraciné dans l'opéra traditionnel chinois, ce genre explore des thèmes d'intrigue, de trahison et de luttes de pouvoir au sein des cours impériales. *Empresses in the Palace* incarne cet archétype, racontant les machinations impitoyables des concubines se battant pour la suprématie dans la Cité Interdite. Plus récemment, *Story of Yanxi Palace* a captivé des millions de spectateurs avant de faire face à des critiques et à un retrait partiel en raison des lois sur la décence—un reflet de l'équilibre délicat entre liberté artistique et contrôle réglementaire.
+
+Ce qui distingue les C-Dramas, c'est leur capacité à fusionner l'authenticité historique avec les sensibilités modernes. Des productions comme *The Longest Day in Chang’an* montrent une attention méticuleuse aux détails, recréant des villes anciennes avec une précision saisissante tout en utilisant des effets spéciaux de pointe. Cette fusion de tradition et technologie a élevé les drames chinois à de nouveaux sommets, attirant à la fois des publics nationaux et internationaux.
 
 ![](image-221.png)
 
-Intrigues, meurtres, luttes pour le pouvoir, larmes et argent composent ce genre par excellence. Plus récemment, [*Story of Yanxi Palace*](https://mydramalist.com/28565-the-tale-of-yanxi-palace) a connu un succès retentissant avant d’être critiqué et partiellement retiré en raison des lois sur la bienséance, bien que les raisons exactes soient sujettes à débat.
+### **Les lois sur la décence comme politique industrielle**
 
-![](image-222.png)
+Contrairement à l'idée d'une censure purement répressive, les lois sur la décence s'alignent sur une logique d'orientation économique et culturelle. En régulant le contenu des productions, la Chine cherche à promouvoir des valeurs compatibles avec ses objectifs sociaux et économiques. Plutôt que d'étouffer la créativité, cette approche encourage la consolidation de grandes entreprises capables de produire des œuvres répondant aux attentes gouvernementales tout en réduisant les risques financiers. Les studios qui survivent à ce processus de sélection deviennent des acteurs majeurs de l'industrie, attirant des investissements domestiques stables et répondant à une demande locale massive.
 
-Contrairement à l’idée d’une censure purement répressive, ces lois s’inscrivent dans une logique d’orientation économique et culturelle. En réglementant le contenu des productions, la Chine cherche à promouvoir des valeurs compatibles avec ses objectifs sociaux et économiques. Plutôt que d’étouffer la créativité, cette approche favorise la consolidation de grandes entreprises capables de produire des œuvres conformes aux attentes gouvernementales tout en réduisant les risques financiers. Les studios qui survivent à cette écrémage deviennent des acteurs majeurs de l’industrie, attirant des investissements internes stables et répondant à une demande domestique massive.
+Cependant, ces régulations ne sont pas sans controverse. Certains créateurs soutiennent que les lois sur la décence étouffent les récits audacieux, forçant les scénaristes et réalisateurs à s'autocensurer. D'autres soulignent les conséquences involontaires de mesures excessivement restrictives, comme le retrait abrupt de séries à succès comme *Story of Yanxi Palace*. Malgré ces défis, le système a indéniablement produit une industrie robuste et compétitive capable de rivaliser avec Hollywood en termes d'envergure et d'ambition.
 
 ![](image-224.png)
 
-Un exemple marquant de cette stratégie est [*The Longest Day in Chang’an*](https://mydramalist.com/28435-the-longest-day-in-chang-an), une web-série financée par des dizaines d’investisseurs privés et distribuée par des plateformes comme Youku. Ce modèle illustre l’émergence d’un marché où la qualité et l’ampleur des productions peuvent rivaliser avec Hollywood, tout en restant ancrées dans une dynamique économique proprement chinoise.
+### **Technologie et innovation**
+
+L'essor des plateformes de streaming comme iQIYI, Tencent Video et Youku a révolutionné la manière dont les audiences consomment des C-Dramas. Ces plateformes exploitent les mégadonnées et l'intelligence artificielle pour analyser les préférences des spectateurs, adaptant le contenu à des démographies spécifiques. Par exemple, des algorithmes peuvent recommander des drames historiques aux spectateurs plus âgés tout en suggérant des comédies romantiques aux jeunes publics. Cette approche basée sur les données garantit des taux d'engagement plus élevés et maximise le potentiel de revenus.
+
+De plus, les progrès dans les effets visuels et les techniques de production virtuelle ont permis aux studios chinois de créer des mondes visuellement époustouflants à une fraction du coût de leurs homologues occidentaux. Des séries comme *The Untamed* et *Word of Honor* démontrent comment la CGI peut améliorer le récit sans l'écraser. Alors que la Chine continue d'investir dans l'infrastructure technologique, son industrie du divertissement est bien placée pour prendre la tête de la charge mondiale en matière d'innovation numérique.
 
 ![](image-223.png)
 
-La concentration de la Chine sur son marché domestique et sa volonté de réduire les risques tout en augmentant la confiance dans cette industrie renaissante visent à créer des empires économiques stables capables de résister aux pressions externes. Ces mastodontes, tout en étant modelés par les directives économiques et culturelles du Parti, incarnent une méthode chinoise distincte, différente de celle pratiquée en Occident. Ce modèle repose sur une vision stratégique à long terme : renforcer une industrie cinématographique autonome, orientée vers la consommation interne mais capable de rayonner mondialement lorsque cela sert ses intérêts.
+### **Ambitions mondiales et défis**
 
-Ainsi, les lois sur la bienséance, loin d’être de simples outils de censure, fonctionnent comme des instruments de politique industrielle. Elles redéfinissent les limites de la créativité tout en assurant une compétitivité économique et culturelle qui s’inscrit dans une dynamique nationale, où le cinéma devient un vecteur d’identité et de puissance.
+Bien que l'attention de la Chine reste fermement centrée sur son marché domestique, il y a des signes d'une ambition croissante pour s'étendre à l'international. Des plateformes de streaming comme iQIYI ont lancé des versions à l'étranger, ciblant l'Asie du Sud-Est, l'Europe et l'Amérique du Nord. De même, des coproductions avec des studios étrangers—comme l'adaptation de Netflix de *The Three-Body Problem*—signalent une volonté de collaborer à l'échelle mondiale.
+
+![](image-235.png)
+
+Cependant, réussir à l'international présente des défis importants. Les différences culturelles, les barrières linguistiques et les tensions géopolitiques entravent souvent les efforts de la Chine pour exporter son soft power. De plus, les perceptions du contrôle étatique sur les médias peuvent aliéner les publics occidentaux habitués à des environnements créatifs plus libéraux. Pour surmonter ces obstacles, la Chine doit trouver un équilibre délicat entre promouvoir son identité culturelle et répondre à des thèmes universels.
+
+### **L'avenir du divertissement chinois**
+
+À l'avenir, l'industrie cinématographique et télévisuelle chinoise fait face à la fois à des opportunités et à des incertitudes. D'une part, des investissements continus dans la technologie, le développement des talents et l'infrastructure produiront probablement des projets encore plus ambitieux. D'autre part, des régulations en évolution et des comportements de consommation changeants pourraient perturber les modèles commerciaux établis. Une tendance potentielle est l'essor du contenu généré par les utilisateurs, alimenté par des plateformes comme Douyin (la version chinoise de TikTok). Les vidéos courtes et les formats narratifs interactifs pourraient redéfinir ce qui constitue le « divertissement » dans les années à venir.
+
+En fin de compte, l'approche de la Chine envers son industrie cinématographique et télévisuelle reflète une stratégie plus large d'autonomie culturelle et économique. En priorisant la consommation domestique, en favorisant l'innovation et en naviguant les complexités mondiales, le Moyen Empire vise à bâtir un empire du divertissement qui reflète son statut de superpuissance émergente.
+
+Ainsi, les lois sur la décence, loin d'être de simples outils de censure, fonctionnent comme des instruments de politique industrielle. Elles redéfinissent les limites de la créativité tout en assurant une compétitivité économique et culturelle dans un cadre national où le cinéma devient un véhicule d'identité et de pouvoir.
 
 <mark>- yaro</mark>
