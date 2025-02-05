@@ -69,3 +69,5 @@ Ce qui est en jeu dépasse le simple succès commercial. Il s’agit d’un **pr
 La clé du succès, aujourd’hui, réside dans l’humilité. **Accepter que d’autres marchés ne suivent pas les règles établies par l’Occident**, c’est reconnaître que ces régions ne sont pas des terres à conquérir, mais des mondes à comprendre. Tesla et Ubisoft, à travers leurs récents efforts, montrent qu’il est possible de bâtir des ponts. Mais ces exemples restent rares dans un paysage encore dominé par des stratégies trop centrées sur des perspectives occidentales.
 
 Il est temps pour les entreprises de réviser leur approche : **le monde ne s'occidentalise pas, il se diversifie**. Et c’est dans cette diversité que réside le futur de l'innovation et de la croissance.
+
+<mark>- yaro</mark>

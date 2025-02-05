@@ -113,3 +113,5 @@ En effaçant les souvenirs des autres, Lain accepte l’idée que son existence 
 ![](image-157.png)
 
 En fin de compte, la série nous montre que la quête d’une identité stable, face à la modernité et à la technologie omniprésente, peut mener à une fragmentation irréversible du moi. Lain incarne ce cheminement vers une forme de transcendance, qui n’est qu’un masque pour une dissolution ultime de l'individualité.
+
+<mark>- yaro</mark>

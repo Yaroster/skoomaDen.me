@@ -115,3 +115,5 @@ Through Lain’s wandering in the city and the Wired, *Serial Experiments Lain* 
 ![](image-157.png)
 
 Ultimately, the series shows us that the quest for a stable identity, in the face of modernity and omnipresent technology, can lead to an irreversible fragmentation of the self. Lain embodies this journey toward a form of transcendence, which is nothing but a mask for the ultimate dissolution of individuality.
+
+<mark>- yaro</mark>

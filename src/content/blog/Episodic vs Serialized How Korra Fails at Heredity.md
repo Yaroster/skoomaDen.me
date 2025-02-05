@@ -92,3 +92,5 @@ LoK’s antagonists embody interesting political ideologies, but none are given 
 *The Legend of Korra* attempts to position itself as a more mature, politically engaged successor to *Avatar: The Last Airbender*. However, in adopting a serialized format and severing key thematic elements, the show fails to inherit the depth that made ATLA a success. The rushed pace of LoK’s storytelling sacrifices character development and thematic exploration in favor of spectacle, while its disjointed narrative structure prevents meaningful continuity between seasons.
 
 Korra’s severed connection to her past lives mirrors the series' inability to inherit the spiritual and narrative legacy of ATLA. LoK’s treatment of political themes, from inequality to authoritarianism, is equally shallow, as each antagonist is introduced with promise but quickly reduced to oversimplified villains. Ultimately, LoK’s ambitious narrative choices are undermined by its execution, leaving behind a series that, in trying to do too much, fails to achieve the depth or continuity that made its predecessor a masterpiece.
+
+<mark>- yaro</mark>

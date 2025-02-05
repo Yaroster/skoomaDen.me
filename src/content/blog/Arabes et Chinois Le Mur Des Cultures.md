@@ -65,3 +65,5 @@ What’s at stake goes beyond mere commercial success. It involves a **process o
 The key to success today lies in humility. **Accepting that other markets do not follow rules established by the West** means recognizing that these regions are not lands to conquer but worlds to understand. Tesla and Ubisoft, through their recent efforts, show that building bridges is possible. But these examples remain rare in a landscape still dominated by strategies overly centered on Western perspectives.
 
 It’s time for companies to rethink their approach: **the world is not Westernizing; it is diversifying.** And within this diversity lies the future of innovation and growth.
+
+<mark>- yaro</mark>

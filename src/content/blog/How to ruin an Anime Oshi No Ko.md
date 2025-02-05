@@ -89,3 +89,5 @@ Worse still, the ambiguous and disturbing relationship between Aqua and Ruby end
 ![](image-170.png)
 
 <mark>In the end, Oshi No Ko is an example of a work that, despite its visual success, failed to deliver a truly compelling narrative.</mark> What was supposed to be a powerful critique of the entertainment industry and a reflection on celebrity turned into a confusing blend of genres and themes, lacking depth and subtlety. Oshi No Ko will likely be remembered not as a groundbreaking work, but as one that destroyed itself along the way, trapped by its own contradictions.
+
+<mark>- yaro</mark>
