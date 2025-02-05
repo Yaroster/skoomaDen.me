@@ -1,8 +1,8 @@
 ---
-title: "La Politique des Drames Palatiaux : L'industrie cinématographique de la Chine"
+title: "Drames de Palais: L'Industrie Ciné Chinoise."
 date: 2025-01-20  
-tags: ['Multimédia']  
-description: "Un plongeon dans l'industrie cinématographique chinoise après sa résurgence."
+tags: ['Multimédia', 'Français']
+description: "Une retrospective de l'industrie cinématographique chinoise après la rétrocession."
 cover: "/covers/cover-yanxi.png"
 ---
 
