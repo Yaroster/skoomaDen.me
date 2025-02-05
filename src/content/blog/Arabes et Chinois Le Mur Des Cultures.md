@@ -10,7 +10,7 @@ Among all the regions of the world, the East remains an elusive frontier for Wes
 ## The New New Continent
 Since its meteoric economic rise, mainland China, with its 1.4 billion inhabitants, has disrupted global trade dynamics. This surge has revealed a market of consumers with growing purchasing power, eager for foreign experiences and products. However, this rise has caught many multinationals off guard. Too often, they underestimate the scale of the Chinese challenge. Companies already established managed to anticipate and position themselves, capturing crucial market shares. But for newcomers, the Chinese market feels like a wall. These latecomers inevitably hit a ceiling, repeating the same mistakes: a failure to grasp the nuances of a deeply coded culture.
 
-> "The Chinese market feels like a wall. These latecomers inevitably hit a ceiling, repeating the same mistakes: a failure to grasp the nuances of a deeply coded culture."
+> <mark>"The Chinese market feels like a wall. These latecomers inevitably hit a ceiling, repeating the same mistakes: a failure to grasp the nuances of a deeply coded culture."</mark>
 
 ## Translating China: Design and Language
 Translation in China goes far beyond words. It touches on cultural and technological aspects often imperceptible to a Western eye. The Chinese digital ecosystem perfectly illustrates this difference. While some Chinese apps have made their way into our daily lives, it often comes at the cost of a complete overhaul of their interface to meet Western standards. In China, however, the user experience follows a logic that confounds outsiders, reflecting fundamentally different priorities and practices.
@@ -21,7 +21,7 @@ This reliance on "Everything Apps" rests on a fundamental pillar: trust. Chinese
 
 These specifics are also reflected in app design. Unlike Western standards, which prioritize clean interfaces with clear spacing and distinct calls to action, Chinese apps adopt a radically different approach. Their interfaces are dense, almost saturated with information. This is partly due to the nature of the Chinese language, whose ideographic system allows for a lot of information in few characters. Additionally, Chinese can be read in multiple directions, increasing visual density.
 
-> "In the West, red is often associated with danger or prohibition, while in China, it symbolizes prosperity and serenity."
+> <mark>"In the West, red is often associated with danger or prohibition, while in China, it symbolizes prosperity and serenity."</mark>
 
 The color palette differs as well. In the West, red is often associated with danger or prohibition, while in China, it symbolizes prosperity and serenity. These visual codes, deeply rooted in local culture, may confuse Western users, for whom these interfaces might seem chaotic. However, this is not disorder but a different organization, tailored to specific cultural expectations.
 
@@ -42,7 +42,7 @@ The Arab world, with its 22 countries and hundreds of millions of speakers, pres
 
 Ubisoft, the publisher of the famous Assassin's Creed franchise, has often drawn inspiration from the Arab world for its games. Titles like Assassin's Creed and Prince of Persia immerse players in environments inspired by the Middle East, with rich architectures, cultures, and stories. However, despite this cultural immersion, these games were not initially translated into Arabic, limiting their accessibility for Arabic-speaking players.
 
-> "Offering games inspired by the Arab world without making them available in the local language can be seen as cultural appropriation."
+> <mark>"Offering games inspired by the Arab world without making them available in the local language can be seen as cultural appropriation."</mark>
 
 This lack of localization raises several issues. Accessibility is restricted for Arabic-speaking players, even those fluent in other languages, who may struggle to fully grasp the narrative and cultural nuances without proper translation. Offering games inspired by the Arab world without making them available in the local language can be seen as cultural appropriation, where cultural elements are used without true engagement with the original audience. The Arab video game market is rapidly expanding. Failing to localize these games in Arabic means missing out on a significant potential audience.
 
@@ -63,7 +63,7 @@ What’s at stake goes beyond mere commercial success. It involves a **process o
 
 The key to success today lies in humility. **Accepting that other markets do not follow rules established by the West** means recognizing that these regions are not lands to conquer but worlds to understand. Tesla and Ubisoft, through their recent efforts, show that building bridges is possible. But these examples remain rare in a landscape still dominated by strategies overly centered on Western perspectives.
 
-> "The world is not Westernizing; it is diversifying. And within this diversity lies the future of innovation and growth."
+> <mark>"The world is not Westernizing; it is diversifying. And within this diversity lies the future of innovation and growth."</mark>
 
 It’s time for companies to rethink their approach: **the world is not Westernizing; it is diversifying.** And within this diversity lies the future of innovation and growth.
 

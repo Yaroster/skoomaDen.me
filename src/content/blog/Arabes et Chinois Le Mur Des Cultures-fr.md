@@ -10,7 +10,7 @@ Parmi toutes les régions du monde, l'Est reste une frontière insaisissable pou
 ## Le Nouveau Nouveau Continent
 Depuis son ascension économique fulgurante, la Chine continentale, avec ses 1,4 milliard d'habitants, a bouleversé la dynamique du commerce mondial. Cette montée en puissance a révélé un marché de consommateurs au pouvoir d'achat croissant, avides d'expériences et de produits étrangers. Cependant, cette ascension a pris de nombreuses multinationales au dépourvu. Trop souvent, elles sous-estiment l'ampleur du défi chinois. Les entreprises déjà établies ont su anticiper et se positionner, capturant des parts de marché cruciales. Mais pour les nouveaux arrivants, le marché chinois ressemble à un mur. Ces retardataires se heurtent inévitablement à un plafond, répétant les mêmes erreurs : ne pas saisir les nuances d'une culture profondément codifiée.
 
-> "Le marché chinois ressemble à un mur. Ces retardataires se heurtent inévitablement à un plafond, répétant les mêmes erreurs : ne pas saisir les nuances d'une culture profondément codifiée."
+> <mark>"Le marché chinois ressemble à un mur. Ces retardataires se heurtent inévitablement à un plafond, répétant les mêmes erreurs : ne pas saisir les nuances d'une culture profondément codifiée."</mark>
 
 ## Traduire la Chine : Design et Langue
 La traduction en Chine va bien au-delà des mots. Elle touche aux aspects culturels et technologiques souvent imperceptibles pour un œil occidental. L'écosystème numérique chinois illustre parfaitement cette différence. Tandis que certaines applications chinoises ont fait leur chemin dans notre quotidien, cela s'est souvent fait au prix d'une refonte complète de leur interface pour répondre aux standards occidentaux. En Chine, cependant, l'expérience utilisateur suit une logique qui déconcerte les étrangers, reflétant des priorités et pratiques fondamentalement différentes.
@@ -21,7 +21,7 @@ Cette dépendance aux "Everything Apps" repose sur un pilier fondamental : la co
 
 Ces spécificités se retrouvent aussi dans le design des applications. Contrairement aux normes occidentales, qui privilégient des interfaces épurées avec un espacement clair et des appels à l'action distincts, les applications chinoises adoptent une approche radicalement différente. Leurs interfaces sont denses, presque saturées d'informations. Cela est en partie dû à la nature de la langue chinoise, dont le système idéographique permet de transmettre beaucoup d'informations en peu de caractères. De plus, le chinois peut être lu dans plusieurs directions, ce qui augmente la densité visuelle.
 
-> "En Occident, le rouge est souvent associé au danger ou à l'interdiction, tandis qu'en Chine, il symbolise la prospérité et la sérénité."
+> <mark>"En Occident, le rouge est souvent associé au danger ou à l'interdiction, tandis qu'en Chine, il symbolise la prospérité et la sérénité."</mark>
 
 La palette de couleurs diffère également. En Occident, le rouge est souvent associé au danger ou à l'interdiction, tandis qu'en Chine, il symbolise la prospérité et la sérénité. Ces codes visuels, profondément ancrés dans la culture locale, peuvent dérouter les utilisateurs occidentaux, pour qui ces interfaces peuvent sembler chaotiques. Cependant, il ne s'agit pas de désordre, mais d'une organisation différente, adaptée à des attentes culturelles spécifiques.
 
@@ -42,7 +42,7 @@ Le monde arabe, avec ses 22 pays et ses centaines de millions de locuteurs, pré
 
 Ubisoft, l'éditeur de la célèbre franchise Assassin's Creed, s'est souvent inspiré du monde arabe pour ses jeux. Des titres comme Assassin's Creed et Prince of Persia plongent les joueurs dans des environnements inspirés du Moyen-Orient, avec des architectures, des cultures et des histoires riches. Cependant, malgré cette immersion culturelle, ces jeux n'ont pas été initialement traduits en arabe, limitant leur accessibilité pour les joueurs arabophones.
 
-> "Proposer des jeux inspirés du monde arabe sans les rendre disponibles dans la langue locale peut être perçu comme de l'appropriation culturelle."
+> <mark>"Proposer des jeux inspirés du monde arabe sans les rendre disponibles dans la langue locale peut être perçu comme de l'appropriation culturelle."</mark>
 
 Cette absence de localisation soulève plusieurs problèmes. L'accessibilité est restreinte pour les joueurs arabophones, même ceux qui maîtrisent d'autres langues, qui peuvent avoir du mal à saisir pleinement le récit et les nuances culturelles sans une traduction appropriée. Proposer des jeux inspirés du monde arabe sans les rendre disponibles dans la langue locale peut être perçu comme de l'appropriation culturelle, où des éléments culturels sont utilisés sans véritable engagement avec le public d'origine. Le marché du jeu vidéo arabe est en pleine expansion. Ne pas localiser ces jeux en arabe, c'est manquer une audience potentielle importante.
 
@@ -63,7 +63,7 @@ Ce qui est en jeu va bien au-delà du simple succès commercial. Il s'agit d'un 
 
 La clé du succès aujourd'hui réside dans l'humilité. **Accepter que d'autres marchés ne suivent pas les règles établies par l'Occident** signifie reconnaître que ces régions ne sont pas des terres à conquérir mais des mondes à comprendre. Tesla et Ubisoft, à travers leurs efforts récents, montrent qu'il est possible de construire des ponts. Mais ces exemples restent rares dans un paysage encore dominé par des stratégies trop centrées sur des perspectives occidentales.
 
-> "Le monde ne s'occidentalise pas ; il se diversifie. Et au sein de cette diversité réside l'avenir de l'innovation et de la croissance."
+> <mark>"Le monde ne s'occidentalise pas ; il se diversifie. Et au sein de cette diversité réside l'avenir de l'innovation et de la croissance."</mark>
 
 Il est temps pour les entreprises de repenser leur approche : **le monde ne s'occidentalise pas ; il se diversifie.** Et au sein de cette diversité réside l'avenir de l'innovation et de la croissance.
 
