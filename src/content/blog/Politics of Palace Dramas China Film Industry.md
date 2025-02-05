@@ -18,7 +18,7 @@ China, vast in population, size, and talent, adopts a protectionist approach tha
 
 Instead, China’s film industry underwent a transformation driven by state policies, economic incentives, and shifting audience preferences. The government introduced quotas on foreign films, ensuring that domestic productions dominated cinema screens. Simultaneously, subsidies and tax breaks encouraged local filmmakers to produce high-quality content. These measures not only protected the industry but also fostered innovation within the constraints of regulatory oversight.
 
-> "China’s protectionist policies created a self-sustaining ecosystem, shielding its creative industries while fostering unparalleled growth."
+> <mark>"China’s protectionist policies created a self-sustaining ecosystem, shielding its creative industries while fostering unparalleled growth."</mark>
 
 ![](image-220.png)
 
@@ -38,7 +38,7 @@ Contrary to the notion of purely repressive censorship, decency laws align with 
 
 However, these regulations are not without controversy. Some creators argue that decency laws stifle bold storytelling, forcing writers and directors to self-censor. Others point to the unintended consequences of overly restrictive measures, such as the abrupt removal of successful shows like *Story of Yanxi Palace*. Despite these challenges, the system has undeniably produced a robust and competitive industry capable of rivaling Hollywood in scale and ambition.
 
-> "Decency laws are not just tools of control but instruments of industrial strategy, shaping the future of China’s creative economy."
+> <mark>"Decency laws are not just tools of control but instruments of industrial strategy, shaping the future of China’s creative economy."</mark>
 
 ![](image-224.png)
 
@@ -60,7 +60,7 @@ While China’s focus remains firmly on its domestic market, there are signs of 
 
 However, achieving international success presents significant challenges. Cultural differences, language barriers, and geopolitical tensions often hinder China’s efforts to export its soft power. Additionally, perceptions of state control over media can alienate Western audiences accustomed to more liberal creative environments. To overcome these obstacles, China must strike a delicate balance between promoting its cultural identity and appealing to universal themes.
 
-> "China’s global ambitions are as much about cultural diplomacy as they are about economic dominance."
+> <mark>"China’s global ambitions are as much about cultural diplomacy as they are about economic dominance."</mark>
 
 ### **The Future of Chinese Entertainment**
 

@@ -18,7 +18,7 @@ La Chine, vaste par sa population, sa taille et son talent, adopte une approche 
 
 Au lieu de cela, l’industrie cinématographique chinoise a subi une transformation conduite par des politiques étatiques, des incitations économiques et l’évolution des préférences du public. Le gouvernement a mis en place des quotas pour les films étrangers, garantissant que les productions locales dominent les écrans de cinéma. Simultanément, des subventions et des réductions fiscales ont encouragé les cinéastes locaux à produire des contenus de haute qualité. Ces mesures ont non seulement protégé l’industrie, mais ont également favorisé l’innovation dans les limites du contrôle réglementaire.
 
-> "Les politiques protectionnistes de la Chine ont créé un écosystème autonome, protégeant ses industries créatives tout en favorisant une croissance sans précédent."
+> <mark>"Les politiques protectionnistes de la Chine ont créé un écosystème autonome, protégeant ses industries créatives tout en favorisant une croissance sans précédent."</mark>
 
 ![](image-220.png)
 
@@ -38,7 +38,7 @@ Contrairement à l’idée d’une censure purement répressive, les lois sur la
 
 Cependant, ces réglementations ne sont pas sans controverse. Certains créateurs affirment que les lois sur la décence étouffent les récits audacieux, forçant les scénaristes et réalisateurs à s’auto-censurer. D’autres pointent les conséquences involontaires des mesures trop restrictives, comme le retrait abrupt de séries à succès comme *L’Histoire du Palais Yanxi*. Malgré ces défis, le système a indéniablement produit une industrie robuste et compétitive capable de rivaliser avec Hollywood en termes d’échelle et d’ambition.
 
-> "Les lois sur la décence ne sont pas seulement des outils de contrôle, mais des instruments de stratégie industrielle, façonnant l’avenir de l’économie créative de la Chine."
+> <mark>"Les lois sur la décence ne sont pas seulement des outils de contrôle, mais des instruments de stratégie industrielle, façonnant l’avenir de l’économie créative de la Chine."</mark>
 
 ![](image-224.png)
 
@@ -60,7 +60,7 @@ Bien que la Chine reste fermement concentrée sur son marché intérieur, des si
 
 Cependant, réussir à l’international présente des défis considérables. Les différences culturelles, les barrières linguistiques et les tensions géopolitiques entravent souvent les efforts de la Chine pour exporter son soft power. De plus, les perceptions du contrôle étatique sur les médias peuvent aliéner les audiences occidentales, habituées à des environnements créatifs plus libéraux. Pour surmonter ces obstacles, la Chine doit trouver un équilibre délicat entre promouvoir son identité culturelle et toucher des thèmes universels.
 
-> "Les ambitions mondiales de la Chine sont autant une question de diplomatie culturelle que de domination économique."
+> <mark>"Les ambitions mondiales de la Chine sont autant une question de diplomatie culturelle que de domination économique."</mark>
 
 ### **L'Avenir du Divertissement Chinois**
 
