@@ -1,5 +1,5 @@
 ---
-title: "Les Marées Changeantes de l'Influence Culturelle en Asie de l'Est"
+title: "Les Marées de l'Influence Culturelle en Asie de l'Est"
 date: 2025-02-27
 tags: ['Multimédia', 'Français']
 description: "Comment l'Asie de l'Est se bat pour dominer la culture populaire mondiale."
