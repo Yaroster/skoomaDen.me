@@ -1,5 +1,5 @@
 ---
-title: "Politics of Palace Dramas: China's Film Industry."
+title: "Politics of Palace Dramas: China's Film Industry"
 date: 2025-01-20  
 tags: ['Multimedia']  
 description: "A deep dive into China's film industry after the retrocession."

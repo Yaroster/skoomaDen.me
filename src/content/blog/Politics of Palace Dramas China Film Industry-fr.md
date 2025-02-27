@@ -1,5 +1,5 @@
 ---
-title: "Drames de Palais: L'Industrie Ciné Chinoise."
+title: "Drames de Palais: L'Industrie Ciné Chinoise"
 date: 2025-01-20  
 tags: ['Multimédia', 'Français']
 description: "Une retrospective de l'industrie cinématographique chinoise après la rétrocession."
