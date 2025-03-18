@@ -1,289 +1,295 @@
 ---
-title: "Chongqing : La Ville-Montagne Incandescente"
+title: "Chongqing: The Incandescent Mountain City"
 date: 2025-18-03
-tags: ['Journal de Bord', 'Français']
-description: "Un voyage spontané à Chongqing, la ville-montagne cyberpunk aux hotpots brulants."
+tags: ['Logbook']
+description: "A spontaneous trip to Chongqing, the cyberpunk mountain city with fiery hotpots."
 cover: "/covers/cover_chongqing.jpg"
 ---
 
-Tout mes voyages commencent de la même manière.
-J'en apprends de plus en plus sur un lieu spécifique après être tombé dessus par hasard dans un livre ou un article quelconque, je me bats très fort pour ne pas regarder les prix des billets d'avions tout les jours avant de perdre le combat contre mon faible esprit.
+All my trips start in the same way.
+I learn more and more about a specific place after stumbling upon it by chance in a book or article, I fight very hard not to check flight prices every day before losing the battle against my weak will.
 
-Je considère primordial d'en apprendre le plus possible sur la culture du lieu visité, mes recherches préliminaires prennent des semaines, et si possible, la base de la langue ou des faits historiques doivent être comprises tout à fait avant que je puisse décoller vers la destination choisie.
+I consider it essential to learn as much as possible about the culture of the place I am visiting. My preliminary research takes weeks, and if possible, I try to fully understand the basics of the language or historical facts before I can depart for my chosen destination.
 
-Pour la première fois de ma vie cependant, j'ai été cette fois-ci contraint à ignorer mes propres principes, j'ai appris quelques jours avant ma période d'examens qu'une semaine parfaitement libre se présentait à moi après ces derniers.
+However, for the first time in my life, I was forced to ignore my own principles. I learned a few days before my exam period that a perfectly free week awaited me after it.
 
-Je n'avais pas réussi à me remettre d'avoir eu a rester chez moi pour surveiller mon chat 3 semaines ininterrompues, et me suis empressé de prendre mes valises, finir mes examens, et partir pour la ville qui m'a été suggéré de force par mon algorithme TikTok, la _Ville Montagne_ (山城): [Chóngqìng](https://fr.wikipedia.org/wiki/Chongqing).
+I hadn't quite recovered from having to stay at home to watch my cat for three uninterrupted weeks, and I quickly packed my bags, finished my exams, and set off for the city that was forcibly suggested to me by my TikTok algorithm, the _Mountain City_ (山城): [Chóngqìng](https://wikipedia.org/wiki/Chongqing).
 
-## Wuhan, puis Chongqing.
+## Wuhan, then Chongqing.
 
-![](Pasted image 20250121184231.png)
+![](Pasted%20image%2020250121184231.png)
 
-Une escale me propulse à [Wǔhàn](https://fr.wikipedia.org/wiki/Wuhan) (武汉), la capitale de la province de [Húběi](https://fr.wikipedia.org/wiki/Hubei) (湖北) -- la Province aux Milles Lacs, d'où a commencé la [Révolution de 1911](https://fr.wikipedia.org/wiki/Soulèvement_de_Wuchang) qui donnera le coup de grâce à la Dynastie Qing.
+A stopover leads me to [Wǔhàn](https://wikipedia.org/wiki/Wuhan) (武汉), the capital of the [Húběi](https://wikipedia.org/wiki/Hubei) (湖北) province, the Province of a Thousand Lakes, where the [1911 Revolution](https://en.wikipedia.org/wiki/Wuchang_Uprising) that dealt the final blow to the Qing Dynasty began.
 
-![(Pasted image 20250121184811.png)]
+![](Pasted%20image%2020250121184811.png)
 
-Malheursement, et comme mon escale au retour, je n'aurais pas le temps d'explorer cette ville passionante.
+Unfortunately, and like my return stopover, I wouldn’t have time to explore this fascinating city.
 
-![](Pasted image 20250121185006.png)
-Après avoir repris la route vers Chongqing à bord du [Comac ARJ21](https://fr.wikipedia.org/wiki/Comac_ARJ21) (aussi appellé C909), l'un des nouveaux avions Chinois que j'avais follement envie d'essayer, une heure et quarante minute me séparait de la ville sichuanaise. 
+![](Pasted%20image%2020250121185006.png)
+After resuming my journey to Chongqing aboard the [Comac ARJ21](https://wikipedia.org/wiki/Comac_ARJ21) (also known as C909), one of the new Chinese airplanes I was eager to try, it was an hour and forty minutes to the Sichuan city. 
 
-![](Pasted image 20250121185355.png)
+My arrival in Chongqing was quick, with the city just 30 minutes from the airport. I stayed in the downtown area of [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑) during this trip, more precisely in a small Muslim corner of the district, near the [Chongqing Mosque Administrative Committee](https://maps.app.goo.gl/dcncwjQhg3WisDNr9).
 
-Mon arrivée à Chongqing était expéditive, à 30min de l'Aéroport se trouve la ville, j'habite alors la zone du centre-ville [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑) durant ce voyage, plus précisement dans un petit carré musulman du quartier, près du [Comité Administratif de la Mosquée de Chongqing](https://maps.app.goo.gl/dcncwjQhg3WisDNr9).
+![](Pasted%20image%2020250121190450.png)
+The main advantage was that I could now eat Hotpot (火锅) without fear, and my God, it was so delicious. It was the first thing I did after dropping off my things at the hotel. Right at the foot of the building (surprisingly smoky), the smell of sautéed chili naturally opens the appetite, but I didn’t yet have the mental strength to go for the spicy hotpot, so I ordered without!
 
-![](Pasted image 20250121190450.png)
-L'avantage principal est que je pouvais à présent manger au [Hotpot](https://fr.wikipedia.org/wiki/Fondue_chinoise) (火锅) sans crainte, et mon Dieu qu'est-ce que c'était bon, c'est d'ailleurs la première chose que après avoir déposé mes affaires à l'Hotel. Au pied même de l'édifice (étonnamment fumeur), l'odeur de piment sauté amène naturellement l'appétit à s'ouvrir, mais je n'avais pas encore la force mentale pour prendre le hotpot pimenté, donc j'ai pris sans !
+![](Pasted%20image%2020250121194202.png)
 
-![](Pasted image 20250121194202.png)
+After this meal, full of energy, I went for a little walk to help digest it all (God knows how necessary that is after such a stomach workout).
 
-Après ce repas, plein d'énergie je me permet une petite virée pour digérer un petit peu tout ça (Dieu seul sait à quel point c'est nécessaire après un tel exercice stomatique)
+![](Pasted%20image%2020250121194748.png)
 
-![](Pasted image 20250121194748.png)
+A bit of walking showed me one of the many small corners of [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑). Fatigue hit me strongly enough that I started walking back to the hotel, but I didn’t expect to get so lost...
 
-Un peu de marche m'a montré un des nombreux petits coins de [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑). La fatigue m'a frappé assez fortement pour que je me mette à remarcher vers l'Hotel, mais je ne m'attendais pas à me perdre autant...
+![](Pasted%20image%2020250121195256.png)
 
-![](Pasted image 20250121195256.png)
+I eventually arrived at one of the many parts of the [Yúzhōng District](https://en.wikipedia.org/wiki/Yuzhong,_Chongqing) (渝中区), more specifically towards the banks of the [Jīalíng](https://en.wikipedia.org/wiki/Jialing_River) (嘉陵江), a tributary of the Yangtze River, the [Yángzǐ](https://wikipedia.org/wiki/Yangtze) (扬子江).
 
-J'ai fini par arriver vers une des nombreuses parties du [District de Yúzhōng](https://fr.wikipedia.org/wiki/District_de_Yuzhong) (渝中区), plus précisément vers la côte du [Jīalíng](https://fr.wikipedia.org/wiki/Jialing_(affluent_du_Yangzi_Jiang)) (嘉陵江), un affluant du Fleuve Bleu, le [Yángzǐ](https://fr.wikipedia.org/wiki/Yangtsé) (扬子江).
+![](Pasted%20image%2020250121195052.png)
+There, fishermen were quietly enjoying themselves, with a beautiful view of the [Shíbǎnpō](https://en.wikipedia.org/wiki/Shibanpo_Yangtze_River_Bridge) Bridge, known for... well, I think you’ll find out with a quick search. Anyway, it was magnificent! I finally had to take a taxi to get back...
 
-![](Pasted image 20250121195052.png)
-Là-bas, des pêcheurs s'amusaient silencieusement, un vue magnifique sur le pont [Shíbǎnpō](https://en.wikipedia.org/wiki/Shibanpo_Yangtze_River_Bridge), connu pour... bon je pense qu'il vous suffira de faire quelques recherches. En tout cas, c'était magnifique ! J'ai finalement eu a prendre un taxi pour rentrer chez moi...
-## Lǐzǐbà et Cíqìkǒu.
+## Lǐzǐbà and Cíqìkǒu.
 
-![](Pasted image 20250122104031.png)
-Le lendemain matin, j'ai décidé de passer par un autre côté de [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑)  afin d'atteindre le [Monument de la Libération de Chóngqìng](https://fr.wikipedia.org/wiki/Monument_de_la_libération_de_Chongqing) , j'ai trouvé un magasin super intéressant, _"Un Magasin ou même le patron ne sait pas ce que l'on y vends."_ 
-![](Pasted image 20250122104926.png)
-J'ai probablement un peu abusé dans le magasin, je suis sorti avec 150元 (~20$) de bibelots en tout genre. Avant de me déplacer vers la place du monument, je me suis retrouvé dans un des (très) nombreux centre commerciaux de la ville, où l'un des (encore une fois) très nombreux Apple Store se trouvait.
-![](Pasted image 20250122111342.png)
-Le [Monument de la Libération de Chóngqìng](https://fr.wikipedia.org/wiki/Monument_de_la_libération_de_Chongqing) se trouvait à l'une des sorties du centre commercial, l'endroit était bondé de monde, c'est l'un des symboles les plus forts de la ville, érigé suite à l'[Anti-Guerre Japonaise](https://fr.wikipedia.org/wiki/Bombardement_de_Chongqing) menée par la Résistance de Chongqing. 
-![](Pasted image 20250122112121.png)
-Après tout ça je suis parti à la station de [Lǐzǐbà](https://fr.wikipedia.org/wiki/Liziba_(métro_de_Chongqing)) (李子坝), à quelques minutes de la place en métro, pour voir un monorail s'encastrer dans un bâtiment ! C'était vraiment impressionant à voir, cela devait aussi être l'une des seules fois ou j'ai vu autant de touristes dans un même endroit. Durant tout mon voyage, je n'en ai vu que deux autres que moi en dehors de ce cas spécifique, ce qui peut probablement s'expliquer par le fait que je sois parti en hiver.
-![](Pasted image 20250122112915.png)
-À cet instant, je pense m'être rendu compte de mon manque de planing total, j'étais parti dans cette ville sans m'être approprié ses repères, et je suis vraiment tombé par hasard sur cette station. Ce fut d'ailleurs, de manière plutôt amusante, le cas de beaucoup d'endroits que j'ai ainsi visité par tout hasard.
-![](Pasted image 20250127133923.png)
-Je me suis ainsi retrouvé au _Port de Porcelaine_, [Cíqìkǒu](https://en.wikipedia.org/wiki/Ciqikou,_Chongqing), par tout hasard. Aussi appellé _Petit Chongqing_ ou _Village Lóngyǐn_, cette impressionant amalgamat d'architecture traditionnelle a été construit sous l'[Empereur Zhēnzōng](https://fr.wikipedia.org/wiki/Song_Zhenzong) de la [Dynastie Sòng](https://fr.wikipedia.org/wiki/Dynastie_Song), avant qu'il ne devienne un port commercial majeur sous la [Dynastie Míng](https://fr.wikipedia.org/wiki/Dynastie_Ming).
-![](Pasted image 20250127134333.png)
-L'endroit était fascinant, il abrite par ailleurs un mémorial du [Bombardement de Chongqing](https://fr.wikipedia.org/wiki/Bombardement_de_Chongqing), la ville garde des traces permanentes de cet évènement, étant l'une des villes ayant le plus subis les conséquences de l'agression Japonaise.
+![](Pasted%20image%2020250122104031.png)
+The next morning, I decided to take another route through [Jiěfàngbēi](https://en.wikipedia.org/wiki/Jiefangbei_CBD)(解放碑) to reach the [Chongqing Liberation Monument](https://en.wikipedia.org/wiki/Liberation_Monument_in_Chongqing), where I found a really interesting shop, _"A shop where even the owner doesn’t know what’s being sold."_
+![](Pasted%20image%2020250122104926.png)
+I probably went a bit overboard in the shop, leaving with 150元 (~$20) worth of trinkets. Before heading to the monument square, I found myself in one of the (many) shopping malls of the city, where one of the (again) many Apple Stores was located.
+![](Pasted%20image%2020250122111342.png)
+The [Chongqing Liberation Monument](https://en.wikipedia.org/wiki/Liberation_Monument_in_Chongqing) stood at one of the mall exits, and the place was packed with people. It’s one of the strongest symbols of the city, erected after the [Anti-Japanese War](https://en.wikipedia.org/wiki/Bombing_of_Chongqing) fought by Chongqing's Resistance.
+![](Pasted%20image%2020250122112121.png)
+After all this, I went to the [Lǐzǐbà](https://wikipedia.org/wiki/Liziba) (李子坝) metro station, just minutes from the square, to see a monorail running through a building! It was really impressive to watch, and it was also one of the few times I saw so many tourists in one place. Throughout my trip, I saw only two others besides myself, which is probably due to the fact I traveled in winter.
+![](Pasted%20image%2020250122112915.png)
+At that moment, I realized my total lack of planning. I had gone to this city without familiarizing myself with its landmarks, and I had truly stumbled upon this station by chance. It turned out, amusingly, that this was the case for many of the places I visited randomly.
+![](Pasted%20image%2020250127133923.png)
+I found myself at the _Porcelain Port_, [Cíqìkǒu](https://en.wikipedia.org/wiki/Ciqikou,_Chongqing), by sheer luck. Also called _Little Chongqing_ or _Lóngyǐn Village_, this impressive blend of traditional architecture was built under the [Emperor Zhēnzōng](https://wikipedia.org/wiki/Song_Zhenzong) of the [Song Dynasty](https://wikipedia.org/wiki/Song_Dynasty), before becoming a major commercial port under the [Ming Dynasty](https://wikipedia.org/wiki/Ming_Dynasty).
+![](Pasted%20image%2020250127134333.png)
+The place was fascinating, and it also hosts a memorial to the [Bombing of Chongqing](ttps://en.wikipedia.org/wiki/Bombing_of_Chongqing), as the city bears permanent traces of this event, being one of the cities most affected by Japanese aggression.
 
-## Shibati et Raffles City
+## Shibati and Raffles City
 
-À quelques pas seulement de mon hotel se trouve Shibati (十八梯), littéralement "18 pas", 300m de marches consécutives qui cascadent vers un large plateau de magasins traditionnels.
+Only a few steps from my hotel was Shibati (十八梯), literally "18 steps", a 300m cascade of consecutive stairs leading to a large plateau of traditional shops.
 
-![](Pasted image 20250224095646.png)
+![](Pasted%20image%2020250224095646.png)
 
-La beauté de Shibati réside non seulement dans cet amalgame de toits se chevauchants, mais aussi dans la masse constante de personnes empruntant ses marches, de nuit comme de jour.
+The beauty of Shibati lies not only in the overlapping roofs but also in the constant flow of people climbing its stairs, day and night.
 
-![](Pasted image 20250224100249.png)
+![](Pasted%20image%2020250224100249.png)
 
-Le large plateau se présente à moi soudainement, en me perdant plus profondément je me retrouve face à un taxi, et une envie pressante de trouver une librairie pour acheter des livres en chinois.
+The large plateau suddenly presented itself to me, and as I wandered deeper, I found myself in front of a taxi, with a strong desire to find a bookstore to buy books in Chinese.
 
-![](Pasted image 20250224100519.png)
+![](Pasted%20image%2020250224100519.png)
 
-Le taxi m'emmène jusqu'a ce centre commercial en rénovation, une librairie était censée s'y trouver mais même avec l'aide agréable de jeunes se trouvant à côté, nous avions compris que l'établissement était désormais fermé.
+The taxi took me to a shopping center under renovation, where a bookstore was supposed to be, but even with the help of some friendly locals, we realized the place had been closed.
 
-![](Pasted image 20250224101007.png)
+![](Pasted%20image%2020250224101007.png)
 
-Un trajet de metro plus tard, je commence à me souvenir de ce qu'un ami ayant déjà visité la ville auparavant m'avait dit. Je connaissais bien [Marina Bay Sands](https://en.wikipedia.org/wiki/Marina_Bay_Sands), à Singapour, mon ami y avait par ailleurs déjà vécu. Il m'a dit que Chongqing avait un centre commercial de [Raffles City](https://www.capitaland.com/sg/malls/rafflescity/en.html), une chaine de malls Singapouréene, qui ressemblait à deux gouttes d'eau à Marina Bay Sands.
+A metro ride later, I begin to remember what a friend who had visited the city before told me. I was familiar with [Marina Bay Sands](https://en.wikipedia.org/wiki/Marina_Bay_Sands) in Singapore, where my friend had also lived. He told me that Chongqing had a [Raffles City](https://www.capitaland.com/sg/malls/rafflescity/en.html) shopping center, a Singaporean mall chain, that looked almost identical to Marina Bay Sands.
 
-![](Pasted image 20250224103049.png)
+![](Pasted%20image%2020250224103049.png)
 
-Ce complexe énorme est l'un des centres commerciaux les plus impressionants de la ville. Après avoir pas mal marché, je décide de rentrer en passant par Shibati une seconde fois pour la voir de nuit !
+This huge complex is one of the most impressive shopping centers in the city. After quite a bit of walking, I decide to head back, passing through Shibati once again to see it at night!
 
-![](Pasted image 20250224103859.png)
+![](Pasted%20image%2020250224103859.png)
 
-C'est la nuit qu'on voit vraiment Chongqing sous sa plus belle lumière. L'aube allait se lever lorsque j'ai enfin rejoins la rue aux 18 pas, j'ai emprunté un chemin différent à ma deuxième cette fois-ci, et après le plateau j'ai retrouvé une autre rue marchande avoisinante.
+It’s at night that you truly see Chongqing in its best light. Dawn was breaking when I finally reached the street with the 18 steps, having taken a different path this time. After the plateau, I found another nearby shopping street.
 
-![](Pasted image 20250224104635.png)
+![](Pasted%20image%2020250224104635.png)
 
 
-## Magasins d'Anime et Jiangbei
+## Anime Stores and Jiangbei
 
-Une tradition à laquelle je ne manque jamais lorsque je vais en Chine est d'aller jouer aux gachas et de voir les confrères weebs s'amuser à Cosplayer !
+A tradition I never miss when I go to China is to play gachas and watch fellow weebs have fun cosplaying!
 
-![](Pasted image 20250224110437.png)
+![](Pasted%20image%2020250224110437.png)
 
-Donc direction le district de Jiangbei 江北区, ou un large sous-terrain où des fans d'anime en tout genre se rejoignent. Sans vous mentir, je suis revenu ici plusieurs fois durant mon voyage à Chongqing, j'ai été comme... happé par l'endroit.
+So, off I go to the Jiangbei District 江北区, where a vast underground space is where anime fans of all kinds gather. Honestly, I came back here several times during my trip to Chongqing; I was like... drawn to the place.
 
-![](Pasted image 20250224111705.png)
+![](Pasted%20image%2020250224111705.png)
 
-Bien sûr, ce genre d'endroits existent à Pékin et probablement dans la vaste majorité des grandes villes chinoises, mais l'échelle à Chongqing est plutôt impressionante. Comme tout dans cette ville, tout semble énorme.
+Of course, such places exist in Beijing and probably in most major Chinese cities, but the scale in Chongqing is pretty impressive. Like everything in this city, everything seems huge.
 
-![](Pasted image 20250224112425.png)
+![](Pasted%20image%2020250224112425.png)
 
-J'avoue avoir dépensé beaucoup trop d'argent dans les nombreux gatchas, j'ai été choqué par les franchises qui semblaient dans les cœurs des Chinois: Suzumiya Haruhi, Detective Conan, Evangelion, Nichijou. Ce ne sont pas nécessairement des franchises de niche du tout, mais ce ne sont pas celles qu'on retrouve en occident, comme les shonens mainstream ultra populaire avec des animations rapides. C'est ce qu'on appelle des gouts basés.
+I admit I spent way too much money on the numerous gachas; I was shocked by the franchises that seemed to be close to the hearts of the Chinese: Suzumiya Haruhi, Detective Conan, Evangelion, Nichijou. They aren’t necessarily niche franchises at all, but they aren’t the ones you find in the West, like the ultra-popular mainstream shonens with fast-paced animations. This is what we call based tastes.
 
-À la sortie, une belle vue de gratte-ciels m'attendait. Il était maintenant temps de renter.
+At the exit, a beautiful view of skyscrapers awaited me. It was now time to head back.
 
-![](Pasted image 20250224111927.png)
+![](Pasted%20image%2020250224111927.png)
 
-En reprendant la route du Mémorial,
+Heading back toward the Memorial,
 
-![](Pasted image 20250224112618.png)
+![](Pasted%20image%2020250224112618.png)
 
-Je tombe nez-à-nez avec un des endroits emblématiques de Chongqing: Hongya Cave.
+I came face to face with one of Chongqing’s iconic spots: Hongya Cave.
 
-![](Pasted image 20250224114349.png)
+![](Pasted%20image%2020250224114349.png)
 
-Habituellement, si on y va assez tôt, de nombreuses lumières rouges illuminent la vallée, mais j'y suis allé bien trop tard. Ça ne me dérange honnêtement pas tant que ça, j'aime marcher à Chongqing la nuit lorsque les lumières commencent à s'éteindre, je trouve ça bien plus beau.
+Usually, if you get there early enough, many red lights illuminate the valley, but I went way too late. Honestly, it didn’t bother me too much, I love walking in Chongqing at night when the lights start to turn off; I find it much more beautiful.
 
-![](Pasted image 20250224114259.png)
+![](Pasted%20image%2020250224114259.png)
 
-## Chongqing1949 et Hôpital
+## Chongqing1949 and the Hospital
 
-À Hongyuan, à 30min du centre-ville, se trouve un musical dans un auditorium rotatif à 360 degrés, il reprends l'histoire de la Chine d'après-guerre, en 1949. Cet auditorium à été construit sur mesure uniquement pour permettre à ce show d'exister. Depuis 2021, il n'a eu que d'éloges, et près de 1500 personnes se retrouvent tout les jours pour y assister.
+In Hongyuan, 30 minutes from downtown, there is a musical in a 360-degree rotating auditorium that reenacts post-war China in 1949. This auditorium was custom-built just to make this show possible. Since 2021, it has received nothing but praise, with nearly 1500 people attending every day.
 
-[![Chongqing 1949: A must-see performance at Hongyan in Chongqing, with  360-degree rotating auditorium, recreating Chongqing 70 years ago - Klook](https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1500,h_1000/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yqlaeqwdsfi1z6kyh8mv/Chongqing1949:Amust-seeperformanceatHongyaninChongqing,with360-degreerotatingauditorium,recreatingChongqing70yearsago-Klook.jpg)
+[![Chongqing 1949: A must-see performance at Hongyan in Chongqing, with 360-degree rotating auditorium, recreating Chongqing 70 years ago - Klook](https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1500,h_1000/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yqlaeqwdsfi1z6kyh8mv/Chongqing1949:Amust-seeperformanceatHongyaninChongqing,with360-degreerotatingauditorium,recreatingChongqing70yearsago-Klook.jpg)
 
-Je me lève donc avec ce spectacle en tête, je sais exactement où aller, et c'est juste à côté de Ciqikou.
-![](Pasted image 20250224120644.png)
+So I wake up with this show in mind, knowing exactly where to go, and it's right next to Ciqikou.
+![](Pasted%20image%2020250224120644.png)
 
-Je me dirige vers le Grand Théatre de Chongqing (Malheuresement, j'ai oublié d'en prendre une photo !) 
+I head toward the Chongqing Grand Theatre (Unfortunately, I forgot to take a photo of it!)
 
-![](Pasted image 20250224121059.png)
+![](Pasted%20image%2020250224121059.png)
 
-Si j'avais le droit de filmer, croyez-moi je l'aurais fait. C'était une vraie claque, je pense simplement ne jamais avoir vécu quelque chose comme ça avant. Mes faibles petits HSKs (Examens de Chinois Standards) n'étaient clairement pas au niveau, donc j'ai regardé avec un traducteur automatique sur mon téléphone.
+If I had permission to film, believe me, I would have. It was a real shock; I don’t think I’ve ever experienced anything like it before. My weak little HSKs (Chinese Proficiency Exams) were definitely not up to the task, so I watched with an automatic translator on my phone.
 
-![](Pasted image 20250224121656.png)
+![](Pasted%20image%2020250224121656.png)
 
-Après un nouveau petit tour à Ciqikou, direction le district de Yuzhong, là ou j'ai séjourné, pour une vue folle qui met en perspective le relief contrasté de Chongqing. J'avance après le Mémorial encore une fois.
+After a little detour through Ciqikou, I head toward the Yuzhong District, where I stayed, for a crazy view that puts into perspective the contrasting relief of Chongqing. I walk past the Memorial again.
 
-![](Pasted image 20250224122230.png)
+![](Pasted%20image%2020250224122230.png)
 
-Et au dessus d'un Hopital Public de Chongqing -- très litéralement sur son toit -- se trouve la vue folle.
+And on top of a public hospital in Chongqing -- quite literally on its roof -- is the incredible view.
 
-![](Pasted image 20250224122506.png)
+![](Pasted%20image%2020250224122506.png)
 
-Comme on dit, un gif vaut mieux que mille mots.
-
-![](IMG_4179.gif)
-
-Je me suis beaucoup baladé à partir de là, j'avoue que je ne me suis pas laissé dormir.
-Je ne saurais pas dire pourquoi, je pense que je ne me sentais pas particulièrement bien, alors une marche allais me réveiller !
-
-![](Pasted image 20250318032537.png)
-
-Honnêtement, je ne pense pas qu'il y'a plus belle ville de nuit, ou meilleure ville ou marcher. Les reliefs sont énormes, mais jamais désagréables, cette sorte de cascade incessante de bâtiments, les lumières bleuâtres qui se fondent en rouge une fois les quartiers historiques entamés -- Magique.
-
-## Téléphones et Imix Park
-
-![](IMG_4209.jpg)
-
-Nouvelle journée, nouvel objectif.
-Une autre tradition ancestrale à laquelle je me cantonne (sans mauvais jeu de mot) à chaque voyage en Chine, l'éternel chasse aux téléphones !
-
-J'en parlais beaucoup dans mon article _[Pékin: 10 Jours d'Histoires et de Thé](https://skoomaden.me/fr/posts/beijing-logbook)_ lorsque je suis allé à _Zhōngguāncūn_ (中关村), la technopôle pékinoise. 
-
-Ici rien de bien spécial, des emplettes ici et là, j'ai surtout dégotté beaucoup d'équipement de diagnostique et de réparation !
-
-![](Pasted image 20250318034055.png)
-
-Juste à coté de la où se trouvait les magasins d'anime se trouve un enchaînement de centre commerciaux énormes, pendant le reste de la journée, j'ai essayé d'arriver à bout de seul _un_ d'entre eux.
-
-Après mon arrivée en bus, il était l'heure pour encore plus d'emplettes !
-Voici une vidéo de l'endroit !
-
-<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
-    <iframe 
-        src="https://photos.app.goo.gl/mBrEZT4oDaKtLYdUA" 
-        frameborder="0" 
-        allowfullscreen 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
-    </iframe>
-</div>
-
-Après avoir beaucoup marché, et mangé des trucs de chez moi (cc DXB) ! Je suis allé me prendre un thé glacé et acheté du merch Pingu ! (noot noot)
-
-![](Pasted image 20250318034907.png)
-
-Le thé était franchement exceptionnel mais bcp trop cher, je préfère largement ce que fait _Mìxuě_ !
-
-![](Pasted image 20250318034808.png)
-
-## Húguǎng Huìguǎn
-
-![](Pasted image 20250318035227.png)
-
-Bon, il est l'heure de parler un peu histoire, et cette fois-ci va falloir tenir un peu bon.
-
-J'ai souhaité laisser le meilleur pour la fin, était amoureux d'histoire, je me suis trouvé nez-à-nez avec ce que je considère l'un des endroits les plus passionants de Chonqing pour ce dernier jour.
-
-La Maison de la Guilde Hugang, ou Húguǎng Huìguǎn (湖广会馆), est un bâtiment histoirique de Chongqing errigé en 1759 aux débuts de la Dynastie Qing, donc pile poil sous le reigne du très célèbre Empreur Qianlong.
-
-Entre catastrophes naturelles et épidemies, la région du Sichuan a perdu une partie non-négligable de sa population -- Alors le gouvernement a decidé d'encourager très fortement l'immigration de populations vers la région. Le Yangtsé (Fleuve Bleu) étant la principale voie d’accès, Chongqing est devenue le point d’entrée majeur, avec une population atteignant 2,3 millions d’habitants en 1812, dont 85 % étaient des migrants, participant à l'essort pluriculturel de la ville.
-
-Tout le complexe de la Guilde Hugang reflète donc cette histoire, dans une cour quadrangulaire les nouveaux arrivants se retrouvaient dans la ville.
-
-![](Pasted image 20250318040950.png)
-
-Tout d'abord, on trouve une statue de Da Yu (大禹). Une figure légendaire de l’histoire chinoise. Il est célèbre pour avoir fondé la Dynastie Xia (夏朝), la première dynastie de Chine selon la tradition, et surtout pour son rôle dans le contrôle des inondations -- Il s'agit du Temple du Roi Yu, _Yǔ Wáng Gōng_ (禹王宮).
-
-![](Pasted image 20250318041335.png)
-
-Après un peu de marche, on retrouve également une magnifique bibliothèque (enfin, j'imagine, je n'ai pas réussi à trouver plus d'informations dessus mais le texte dit 藏書閣/藏书阁 et je ne reconnais pas le premier charactère).
-
-![](Pasted image 20250318042015.png)
-
-Près d'elle se trouve une cour adjacente, qui s'accroche à une grande muraille en jaune impérial.
-
-![](Pasted image 20250318042051.png)
-
-L'autre côté de la cour révelle une énorme porte, sur laquelle est écrit 广东公所 en traditionnel, _Guǎngdōng Gōngsuǒ_, un lieu nommé après la province du Guangdong.
-
-![](Pasted image 20250318042149.png)
-
-À l'Interieur, une stelle en pierre nous explique un peu plus son histoire.
-
-![](Pasted image 20250318042656.png)
-
-"Le Bureau du Guangdong (广东公所), également connu sous le nom de Palais Nanhua (南华宫) ou Guilde du Guangdong (广东会馆), était une organisation sociale fondée par les habitants originaires du Guangdong résidant à Chongqing. Il s’agissait d’une association populaire dédiée aux œuvres de bienfaisance pour les compatriotes de la même province. Situé à proximité du Huguang Huiguan et du Bureau de Qi’an, il fut construit entre la 25ᵉ année (1760) et la 51ᵉ année (1786) du règne de l’empereur Qianlong, avant d’être rénové à plusieurs reprises.
-
-La structure principale actuelle adopte une disposition en cour quadrangulaire (siheyuan), entourée de hautes murailles. Le complexe mesure 30,5 mètres de long du nord au sud et 25 mètres de large d’est en ouest. À l’exception de la cour intérieure, la superficie bâtie actuelle est de 711 mètres carrés.
-
-Le bâtiment principal de la cour est un théâtre, construit en bois et dans le style à toit en croupe (xiēshān, 歇山). La scène mesure 9 mètres de large, 8,4 mètres de profondeur et 2,8 mètres de hauteur. Elle est accompagnée de salles de spectateurs avant et arrière, ainsi que d’ailes latérales sur les deux côtés.
-
-Les salles de spectateurs sont divisées en deux parties, l’une devant et l’autre derrière. Elles mesurent 9 mètres de profondeur, 12 mètres de largeur, et s’élèvent à plus de 10 mètres de hauteur, pouvant accueillir 300 spectateurs.
-
-À l’intérieur de la cour, les sculptures en pierre et en bois représentant des personnages et des divinités sont d’une grande finesse et vivacité, témoignant du talent exceptionnel des artisans de la dynastie Qing.
-
-Le Bureau du Guangdong était dédié au culte du sixième patriarche du bouddhisme Chan, Huineng (慧能, 638-713). À l’époque Qing, son grand hall principal abritait une statue de Huineng, flanquée à gauche et à droite de celles du Prince Zhenjiang et du Dieu de la richesse et de la prospérité.
-
-Après la libération (1949), le grand hall fut démoli. Huineng, originaire de Xinxing, Nanhai (actuel Guangdong), repose encore aujourd’hui au temple Nanhua (曹溪南华寺) dans cette province. C’est pourquoi la Guilde du Guangdong était aussi appelée Palais Nanhua (南华宫).
-
-Sur l’architrave au-dessus de la porte principale du Bureau du Guangdong, on peut lire l’inscription “Vue sur les monts Nanling” (南岭观瞻), affirmant ainsi son identité cantonaises et son lien avec la province du Guangdong."
-
-![](Pasted image 20250318043216.png)
-
-Avant de sortir de l'édifice, plusieurs scénettes étaient construites devant nos yeux pour reproduire la vide de tout les jours des immigrés !
-
-![](Pasted image 20250318043324.png)
-
-Avant de sortir, je passe un dernier bonjour à une très belle œuvre représentant une chanteuse d'opéra chinois, puis je file !
-
-![](Pasted image 20250318043517.png)
-
-Je prends un grand pont pour rejoindre le centre-ville à la marche, et je m'empresse car j'essaie d'arriver à temps pour un spectacle d'opéra sichuanais, l'un de mes opéras préféré de Chine !
-
-![](Pasted image 20250318043806.png)
-
-Lorsque j'y suis enfin arrivé, j'ai eu l'occasion de voir ce à quel point le spectacle était impressionant ! Excusez-moi pour mes cris, j'étais vraiment impressionné ! 
+As they say, a video is worth a thousand words.
 
 <div style="position: relative; padding-top: 177.78%; height: 0; overflow: hidden;">
     <iframe 
-        src="https://photos.app.goo.gl/pK8gyMmho1PnL5yu8"
+        src="https://drive.google.com/file/d/1fW9I28D32eUM3TpIa22Zzc3dqoKnyaN_/preview" 
         frameborder="0" 
-        allowfullscreen 
+        allow="autoplay" 
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
     </iframe>
 </div>
 
-Et juste après ce spectacle, il était enfin temps pour moi de rentrer chez moi !
-## Retour et derniers mots !
+I walked a lot from here; I admit I didn’t let myself sleep.
+I wouldn’t be able to say why, I think I didn’t feel particularly well, so a walk was going to wake me up!
 
-Cette aventure à Chongqing aura été une parenthèse inattendue, une rupture avec mes habitudes de voyageur méthodique. Pour la première fois, j’ai cédé à l’impulsion plutôt qu’à la préparation, et c’est peut-être ce qui a rendu cette expérience si unique, même si j'ai fini par ne pas voir des endroits très importants dans la ville !
+![](Pasted%20image%2020250318032537.png)
 
-Chaque pas dans Jiěfàngbēi, Shibati, ou Cíqìkǒu m’a rappelé que Chongqing est un récit vivant où l’histoire des migrations Qing, des résistances antijaponaises, et des innovations contemporaines se côtoient. Entre le spectacle _Chongqing1949_ avec son auditorium rotatif et l’opéra du Sichuan et ses masques colorés, c'est une Chine moderne et fière de son passé que j'ai vu ! Et pourtant, c’est dans les moments les plus simples—un hotpot sans piment, une nuit perdue au bord du Jialing, ou un thé glacé après une virée honteusement weeb—que la ville m’a semblé la plus authentique.
+Honestly, I don’t think there’s a more beautiful city at night, or a better city to walk in. The reliefs are huge, but never uncomfortable, this sort of endless cascade of buildings, the bluish lights that turn into red once the historical districts are reached -- Magical.
 
-Si je devais retenir une chose de Chongqing, ce serait ceci : parfois, se perdre sans plan, c’est laisser la ville _elle-même_ devenir votre guide. J'ai adoré combien chongqing m'a fait marcher, certes, guidé par ses lumières scintillantes accrochées aux collines et ses ponts qui défient le Yangtsé.
+## Phones and Imix Park
+
+![](IMG_4209.jpg)
+
+New day, new goal.
+Another age-old tradition I stick to (no pun intended) during every trip to China: the eternal phone hunt!
+
+I talked a lot about it in my article _[Beijing: 10 Days of Stories and Tea](https://skoomaden.me/en/posts/beijing-logbook)_ when I went to _Zhōngguāncūn_ (中关村), Beijing’s tech hub.
+
+Here, nothing special, shopping here and there, I mostly found lots of diagnostic and repair equipment!
+
+![](Pasted%20image%2020250318034055.png)
+
+Just next to where the anime stores were, there’s a chain of huge shopping malls. For the rest of the day, I tried to make my way through just one of them.
+
+After arriving by bus, it was time for even more shopping!
+Here’s a video of the place!
+
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://drive.google.com/file/d/1lBPyLO5pB6ikG1ozrVIGszbJBQyZqhoC/preview" 
+        frameborder="0" 
+        allow="autoplay" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+    </iframe>
+</div>
+
+After a lot of walking, and eating things from my hometown (cc DXB)! I went for an iced tea and bought some Pingu merch! (noot noot)
+
+![](Pasted%20image%2020250318034907.png)
+
+The tea was honestly exceptional but way too expensive, I much prefer what _Mìxuě_ makes!
+
+![](Pasted%20image%2020250318034808.png)
+
+## Húguǎng Huìguǎn
+
+![](Pasted%20image%2020250318035227.png)
+
+Well, it’s time to talk a bit of history, and this time we’ll need to hold on.
+
+I wanted to save the best for last. Being in love with history, I found myself face to face with what I consider one of the most fascinating places in Chongqing on this last day.
+
+The Huguang Guildhouse, or Húguǎng Huìguǎn (湖广会馆), is a historic building in Chongqing erected in 1759 at the beginning of the Qing Dynasty, right under the reign of the famous Emperor Qianlong.
+
+Between natural disasters and epidemics, the Sichuan region lost a significant part of its population -- So the government strongly encouraged immigration to the region. The Yangtze (Blue River) being the main access route, Chongqing became the major entry point, with a population reaching 2.3 million in 1812, 85% of which were migrants, contributing to the multicultural growth of the city.
+
+The entire complex of the Huguang Guildhouse reflects this history, in a quadrangular courtyard where newcomers gathered upon arriving in the city.
+
+![](Pasted%20image%2020250318040950.png)
+
+First of all, we find a statue of Da Yu (大禹), a legendary figure in Chinese history. He is famous for founding the Xia Dynasty (夏朝), the first dynasty in China according to tradition, and especially for his role in flood control -- This is the Temple of King Yu, _Yǔ Wáng Gōng_ (禹王宮).
+
+![](Pasted%20image%2020250318041335.png)
+
+After a little walking, we also come across a magnificent library (well, I imagine so, I couldn’t find more information on it, but the text says 藏書閣/藏书阁, and I don't recognize the first character).
+
+![](Pasted%20image%2020250318042015.png)
+
+Nearby, there is an adjacent courtyard, which clings to a large imperial yellow wall.
+
+![](Pasted%20image%2020250318042051.png)
+
+On the other side of the courtyard, we see a massive door, on which is written 广东公所 in traditional characters, _Guǎngdōng Gōngsuǒ_, a place named after the Guangdong province.
+
+![](Pasted%20image%2020250318042149.png)
+
+Inside, a stone stele explains a little more about its history.
+
+![](Pasted%20image%2020250318042656.png)
+
+"The Guangdong Office (广东公所), also known as Nanhua Palace (南华宫) or the Guangdong Guild (广东会馆), was a social organization founded by natives of Guangdong who resided in Chongqing. It was a popular association dedicated to charitable works for people from the same province. Located near the Huguang Huiguan and the Qi’an Office, it was built between the 25th year (1760) and the 51st year (1786) of the reign of Emperor Qianlong, and was renovated several times.
+
+The current main structure follows a quadrangular courtyard layout (siheyuan), surrounded by high walls. The complex measures 30.5 meters in length from north to south and 25 meters in width from east to west. Except for the inner courtyard, the current built-up area is 711 square meters.
+
+The main building of the courtyard is a theater, constructed in wood and with a hipped roof style (xiēshān, 歇山). The stage is 9 meters wide, 8.4 meters deep, and 2.8 meters high. It is accompanied by spectator rooms in the front and back, as well as wings on both sides.
+
+The spectator rooms are divided into two parts, one in front and one in the back. They are 9 meters deep, 12 meters wide, and rise more than 10 meters high, accommodating up to 300 spectators.
+
+Inside the courtyard, the stone and wooden sculptures depicting characters and deities are exquisitely crafted, showing the exceptional skill of artisans from the Qing Dynasty.
+
+The Guangdong Office was dedicated to the worship of the sixth patriarch of Chan Buddhism, Huineng (慧能, 638-713). During the Qing Dynasty, its main hall housed a statue of Huineng, flanked on the left and right by statues of Prince Zhenjiang and the God of Wealth and Prosperity.
+
+After the liberation (1949), the main hall was demolished. Huineng, originally from Xinxing, Nanhai (now Guangdong), still rests today at the Nanhua Temple (曹溪南华寺) in this province. This is why the Guangdong Guild was also called Nanhua Palace (南华宫).
+
+On the architrave above the main door of the Guangdong Office, the inscription 'View of the Nanling Mountains' (南岭观瞻) can be read, affirming its Cantonese identity and connection to Guangdong Province."
+
+![](Pasted%20image%2020250318043216.png)
+
+Before leaving the building, several small scenes were set up before our eyes to recreate the everyday life of immigrants!
+
+![](Pasted%20image%2020250318043324.png)
+
+Before I leave, I say one last hello to a beautiful artwork depicting a Chinese opera singer, then I’m off!
+
+![](Pasted%20image%2020250318043517.png)
+
+I take a big bridge to walk back to downtown, rushing because I’m trying to get to a Sichuan opera show, one of my favorite operas in China!
+
+![](Pasted%20image%2020250318043806.png)
+
+When I finally arrive, I had the chance to see just how impressive the show was! Excuse my shouting, I was really blown away!
+
+<div style="position: relative; padding-top: 177.78%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://drive.google.com/file/d/1j7j6Inpa9JC0RP8kxy4F0AdX4AiDgMZc/preview" 
+        frameborder="0" 
+        allow="autoplay" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+    </iframe>
+</div>
+
+And just after this show, it was finally time for me to head home!
+## Return and Final Thoughts!
+
+This adventure in Chongqing was an unexpected interlude, a break from my usual methodical travel habits. For the first time, I gave in to impulse rather than preparation, and perhaps that’s what made this experience so unique, even though I ended up missing some important spots in the city!
+
+Every step in Jiěfàngbēi, Shibati, or Cíqìkǒu reminded me that Chongqing is a living narrative where the history of Qing migrations, anti-Japanese resistance, and contemporary innovations coexist. Between the _Chongqing1949_ performance with its rotating auditorium and Sichuan opera with its colorful masks, I saw a modern China proud of its past! Yet, it was in the simplest moments—a hotpot without chili, a lost night by the Jialing, or an iced tea after an embarrassingly weebish detour—that the city felt most authentic.
+
+If I had to take one thing away from Chongqing, it would be this: sometimes, getting lost without a plan means letting the city itself become your guide. I loved how Chongqing made me walk, certainly, guided by its sparkling lights on the hills and its bridges defying the Yangtze.
 
 <mark>- yaro</mark>
