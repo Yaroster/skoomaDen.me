@@ -1,6 +1,6 @@
 ---
 title: "Chongqing: The Incandescent Mountain City"
-date: 2025-18-03
+date: 2025-03-18
 tags: ['Logbook']
 description: "A spontaneous trip to Chongqing, the cyberpunk mountain city with fiery hotpots."
 cover: "/covers/cover_chongqing.jpg"
