@@ -2,7 +2,7 @@
 title: "The Shifting Tides of East Asian Cultural Influence."
 date: 2025-02-27
 tags: ['Multimedia']
-description: "How East Asia is fighting for global dominance over Pop Culture."
+description: "How China is fighting for global dominance over Pop Culture."
 cover: "/covers/cover-shifting.png"
 ---
 
