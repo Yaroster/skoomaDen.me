@@ -6,7 +6,7 @@ description: "How China is fighting for global dominance over Pop Culture."
 cover: "/covers/cover-shifting.png"
 ---
 
-For decades, Japan’s cultural exports—bolstered by the "[Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)" initiative and its post-war industrial revolution—have dominated global perceptions of East Asian soft power. However, as Japan's cultural monopoly seems to loosen, this era may be drawing to a close. Compounding the issue is Japan’s intense demographic crisis: a low birthrate, aging population, and a divided social structure inherited from post-war Western influences have placed immense strain on its cultural industries.
+For decades, Japan’s cultural exports—bolstered by the "[Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)" initiative and its post-war industrial revolution—have dominated global perceptions of East Asian soft power. However, as Japan's cultural monopoly seems to loosen, this era may be drawing to a close. Compounding the issue is Japan’s intense demographic crisis: a low birthrate, aging population, and a divided social structure inherited from post-war Western influences have placed immense strain on its cultural industries. We will focus today on the rise of China and South Korea, and how they are vying to reclaim dominance over the global entertainment market.
 
 ![Japan's Population Declines Again: Seniors 75 and Over Top 20 Million for  First Time | Nippon.com](https://www.nippon.com/en/ncommon/contents/japan-data/2580708/2580708.png)
 Source: [Nippon.com](https://www.nippon.com)  
