@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Resurgence of FMVs"
 date: 2025-03-21
-tags: ['Multimedia', 'French']
+tags: ['Multimedia']
 description: "An exploration of the new wave of FMVs hitting the PC market."
 cover: "/covers/cover_fmv.jpg"
 ---
