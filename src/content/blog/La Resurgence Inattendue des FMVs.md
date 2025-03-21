@@ -14,7 +14,7 @@ My goal was clear: burn as many titles as possible onto freshly acquired blank d
 
 For me, the FMV genre has always been tied to that temporal bubble: a phenomenon born in the particular context of a console add-on sold in only [2.2 million copies](https://www.videogamehistory.com/sega-cd-sales). Yet, this genre didn’t disappear. On the contrary, it survived and even reinvented itself thanks to modern technologies. Today, FMVs are experiencing a true revival, particularly in a flourishing form emerging from East Asia: South Korea, Japan, [China](https://www.tap.io/article/fmv-games-in-china)… An industry driven by both amateurs and professionals has specialized in this genre once thought outdated, but paradoxically, it has never prospered as much as it does now.
 
-![](image-237.png)
+![](image-244.png)
 
 ## **A Modern Boom in a Niche Market**
 

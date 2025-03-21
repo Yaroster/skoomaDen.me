@@ -14,7 +14,7 @@ Mon objectif était clair : graver autant de titres que possible sur des disques
 
 Pour moi, le genre FMV a toujours été lié à cette bulle temporelle : un phénomène né dans le contexte particulier d’un add-on de console vendu à seulement [2,2 millions d’exemplaires](https://www.videogamehistory.com/sega-cd-sales). Et pourtant, ce genre n’a pas disparu. Bien au contraire, il a survécu et s’est même réinventé grâce aux technologies modernes. Aujourd’hui, les FMVs connaissent un véritable renouveau, notamment dans une forme florissante venue d’Asie de l’Est : Corée du Sud, Japon, [Chine](https://www.tap.io/article/fmv-games-in-china)… Une industrie portée par des amateurs comme des professionnels s’est spécialisée dans ce genre qu’on croyait désuet, mais qui, paradoxalement, n’a jamais autant prospéré.
 
-![](image-237.png)
+![](image-244.png)
 
 ## **Un essor moderne dans un marché de niche**
 
