@@ -11,7 +11,7 @@ Pendant des décennies, les exportations culturelles du Japon, soutenues par l'i
 ![Le déclin de la population japonaise : les seniors de 75 ans et plus dépassent les 20 millions pour la première fois | Nippon.com](https://www.nippon.com/en/ncommon/contents/japan-data/2580708/2580708.png)
 Source : [Nippon.com](https://www.nippon.com)  
 
-En contraste frappant, la Corée du Sud s'est imposée comme un modèle de stabilité et d'innovation. Le pilier de sa résilience économique repose sur les *chaebols*, des conglomérats familiaux qui exercent une influence massive sur le paysage financier du pays. En 2023, les 30 plus grands *chaebols* représentaient à eux seuls 76,9 % du PIB sud-coréen, une part qui continue de croître. Ces géants économiques ont non seulement stabilisé l'économie mais ont aussi propulsé l'essor explosif de l'industrie du divertissement coréenne.
+En contraste frappant avec le Japon, la Corée du Sud s'est imposée comme un modèle de stabilité et d'innovation. Le pilier de sa résilience économique repose sur les *chaebols*, des conglomérats familiaux qui exercent une influence massive sur le paysage financier du pays. En 2023, les 30 plus grands *chaebols* représentaient à eux seuls 76,9 % du PIB sud-coréen, une part qui continue de croître. Ces géants économiques ont non seulement stabilisé l'économie mais ont aussi propulsé l'essor explosif de l'industrie du divertissement coréenne.
 
 ![La vague coréenne](https://imagedata.cafe24.com/us_1_2019/us1_2019_164-4.jpg)
 Source : Ministère de la Culture de Corée du Sud  
