@@ -1,8 +1,7 @@
-import { defineConfig, sharpImageService } from "astro/config";
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
-import remarkEleventyImage from "astro-remark-eleventy-image";
+import { defineConfig } from "astro/config";
 
 export default defineConfig({
   site: "https://skoomaden.me",
@@ -11,28 +10,21 @@ export default defineConfig({
     prefetchAll: true,
     defaultStrategy: "viewport",
   },
-  output: "static",
   integrations: [
     mdx({
       syntaxHighlight: "shiki",
       shikiConfig: {
         theme: "github-light",
       },
-      remarkPlugins: [remarkEleventyImage],
     }),
     sitemap(),
     react(),
   ],
-  vite: {
-    ssr: {
-      external: ["@11ty/eleventy-img"], // required for eleventy image SSR support
-    },
-  },
+  output: "static",
   images: {
-    service: sharpImageService(),   // <-- add this line to enable sharp as image service
     sharp: {
-      quality: 70,
-      formats: ["avif", "webp"],
+      quality: 75,
+      format: 'webp',
     },
   },
 });
