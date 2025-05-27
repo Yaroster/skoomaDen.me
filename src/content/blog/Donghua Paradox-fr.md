@@ -1,7 +1,7 @@
 ---
 title: "Le Paradoxe Donghua: L'Identité face au Monde"  
 date: 2025-05-27  
-tags: ['Animés', 'Français']  
+tags: ['Animés', 'Multimédia', 'Français']  
 description: "Pourquoi les productions multimédias empruntent-elles des esthétiques étrangères ?"
 cover: "/covers/cover-donghua.png"
 ---

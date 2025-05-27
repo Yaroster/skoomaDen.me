@@ -1,7 +1,7 @@
 ---
 title: "The Donghua Paradox: Identity in Global Media"  
 date: 2025-05-27  
-tags: ['Animes']  
+tags: ['Animes', 'Multimedia']  
 description: "Why do multimedia productions borrow foreign aesthetics?"
 cover: "/covers/cover-donghua.png"
 ---
