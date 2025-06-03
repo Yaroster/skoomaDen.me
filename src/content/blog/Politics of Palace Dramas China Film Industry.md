@@ -1,7 +1,7 @@
 ---
 title: "Politics of Palace Dramas: China's Film Industry"
 date: 2025-01-20  
-tags: ['Multimedia']  
+tags: ['Multimedia', 'Archive']  
 description: "A deep dive into China's film industry after the retrocession."
 cover: "/covers/cover-yanxi.png"
 ---

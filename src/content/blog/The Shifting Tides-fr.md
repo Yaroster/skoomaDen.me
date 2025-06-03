@@ -1,7 +1,7 @@
 ---
 title: "Les Marées de l'Influence Culturelle en Asie de l'Est"
 date: 2025-02-27
-tags: ['Multimédia', 'Français']
+tags: ['Multimédia', 'Français', 'Archive']
 description: "Comment la Chine se bat pour dominer la culture populaire mondiale."
 cover: "/covers/cover-shifting.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Drames de Palais: L'Industrie Ciné Chinoise"
 date: 2025-01-20  
-tags: ['Multimédia', 'Français']
+tags: ['Multimédia', 'Français', 'Archive']
 description: "Une retrospective de l'industrie cinématographique chinoise après la rétrocession."
 cover: "/covers/cover-yanxi.png"
 ---
