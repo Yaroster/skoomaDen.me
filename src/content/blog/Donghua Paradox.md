@@ -10,7 +10,7 @@ In a world where culture has become an economic weapon, exporting a creative wor
 
 ## What is Modern Donghua?
 
-The Chinese anime *Link Click* (时光代理人) stands as a cross-cultural success. Praised as "**well-known and acclaimed in both China and Japan**" [by critics](https://www.allocine.fr/series/ficheserie-29267/critiques/), this Bilibili series blends Chinese fantastical storytelling (time travel) with visuals and editing strongly reminiscent of Japanese animation pacing. In a very telling move, *Link Click* was released early on with a [Japanese dub](https://animecorner.me/link-click-gets-new-trailer-and-visual-ahead-of-japanese-dub-premiere/#:~:text=Link%20Click%2C%20popular%20donghua%20series%2C,in%20Japan%20on%20January%209) for the global market, broadcast in January 2022.
+The Chinese Animation, or [Donghua](https://en.wikipedia.org/wiki/Chinese_animation#:~:text=In%20Chinese%2C%20donghua%20(simplified%20Chinese,to%20animation%20produced%20in%20China.) (动画) *Link Click* (时光代理人) stands as a cross-cultural success. Praised as "**well-known and acclaimed in both China and Japan**" [by critics](https://www.allocine.fr/series/ficheserie-29267/critiques/), this Bilibili series blends Chinese fantastical storytelling (time travel) with visuals and editing strongly reminiscent of Japanese animation pacing. In a very telling move, *Link Click* was released early on with a [Japanese dub](https://animecorner.me/link-click-gets-new-trailer-and-visual-ahead-of-japanese-dub-premiere/#:~:text=Link%20Click%2C%20popular%20donghua%20series%2C,in%20Japan%20on%20January%209) for the global market, broadcast in January 2022.
 
 ![](image-245.png)
 
