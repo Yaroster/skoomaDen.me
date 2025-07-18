@@ -1,8 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../components/layout.astro";
-import Tag from "../../components/tag.astro";           // Only if you have tags
-import DateTag from "../../components/date-tag.astro";   // Only if you use dates
+import DateTag from "../../components/date-tag.astro";
 import PostContent from "../../components/post/post-content.astro";
 
 export async function getStaticPaths() {
@@ -26,16 +25,18 @@ const { entry } = Astro.props;
       <h1>{entry.data.title}</h1>
       <p class="post-summary">{entry.data.description}</p>
     </div>
+
     <div class="meta">
       {entry.data.date && <DateTag date={entry.data.date} />}
-      {entry.data.tags?.map((tag) => <Tag tag={tag} />)}
     </div>
+
     {entry.data.cover && (
       <figure class="cover-image">
         <img src={`${entry.data.cover}?w=1200&q=80`} alt="cover" />
       </figure>
     )}
   </div>
+
   <article>
     <PostContent post={entry} />
   </article>

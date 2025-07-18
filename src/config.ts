@@ -5,7 +5,6 @@ export const SITE_DESCRIPTION =
   "Welcome to the Skooma Den !";
 
 export const MENUS = [
-
-];
-
+  { link: "/news", title: "News" }
+]
 export const FOOTER_CONTENT = "© 2025 Yaroster. All rights reserved.";

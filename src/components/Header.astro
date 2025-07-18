@@ -4,11 +4,50 @@ import Menus from "./menus.astro";
 ---
 
 <header id="site-header">
-  <nav>  
-    <a href="/" class="logo">
-      <img src={SITE_LOGO} alt="journal" width="24" height="24" />
-      <span>{SITE_TITLE}</span>
-    </a>
+  <nav style="position: relative;">
+
+    <!-- Logo container: relative so children can be absolute inside -->
+    <div>
+      <a href="/" class="logo" style="position: relative; z-index: 1;">
+        <img src={SITE_LOGO} alt="journal" width="24" height="24" />
+        <span>{SITE_TITLE}</span>
+      </a>
+
+      <!-- Button or badge absolutely positioned over logo -->
+      <button
+        style="
+          position: absolute;
+          top: 9px;  /* adjust vertical offset */
+          right: -8px; /* adjust horizontal offset */
+          z-index: 10;
+          background: rgba(255, 0, 0, 0.719);
+          color: white;
+          border-radius: 50%;
+          width: 18px;
+          height: 18px;
+          font-size: 12px;
+          line-height: 18px;
+          border: none;
+          cursor: pointer;
+        "
+        aria-label="New News Section"
+        title="New News Section"
+      >
+        !
+      </button>
+    </div>
+
+    <!-- Menu aligned right -->
     <Menus />
+    <script is:inline>
+  if (typeof window !== "undefined") {
+    const btn = document.querySelector('button[aria-label="New News Section"]');
+    if (btn && localStorage.getItem("hasSeenNews")) {
+      btn.style.display = "none";
+    }
+  }
+</script>
+
   </nav>
 </header>
+

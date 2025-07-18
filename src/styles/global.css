@@ -148,14 +148,40 @@ section {
 /* Header */
 
 #site-header {
-    position: sticky;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-    padding-block: var(--spacing-06);
-    padding-inline: var(--spacing-06);
-    background: var(--background);
+  position: sticky;
+  top: 0;
+  width: 100%;
+  padding-block: var(--spacing-06);
+  padding-inline: var(--spacing-06);
+  background: var(--background);
+  z-index: 10;
 }
+
+#site-header nav {
+  max-width: 840px;      /* match main */
+  margin-inline: auto;   /* center container */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-side,
+.right-side {
+  flex: 1; /* take equal space left and right */
+  display: flex;
+  align-items: center;
+}
+
+.center-logo {
+  flex: 0 0 auto; /* size to content */
+  text-align: center;
+  /* no flex-grow, stays centered */
+}
+
+.right-side {
+  justify-content: flex-end; /* push menus to the right */
+}
+
 
 nav {
     display: flex;
