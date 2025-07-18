@@ -8,4 +8,4 @@ export const MENUS = [
 
 ];
 
-export const FOOTER_CONTENT = "© 2024 Yaroster. All rights reserved.";
+export const FOOTER_CONTENT = "© 2025 Yaroster. All rights reserved.";

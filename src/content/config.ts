@@ -19,4 +19,22 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const news = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((val) =>
+        new Date(val).toLocaleDateString("en-US", {
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+        }),
+      ),
+    cover: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, news };
