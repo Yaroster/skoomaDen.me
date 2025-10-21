@@ -3,7 +3,7 @@ title: "The Wild Robot & DreamWorks' Golden Age"
 date: 2024-10-08  
 tags: ['Multimedia']  
 description: "A critical analysis of DreamWorks and its potential to remain a creative leader in animation."  
-cover: "/covers/cover-dreamworks.jpg"  
+cover: "/covers/cover-dreamworks.webp"  
 ---
 
 The animation industry, once dominated by Disney and Pixar, is now in a phase of stagnation. Disney, in particular, seems to have trapped itself in a cycle of nostalgic remakes, turning its past successes into sanitized, innovation-free copies. The audience is left facing a creative void, with a noticeable lack of fresh ideas. This is where DreamWorks stands out. Since its founding, the studio has embraced boldness, positioning itself as the antithesis of the Disney model. DreamWorks has taken risks both artistically and narratively, a strategy reminiscent of Pixar at its peak, when every production defied expectations.

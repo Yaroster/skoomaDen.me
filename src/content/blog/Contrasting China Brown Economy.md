@@ -3,7 +3,7 @@ title: "A Contrasted China: Power, Policy, and the Western Narratives."
 date: 2024-08-16
 tags: ['Books']
 description: "A joint review of both Dr. Brown and Dr. Economy's most recent books."
-cover: "/covers/cover-04.jpg"
+cover: "/covers/cover-04.webp"
 ---
 
 ## About legitimacy...

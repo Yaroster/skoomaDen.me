@@ -3,7 +3,7 @@ title: "La Résurgence Inattendue des FMVs"
 date: 2025-03-21
 tags: ['Multimédia', 'Français']
 description: "Une exploration de la nouvelle vague de FMVs qui frappent le marché PC."
-cover: "/covers/cover_fmv.jpg"
+cover: "/covers/cover_fmv.webp"
 ---
 
 La dernière fois que j’ai entendu parler des jeux en Full-Motion Video (FMV), c’était il y a une dizaine d’années. À l’époque, je faisais tourner Windows Vista sur un HP Slim équipé d’un processeur Athlon x64, l'un des rares capables de supporter cet OS capricieux. Je me souviens avoir passé des heures à chercher une liste bien précise : celle des jeux Sega CD disponibles en torrent. 

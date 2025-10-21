@@ -3,7 +3,7 @@ title: "Une Chine Contrastée : Pouvoir, Politique et les Récits Occidentaux."
 date: 2024-08-16  
 tags: ['Livres', 'Français']  
 description: "Une critique conjointe des livres les plus récents du Dr. Brown et du Dr. Economy."  
-cover: "/covers/cover-04.jpg"
+cover: "/covers/cover-04.webp"
 ---
 
 ## À propos de la légitimité...

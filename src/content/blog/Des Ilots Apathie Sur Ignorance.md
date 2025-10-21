@@ -3,7 +3,7 @@ title: "Islands of Apathy: On Ignorance"
 date: 2024-10-29  
 tags: ['Books']  
 description: "A reflection on ignorance as a conscious choice in an age of abundance."  
-cover: "/covers/cover-ignorance.jpg"
+cover: "/covers/cover-ignorance.webp"
 ---
 
 To the layperson, there are subjects that simply never seem interesting. They only pay attention to these topics superficially, sticking to a surface-level knowledge of what they perceive as an endless stream of information — a stream that only serves to allow them to slip into conversations. It is, in essence, what Brel called "getting by": <mark>a sickness of the soul that decides to settle for the minimum, accepting to never go beyond it.</mark> Such was the conviction of many thinkers, who saw in what they called "the people" a kind of intellectual laziness.

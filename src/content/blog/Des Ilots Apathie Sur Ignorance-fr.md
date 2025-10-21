@@ -3,7 +3,7 @@ title: "Des Îlots d’Apathie : Sur l'Ignorance"
 date: 2024-10-29  
 tags: ['Livres','Français']  
 description: "Une réflexion sur l'ignorance comme choix face à l'abondance."  
-cover: "/covers/cover-ignorance.jpg"
+cover: "/covers/cover-ignorance.webp"
 ---
 
 Pour le profane, il y a des sujets qui ne semblent tout simplement jamais intéressants. Il n’y prête alors attention qu’anecdotiquement, se contentant d’une connaissance en surface de ce qui lui semble être une quantité infinie d’informations, dont le seul objectif est de lui permettre de s’immiscer dans des conversations fournies. C’est, en somme, ce que Brel appelait "se suffire", <mark>une maladie de l’âme qui décide de se contenter du minimum et qui accepte de ne jamais aller au-delà.</mark> C’était la conviction de nombreux penseurs, qui voyaient dans ce qu’ils appelaient "l'Ignorance'" une paresse de l’esprit.

@@ -3,7 +3,7 @@ title: "Chongqing : La Ville-Montagne Incandescente"
 date: 2025-03-18
 tags: ['Journal de Bord', 'Français']
 description: "Un voyage spontané à Chongqing, la ville-montagne cyberpunk aux hotpots brulants."
-cover: "/covers/cover_chongqing.jpg"
+cover: "/covers/cover_chongqing.webp"
 ---
 
 Tout mes voyages commencent de la même manière.

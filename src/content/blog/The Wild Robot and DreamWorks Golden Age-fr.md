@@ -3,7 +3,7 @@ title: "Le Robot Sauvage & L'Âge d'Or de DreamWorks"
 date: 2024-10-08  
 tags: ['Multimédia', 'Archive']  
 description: "Une analyse critique de DreamWorks et de son potentiel à rester un leader créatif dans l'animation."  
-cover: "/covers/cover-dreamworks.jpg"  
+cover: "/covers/cover-dreamworks.webp"  
 ---
 
 L'industrie de l'animation, autrefois dominée par Disney et Pixar, traverse aujourd’hui une phase de stagnation. Disney, en particulier, semble s'être enfermé dans un cycle de remakes nostalgiques, transformant ses succès passés en copies aseptisées et dénuées d'innovation. Le public se retrouve face à un vide créatif, un manque palpable de propositions nouvelles. C’est ici que DreamWorks se distingue. Depuis sa fondation, le studio a fait le pari de l'audace, se positionnant comme l'antithèse du modèle Disney. DreamWorks a pris des risques tant artistiquement que narrativement, une stratégie qui rappelle Pixar à son apogée, lorsque chaque production bousculait les attentes.

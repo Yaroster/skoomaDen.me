@@ -3,7 +3,7 @@ title: "The Unexpected Resurgence of FMVs"
 date: 2025-03-21
 tags: ['Multimedia']
 description: "An exploration of the new wave of FMVs hitting the PC market."
-cover: "/covers/cover_fmv.jpg"
+cover: "/covers/cover_fmv.webp"
 ---
 
 The last time I heard about Full-Motion Video (FMV) games was about a decade ago. Back then, I was running Windows Vista on an HP Slim equipped with an Athlon x64 processor, one of the few capable of supporting this finicky OS. I remember spending hours searching for a very specific list: that of Sega CD games available via torrent.
