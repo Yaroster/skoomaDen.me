@@ -3,7 +3,7 @@ title: "L'Alienation par l'Espace: Lain Iwakura"
 date: 2024-10-12
 tags: ['Multimédia', 'Animés', 'Français']
 description: "Une psychanalyse du personnage de Lain Iwakura."
-cover: "/covers/cover-lain.png"
+cover: "/covers/cover-lain.webp"
 ---
 
 Un bruit statique, des câbles entrelacés comme des veines parcourant une ville vide. Un monde déconnecté, où <mark>réalité et virtualité</mark> se confondent, se superposent. Là, seule dans sa chambre, Lain observe. Chaque écran devient une fenêtre sur un espace où <mark>l’identité se fragmente</mark>, où la présence humaine se dilue. Elle se perd dans le Wired, où chaque connexion semble éroder un peu plus son existence.

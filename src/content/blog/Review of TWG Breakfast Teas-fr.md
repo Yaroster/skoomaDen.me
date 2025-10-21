@@ -3,7 +3,7 @@ title: Critique des Thés Matinaux de TWG
 date: 2024-09-16  
 tags: ['Thés', 'Maison de Thé', 'Français']  
 description: "Une critique de quelques thés du matin de TWG, une marque de thé singapourienne renommée."
-cover: "/covers/cover-02.png"
+cover: "/covers/cover-02.webp"
 ---
 
 ![](image-69.png)

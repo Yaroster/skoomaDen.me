@@ -3,7 +3,7 @@ title: "Souffrance et Ennui: Endless Eight"
 date: 2024-10-16
 tags: ['Multimédia', 'Animés', 'Français']  
 description: "La chaleur accablante d’un été japonais sans fin."  
-cover: "/covers/cover-haruhi.png"  
+cover: "/covers/cover-haruhi.webp"  
 ---
 
 La chaleur accablante d’un été japonais sous son nez, l’ennui dans ses chaussettes, la jeune Haruhi, comme à son habitude, force son groupe à sortir — des activités en plein air, des piscines bondées, des festivals, des feux d’artifice... tout est bon pour occuper ses journées. Mais ce qu’Haruhi ne sait pas, c’est qu’en essayant d’échapper à l’ennui à tout prix, elle a piégé ses amis, et elle-même, dans une boucle temporelle sans fin.

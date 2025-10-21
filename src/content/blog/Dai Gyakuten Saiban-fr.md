@@ -3,7 +3,7 @@ title: "Justice entre Empires : Dai Gyakuten Saiban"
 date: 2024-09-27
 tags: ['Multimédia', 'Jeux', 'Français']
 description: "Merci, Shu Takumi."
-cover: "/covers/cover-dgs.png"
+cover: "/covers/cover-dgs.webp"
 ---
 
 Je me revois encore à mes débuts de romhacker, à cette époque où *Dai Gyakuten Saiban* était ce joyau inaccessible, coincé au Japon. J'avais passé des heures, aux côtés d'une communauté passionnée, à essayer de le traduire. <mark>Le voir enfin sortir en Occident, c’était une victoire pour nous tous.</mark> En repensant à ce parcours, je ne peux m'empêcher de m’émerveiller devant la manière dont ce jeu a su redonner du souffle à une série qui commençait à perdre son élan.

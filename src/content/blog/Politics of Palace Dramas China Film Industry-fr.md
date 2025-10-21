@@ -3,7 +3,7 @@ title: "Drames de Palais: L'Industrie Ciné Chinoise"
 date: 2025-01-20  
 tags: ['Multimédia', 'Français', 'Archive']
 description: "Une retrospective de l'industrie cinématographique chinoise après la rétrocession."
-cover: "/covers/cover-yanxi.png"
+cover: "/covers/cover-yanxi.webp"
 ---
 
 Lorsque l’on parle des drames asiatiques, l’ampleur du sujet peut même déstabiliser les spectateurs les plus dévoués. Les plateformes de vidéo à la demande (VOD) ont grandement popularisé ces œuvres en Occident, et les films et séries en provenance de la péninsule coréenne ont envahi nos écrans ainsi que les cercles de reconnaissance prestigieux. La barrière de l’un pouce des sous-titres, comme l’a justement exprimé [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho), a été franchie.

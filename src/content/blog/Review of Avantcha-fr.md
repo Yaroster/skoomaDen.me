@@ -3,7 +3,7 @@ title: "Critique de Avantcha"
 date: 2024-09-23  
 tags: ['Thés', 'Français']  
 description: "Une exploration des offres uniques de thé d'Avantcha."
-cover: "/covers/cover-06.png"
+cover: "/covers/cover-06.webp"
 ---
 
 Nichée entre le dynamique **Mall of the Emirates** et **Alserkal Avenue**, la maison de thé [Avantcha](https://avantcha.com/) passe facilement inaperçue. Son entrée modeste ne donne guère d’indication sur l’expérience qui vous attend à l’intérieur — un oasis calme et méticuleusement conçu pour ceux qui cherchent un répit au milieu de la surcharge sensorielle des espaces commerciaux de Dubaï. Si les premières impressions reposent souvent sur des visuels tapageurs ou des promesses exagérées, [Avantcha](https://avantcha.com/) n’en fait rien. Ce qu’elle offre, cependant, c’est une invitation discrète à ceux qui sont sensibles aux subtilités, à ceux qui valorisent l’artisanat plutôt que les artifices. Mais ce lieu mérite-t-il vraiment la vénération qu’il semble accumuler en silence ?

@@ -3,7 +3,7 @@ title: "Alienation through Space: Lain Iwakura"
 date: 2024-10-12
 tags: ['Multimedia', 'Animes']
 description: "A psychoanalysis of the character Lain Iwakura."
-cover: "/covers/cover-lain.png"
+cover: "/covers/cover-lain.webp"
 ---
 
 Static noise, cables intertwined like veins running through an empty city. A disconnected world, where <mark>reality and virtuality</mark> blur and overlap. There, alone in her room, Lain watches. Each screen becomes a window into a space where <mark>identity fragments</mark>, and human presence dissolves. She gets lost in the Wired, where each connection seems to erode her existence a little more.

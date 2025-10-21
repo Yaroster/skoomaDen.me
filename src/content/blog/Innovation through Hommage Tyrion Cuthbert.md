@@ -3,7 +3,7 @@ title: "Innovation through Homage: Tyrion Cuthbert"
 date: 2024-10-22
 tags: ['Multimedia', 'Games']
 description: "It's in new pots that the best soups are made."
-cover: "/covers/cover-tyrion.png"
+cover: "/covers/cover-tyrion.webp"
 ---
 
 It's 6:36 PM on a Tuesday evening, and while I was supposed to start studying for my next math exam, I'm about to write yet another article about a [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel) that made a mark on me. But today, no [Key Studios](https://en.wikipedia.org/wiki/Key_(company)) or [CAPCOM](https://en.wikipedia.org/wiki/Capcom), we’re diving into an independent game nestled between homage and innovation, [**Tyrion Cuthbert: Attorney of the Arcane**](https://store.steampowered.com/app/1590230/Tyrion_Cuthbert_Attorney_of_the_Arcane/).

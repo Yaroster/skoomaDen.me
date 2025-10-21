@@ -3,7 +3,7 @@ title: "Politics of Palace Dramas: China's Film Industry"
 date: 2025-01-20  
 tags: ['Multimedia', 'Archive']  
 description: "A deep dive into China's film industry after the retrocession."
-cover: "/covers/cover-yanxi.png"
+cover: "/covers/cover-yanxi.webp"
 ---
 
 When discussing Asian dramas, the sheer scope of the subject can even confuse the most devoted viewers. Video-on-demand (VOD) platforms have significantly popularized these works in the West, and films and series from the Korean peninsula have invaded our screens as well as prestigious recognition circles. The one-inch barrier of subtitles, as [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) aptly put it, has been broken.

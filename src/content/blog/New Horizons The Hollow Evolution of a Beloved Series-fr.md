@@ -3,7 +3,7 @@ title: "Un Nouvel Horizon Bien Terne: Animal Crossing"
 date: 2024-10-10  
 tags: ['Multimédia','Jeux', 'Français']  
 description: "Tout ce pourquoi New Leaf continue d'éclipser New Horizons."  
-cover: "/covers/cover-acnh.png"  
+cover: "/covers/cover-acnh.webp"  
 ---
 
 S'il y a bien une chose dont ma copine adore se plaindre, c'est à quel point *Animal Crossing: New Horizons* est en deçà de [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf). Alors que beaucoup ont salué [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) comme l'avenir de la franchise, elle est convaincue qu'il manque l'âme qui rendait [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) si inoubliable. Des changements de design aux fonctionnalités clés absentes, voici pourquoi elle pense que [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) est plus une occasion manquée qu'une révolution.

@@ -3,7 +3,7 @@ title: "Épisodique vs Sérialisé: L'Échec de Korra"
 date: 2024-10-17
 description: "Pourquoi Korra ne parvient pas à hériter de l'héritage de son prédécesseur."
 tags: ['Multimédia', 'Animés', 'Français']
-cover: "/covers/cover-korra.png"
+cover: "/covers/cover-korra.webp"
 ---
 
 *Avatar : Le Dernier Maître de l'Air* (ATLA) maîtrisait l'équilibre entre aventures épisodiques, arcs de personnages complexes et une narration thématique profonde. Chaque épisode contribuait de manière significative à une narration plus large, créant un monde pleinement réalisé et des personnages qui se développaient de manière organique. *La Légende de Korra* (LoK), cependant, échoue à respecter cette norme. En abandonnant la structure épisodique de son prédécesseur au profit d'une approche sérialisée, LoK sacrifie la profondeur, la construction de son univers, et le développement nuancé des personnages qui faisaient le succès d'ATLA. Ce qui aurait dû être des choix narratifs audacieux aboutit finalement à des arcs précipités, des commentaires politiques superficiels, et un échec à bâtir sur l'héritage d'ATLA.

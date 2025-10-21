@@ -3,7 +3,7 @@ title: "Chinese and Arabic: The Wall of Cultures"
 date: 2024-11-07  
 tags: ['Multimedia']  
 description: "How the West faces cultural challenges in China and the Arab world."  
-cover: "/covers/cover-arabe-chinois.png"  
+cover: "/covers/cover-arabe-chinois.webp"  
 ---
 Among all the regions of the world, the East remains an elusive frontier for Western products and services seeking to expand there. Many entrepreneurs have failed, unable to demonstrate the flexibility needed to navigate markets governed by deeply different logics. Today, we will focus on the reasons behind these failures, specifically in two key territories: **mainland China** and **the Arab world**.
 

@@ -3,7 +3,7 @@ title: "Comment Ruiner un Animé: Oshi No Ko"
 date: 2024-10-13  
 tags: ['Multimédia', 'Animés', 'Français']  
 description: "L'incroyable capacité d'une œuvre à se saboter elle-même."  
-cover: "/covers/cover-oshi-no-ko.png"  
+cover: "/covers/cover-oshi-no-ko.webp"  
 ---
 
 Oshi No Ko était, à première vue, une œuvre au potentiel considérable. Sous la plume d’[Aka Akasaka](https://myanimelist.net/people/2139/Aka_Akasaka), fort du succès de [*Kaguya-sama: Love is War*](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen), et avec le talent visuel de [Mengo Yokoyari](https://myanimelist.net/people/13173/Mengo_Yokoyari) ([*Kuzu no Honkai*](https://myanimelist.net/anime/32949/Kuzu_no_Honkai)), tout semblait réuni pour offrir un drame captivant et une critique acerbe de l’industrie du divertissement japonais. Le premier épisode, véritable choc au niveau DA, Animation et narration, a fasciné le public avec ses twists inattendus et ses réflexions sur le parasocialisme et l’exploitation des célébrités.

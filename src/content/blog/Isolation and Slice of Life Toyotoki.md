@@ -3,7 +3,7 @@ title: "Isolation and Slice-of-Life: Tales from Toyotoki"
 date: 2024-10-26
 tags: ['Multimedia', 'Games']
 description: "When worlds intersect between the heavens above and the earth below."
-cover: "/covers/cover-toyotoki.png"
+cover: "/covers/cover-toyotoki.webp"
 ---
 
 The distant hum of waves breaking along Toyotoki’s shores mingles with the faint, lingering voices of past generations. There’s a certain mystery to this small island off Okinawa, a sense of place deeply embedded in Japanese tradition, yet untouched by modernity. It’s as if the land itself has tales to tell, its silent witness to the lives of those who wander its paths, lost but seeking meaning. Hikaru Nishime arrives here unexpectedly, disoriented by the sudden upheaval of his life. Just days before, he was set to start high school in Tokyo, only to find himself sent to live with a grandfather who has mysteriously vanished. Stranded on unfamiliar ground, he meets Lilun, an enigmatic girl who claims to be a witch on a mission, and the two form an unlikely bond—surviving, growing, and discovering the hidden truths that Toyotoki conceals.

@@ -3,7 +3,7 @@ title: "L'Innovation par l'Hommage: Tyrion Cuthbert"
 date: 2024-10-22
 tags: ['Multimédia', 'Jeux', 'Français']
 description: "C'est dans les nouveaux pots qu'on fait les meilleures soupes."
-cover: "/covers/cover-tyrion.png"
+cover: "/covers/cover-tyrion.webp"
 ---
 
 Il est 18h36, un mardi soir et alors que j’étais censé commencer à travailler sur mon prochain examen de mathématiques, je m’apprête à écrire un nième article sur un [Visual Novel](https://fr.wikipedia.org/wiki/Visual_novel) qui m’a marqué. Pourtant aujourd’hui, pas de [Key Studios](https://fr.wikipedia.org/wiki/Key_(entreprise)) ou de [CAPCOM](https://fr.wikipedia.org/wiki/Capcom), on s’en va explorer un jeu indépendant, niché entre l’hommage et l’innovation, [**Tyrion Cuthbert : Attorney of the Arcane**](https://store.steampowered.com/app/1590230/Tyrion_Cuthbert_Attorney_of_the_Arcane/).

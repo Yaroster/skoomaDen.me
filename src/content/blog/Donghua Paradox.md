@@ -3,7 +3,7 @@ title: "The Donghua Paradox: Identity in Global Media"
 date: 2025-05-27  
 tags: ['Animes', 'Multimedia']  
 description: "Why do multimedia productions borrow foreign aesthetics?"
-cover: "/covers/cover-donghua.png"
+cover: "/covers/cover-donghua.webp"
 ---
 
 In a world where culture has become an economic weapon, exporting a creative work beyond national borders often feels like a tightrope act. Between local authenticity and the expectations of the global market, creators must navigate murky waters, oscillating between loyalty to their identity and strategic adaptation. While some countries like South Korea and Japan have managed to turn their cultural industries into genuine economic engines, others still struggle to find the right formula.

@@ -3,7 +3,7 @@ title: "Pékin: 10 Jours d'Histoires et de Thé"
 date: 2024-09-01
 tags: ['Journal de Bord', 'Français']
 description: "Mon voyage de 10 jours en Chine a été une aventure pleine d'histoires, de thé, et de nouvelles expériences. Voici le journal de mes aventures."
-cover: "/covers/cover-03.png"
+cover: "/covers/cover-03.webp"
 ---
 
 ## Jour 1 : Arrivée à Pékin

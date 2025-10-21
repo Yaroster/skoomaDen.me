@@ -3,7 +3,7 @@ title: "Le Fatum de Shinji: The End of Evangelion"
 date: 2024-10-11
 tags: ['Multimédia', 'Animés', 'Français']
 description: "Un destin marqué d'une fatalité inéluctable."
-cover: "/covers/cover-eoe.png"
+cover: "/covers/cover-eoe.webp"
 ---
 
 > <mark>"Chaque décision qu'il prend, chaque geste, est dicté par un passé complexe qu'il ne maîtrise pas."</mark>

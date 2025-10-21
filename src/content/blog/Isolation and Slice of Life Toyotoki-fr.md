@@ -3,7 +3,7 @@ title: "Isolement et Slice-of-Life: Tales from Toyotoki"
 date: 2024-10-26
 tags: ['Multimédia', 'Jeux', 'Français']
 description: "Quand les mondes s'entrecroisent entre hauts cieux et terres dessous."
-cover: "/covers/cover-toyotoki.png"
+cover: "/covers/cover-toyotoki.webp"
 ---
 
 Le lointain murmure des vagues se brisant sur les rivages de Toyotoki se mêle aux voix faibles et persistantes des générations passées. Il y a une certaine mystique autour de cette petite île au large d'Okinawa, une essence profondément ancrée dans la tradition japonaise, mais encore préservée de la modernité. C'est comme si la terre elle-même avait des histoires à raconter, témoin silencieux des vies de ceux qui parcourent ses chemins, perdus mais en quête de sens. Hikaru Nishime arrive ici de manière inattendue, désorienté par le bouleversement soudain de sa vie. Quelques jours auparavant, il s'apprêtait à commencer le lycée à Tokyo, seulement pour se retrouver envoyé vivre avec un grand-père qui a mystérieusement disparu. Échoué sur un sol inconnu, il rencontre Lilun, une fille énigmatique qui prétend être une sorcière en mission, et tous deux tissent un lien improbable — survivant, grandissant et découvrant les vérités cachées que Toyotoki dissimule.

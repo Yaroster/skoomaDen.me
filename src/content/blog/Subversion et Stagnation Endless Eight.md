@@ -3,7 +3,7 @@ title: "Suffering and Boredom: Endless Eight"
 date: 2024-10-16
 tags: ['Multimedia', 'Animes']  
 description: "The warm air of a never-ending Japanese summer."  
-cover: "/covers/cover-haruhi.png"  
+cover: "/covers/cover-haruhi.webp"  
 ---
 
 The warm air of a Japanese summer under her nose, boredom in her socks, young Haruhi, as usual, forces her group to go out — outdoor activities, crowded pools, festivals, fireworks... anything is good to fill her days. But what Haruhi doesn’t know is that in trying to escape boredom at all costs, she has trapped her friends, and herself, in an endless time loop.

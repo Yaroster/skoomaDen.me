@@ -3,7 +3,7 @@ title: "Les Marées de l'Influence Culturelle en Asie de l'Est"
 date: 2025-02-27
 tags: ['Multimédia', 'Français', 'Archive']
 description: "Comment la Chine se bat pour dominer la culture populaire mondiale."
-cover: "/covers/cover-shifting.png"
+cover: "/covers/cover-shifting.webp"
 ---
 
 Pendant des décennies, les exportations culturelles du Japon, soutenues par l'initiative "[Cool Japan](https://fr.wikipedia.org/wiki/Cool_Japan)" et sa révolution industrielle d'après-guerre, ont dominé la perception mondiale du soft power asiatique. Cependant, alors que le monopole culturel japonais semble s'effriter, cette ère pourrait toucher à sa fin. La crise démographique du Japon aggrave encore la situation : un faible taux de natalité, une population vieillissante et une structure sociale divisée héritée des influences occidentales d'après-guerre exercent une pression énorme sur ses industries culturelles. On se concentrera aujourd'hui sur la montée de la Chine et sa stratégie pour conquérir cet espace nouvellement vacant sur le marché mondial du divertissement.

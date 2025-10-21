@@ -3,7 +3,7 @@ title: "Episodic vs Serialized: How Korra Fails at Heredity"
 date: 2024-10-17
 description: "Why Korra ultimately falls short of its predecessor's legacy."
 tags: ['Multimedia', 'Animes']
-cover: "/covers/cover-korra.png"
+cover: "/covers/cover-korra.webp"
 ---
 
 *Avatar: The Last Airbender* (ATLA) expertly balanced episodic adventures with complex character arcs and thematic storytelling. Each episode contributed meaningfully to a larger narrative, resulting in a world that felt fully realized and characters that developed in a compelling, organic manner. *The Legend of Korra* (LoK), however, fails to live up to this standard. By abandoning the episodic structure of its predecessor in favor of a serialized approach, LoK sacrifices the depth, world-building, and nuanced character development that made ATLA a success. What should have been bold narrative choices instead result in rushed arcs, shallow political commentary, and a failure to build upon ATLA’s legacy.

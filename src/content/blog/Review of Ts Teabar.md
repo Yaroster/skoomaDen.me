@@ -3,7 +3,7 @@ title: Review of T's Teabar
 date: 2024-09-17  
 tags: ['Teas', 'Teahouse']  
 description: "An evaluation of T's Teabar in Abu Dhabi."
-cover: "/covers/cover-01.png"
+cover: "/covers/cover-01.webp"
 ---
 
 I recently went to visit [T's Teabar](https://tsteas.com/en-ae) in Abu Dhabi, I was excited to try a variety of their offerings, particularly the [Milky Oolong](https://en.wikipedia.org/wiki/Jin_Xuan_tea). My initial reaction was positive, but there were some surprising inconsistencies. Below are my thoughts on the teas I sampled, as well as feedback from friends who joined me for the second visit. 

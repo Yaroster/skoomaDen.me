@@ -3,7 +3,7 @@ title: "Chinois et Arabe : Le Mur des Cultures"
 date: 2024-11-07  
 tags: ['Multimédia', 'Français']  
 description: "Comment l'Occident fait face aux défis culturels en Chine et dans le monde arabe."  
-cover: "/covers/cover-arabe-chinois.png"  
+cover: "/covers/cover-arabe-chinois.webp"  
 ---
 Parmi toutes les régions du monde, l'Est reste une frontière insaisissable pour les produits et services occidentaux qui cherchent à s'y étendre. De nombreux entrepreneurs ont échoué, incapables de démontrer la flexibilité nécessaire pour naviguer dans des marchés régis par des logiques profondément différentes. Aujourd'hui, nous nous concentrerons sur les raisons de ces échecs, spécifiquement dans deux territoires clés : **la Chine continentale** et **le monde arabe**.
 

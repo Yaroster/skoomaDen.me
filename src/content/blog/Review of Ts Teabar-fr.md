@@ -3,7 +3,7 @@ title: Critique de T's Teabar
 date: 2024-09-17  
 tags: ['Thés', 'Maison de Thé', 'Français']  
 description: "Une évaluation de T's Teabar à Abu Dhabi."
-cover: "/covers/cover-01.png"
+cover: "/covers/cover-01.webp"
 ---
 
 Je me suis récemment rendu à [T's Teabar](https://tsteas.com/en-ae) à Abu Dhabi, et j'étais impatient de goûter une variété de leurs offres, notamment le [Milky Oolong](https://fr.wikipedia.org/wiki/Jin_Xuan_tea). Ma première impression était positive, mais il y avait certaines incohérences surprenantes. Voici mes réflexions sur les thés que j'ai dégustés, ainsi que les commentaires de mes amis qui m'ont accompagné lors de ma deuxième visite.

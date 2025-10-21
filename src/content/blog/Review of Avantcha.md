@@ -3,7 +3,7 @@ title: "Review of Avantcha"
 date: 2024-09-23  
 tags: ['Teas']  
 description: "An exploration of Avantcha's unique tea offerings."
-cover: "/covers/cover-06.png"
+cover: "/covers/cover-06.webp"
 ---
 
 Tucked between the bustling **Mall of the Emirates** and **Alserkal Avenue**, [Avantcha](https://avantcha.com/)’s teahouse is easily overlooked. Its modest entrance gives little indication of the experience that lies within—a calm, meticulously designed oasis for those seeking respite from the sensory overload of Dubai’s commercial spaces. If first impressions rely on flashy visuals or exaggerated promises, [Avantcha](https://avantcha.com/) does neither. What it does, however, is offer a quiet invitation to those attuned to the subtle, those who value craft over gimmick. But does this place truly warrant the reverence it seems to be quietly accumulating?

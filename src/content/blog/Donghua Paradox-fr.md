@@ -3,7 +3,7 @@ title: "Le Paradoxe Donghua: L'Identité face au Monde"
 date: 2025-05-27  
 tags: ['Animés', 'Multimédia', 'Français']  
 description: "Pourquoi les productions multimédias empruntent-elles des esthétiques étrangères ?"
-cover: "/covers/cover-donghua.png"
+cover: "/covers/cover-donghua.webp"
 ---
 
 Dans un monde où la culture est devenue une arme économique, exporter une œuvre créative au-delà de ses frontières nationales relève souvent d’un jeu d’équilibriste. Entre l’authenticité locale et les attentes du marché global, les créateurs doivent naviguer dans des eaux troubles, oscillant entre fidélité à leur identité et adaptation stratégique. Si certains pays comme la Corée du Sud ou le Japon ont su transformer leurs industries culturelles en véritables locomotives économiques, d’autres peinent encore à trouver la bonne formule.

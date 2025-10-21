@@ -3,7 +3,7 @@ title: "Justice Across Empires: Dai Gyakuten Saiban"
 date: 2024-09-27
 tags: ['Multimedia', 'Games']
 description: "Thank you, Shu Takumi."
-cover: "/covers/cover-dgs.png"
+cover: "/covers/cover-dgs.webp"
 ---
 
 I can still see myself as a young romhacker, back when *Dai Gyakuten Saiban* was this elusive gem trapped in Japan. I had spent countless hours, alongside a passionate community, trying to translate it. <mark>Seeing it finally released in the West felt like a victory for all of us.</mark> As I think back on that journey now, I can’t help but marvel at how this game managed to breathe new life into a series that had begun to lose its spark.

@@ -3,7 +3,7 @@ title: "The Shifting Tides of East Asian Cultural Influence."
 date: 2025-02-27
 tags: ['Multimedia', 'Archive']
 description: "How China is fighting for global dominance over Pop Culture."
-cover: "/covers/cover-shifting.png"
+cover: "/covers/cover-shifting.webp"
 ---
 
 For decades, Japan’s cultural exports—bolstered by the "[Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)" initiative and its post-war industrial revolution—have dominated global perceptions of East Asian soft power. However, as Japan's cultural monopoly seems to loosen, this era may be drawing to a close. Compounding the issue is Japan’s intense demographic crisis: a low birthrate, aging population, and a divided social structure inherited from post-war Western influences have placed immense strain on its cultural industries. We will focus today on the rise of China and its strategy to claim this newly vacant space in the global entertainment market.

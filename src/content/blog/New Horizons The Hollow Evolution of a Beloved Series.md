@@ -3,7 +3,7 @@ title: "A Quite Dull New Horizon: Animal Crossing"
 date: 2024-10-10  
 tags: ['Multimedia','Games']  
 description: "A breakdown of why New Leaf continues to outshine New Horizons."  
-cover: "/covers/cover-acnh.png"  
+cover: "/covers/cover-acnh.webp"  
 ---
 
 If there’s one thing my girlfriend loves to rant about, it’s how *Animal Crossing: New Horizons* pales in comparison to [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf). While many hailed [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) as the future of the franchise, she’s convinced it lacks the soul that made [New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) such an unforgettable experience. From design changes to missing key features, here’s why she believes [New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) is more of a missed opportunity than a revolution.

@@ -3,7 +3,7 @@ title: "Shinji's Fate: The End of Evangelion"
 date: 2024-10-11
 tags: ['Multimedia', 'Animes',]
 description: "A destiny marked by an inevitable fatality."
-cover: "/covers/cover-eoe.png"
+cover: "/covers/cover-eoe.webp"
 ---
 
 > <mark>"Every decision he makes, every gesture, is dictated by a complex past he cannot control."</mark>
