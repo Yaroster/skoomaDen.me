@@ -15,9 +15,9 @@ const copyFolder = async (fromDir, toDir) => {
   } catch {
     return false;
   }
-
+  await fs.rm(toDir, { recursive: true, force: true });
   await fs.mkdir(path.dirname(toDir), { recursive: true });
-  await fs.cp(fromDir, toDir, { recursive: true });
+  await fs.cp(fromDir, toDir, { recursive: true, force: true });
   return true;
 };
 
