@@ -18,6 +18,8 @@ export default defineConfig({
       shikiConfig: {
         theme: "github-light",
       },
+      remarkPlugins: [remarkThumbnails],
+      extendMarkdownConfig: true,
     }),
     sitemap(),
     react(),

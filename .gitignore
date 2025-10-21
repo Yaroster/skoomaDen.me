@@ -18,8 +18,3 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
-
-Markdown style guide.md
-
-# generated thumbnails
-public/articles/

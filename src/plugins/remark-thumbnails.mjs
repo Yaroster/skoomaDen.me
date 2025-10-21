@@ -66,7 +66,8 @@ const generateVariants = async (absolutePath) => {
         .resize({ width: THUMBNAIL_WIDTH, withoutEnlargement: true })
         .webp({ quality: THUMBNAIL_QUALITY, effort: WEBP_EFFORT })
         .toFile(thumbOutPath);
-    } catch {
+    } catch (err) {
+      console.error(`[remark-thumbnails] Failed to generate thumbnail for ${absolutePath}:`, err);
       cache.set(absolutePath, null);
       return null;
     }
@@ -79,7 +80,8 @@ const generateVariants = async (absolutePath) => {
         .resize({ width: FULL_WIDTH, withoutEnlargement: true })
         .webp({ quality: FULL_QUALITY, effort: WEBP_EFFORT })
         .toFile(fullOutPath);
-    } catch {
+    } catch (err) {
+      console.error(`[remark-thumbnails] Failed to generate full image for ${absolutePath}:`, err);
       cache.set(absolutePath, null);
       return null;
     }
@@ -138,6 +140,7 @@ const remarkThumbnails = () => async (tree, file) => {
   if (!currentPath) return;
 
   const currentDir = path.dirname(currentPath);
+  console.log(`[remark-thumbnails] Processing: ${currentPath}`);
 
   await walk(tree, async (node) => {
     if (!node || node.type !== "image" || !node.url) {
@@ -153,18 +156,25 @@ const remarkThumbnails = () => async (tree, file) => {
     const decodedSrc = decodeLocalUrl(rawSrc);
     const absolutePath = resolveAbsolutePath(decodedSrc, currentDir);
 
+    console.log(`[remark-thumbnails] Found image: ${rawSrc} -> ${absolutePath}`);
+
     if (!(await existingFile(absolutePath))) {
+      console.log(`[remark-thumbnails] File not found: ${absolutePath}`);
       return;
     }
 
     if (!supportedExtensions.has(path.extname(absolutePath).toLowerCase())) {
+      console.log(`[remark-thumbnails] Unsupported extension: ${absolutePath}`);
       return;
     }
 
     const generated = await generateVariants(absolutePath);
     if (!generated) {
+      console.log(`[remark-thumbnails] Failed to generate variants for: ${absolutePath}`);
       return;
     }
+
+    console.log(`[remark-thumbnails] Generated thumbnails for: ${absolutePath} -> ${generated.thumb}`);
 
     const { thumb, full } = generated;
 
