@@ -1,58 +1,12 @@
 ---
 import { SITE_LOGO, SITE_TITLE } from "../config";
-import Menus from "./menus.astro";
 ---
 
 <header id="site-header">
-  <nav style="position: relative;">
-
-    <!-- Logo container: relative so children can be absolute inside -->
-    <div>
-      <a href="/" class="logo" style="position: relative; z-index: 1;">
-        <img src={SITE_LOGO} alt="journal" width="24" height="24" />
-        <span>{SITE_TITLE}</span>
-      </a>
-
-      <!-- Button or badge absolutely positioned over logo -->
-<button
-  style="
-    position: absolute;
-    top: 6px;        /* slightly adjusted */
-    right: -10px;
-    z-index: 10;
-    background-color: #2563eb;  /* nice blue accent */
-    color: white;
-    border-radius: 9999px;      /* pill shape */
-    padding: 4px 10px;
-    font-size: 12px;
-    font-weight: 600;
-    line-height: 1;
-    border: none;
-    cursor: pointer;
-    box-shadow: 0 2px 6px rgb(37 99 235 / 0.5);
-    transition: background-color 0.3s ease;
-  "
-  aria-label="New News Section"
-  title="New News Section"
-  onmouseenter="this.style.backgroundColor='#1e40af'"
-  onmouseleave="this.style.backgroundColor='#2563eb'"
->
-  News
-</button>
-
-    </div>
-
-    <!-- Menu aligned right -->
-    <Menus />
-    <script is:inline>
-  if (typeof window !== "undefined") {
-    const btn = document.querySelector('button[aria-label="New News Section"]');
-    if (btn && localStorage.getItem("hasSeenNews")) {
-      btn.style.display = "none";
-    }
-  }
-</script>
-
+  <nav class="header-nav" aria-label="Primary">
+    <a href="/" class="logo" aria-label={`${SITE_TITLE} home`}>
+      <img src={SITE_LOGO} alt="" width="24" height="24" />
+      <span>{SITE_TITLE}</span>
+    </a>
   </nav>
 </header>
-

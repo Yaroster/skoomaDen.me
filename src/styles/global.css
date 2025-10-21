@@ -159,10 +159,10 @@ section {
 
 #site-header nav {
   max-width: 840px;      /* match main */
-  margin-inline: auto;   /* center container */
+  margin: 0 auto;        /* center container without extra spacing */
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .left-side,

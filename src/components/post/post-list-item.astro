@@ -2,12 +2,14 @@
 import type { CollectionEntry } from "astro:content";
 import DateTag from "../date-tag.astro";
 import Tag from "../tag.astro";
+import { getOptimizedImage } from "../../helpers/images";
 
 type Props = {
   post: CollectionEntry<"blog">;
 };
 
 const { post } = Astro.props;
+const coverImage = await getOptimizedImage(post.data.cover);
 
 // Determine if the post is in French by checking if the slug contains "-fr"
 const isFrenchPost = post.slug.includes("-fr");
@@ -30,14 +32,33 @@ if (!isArchivePage && post.data.tags?.includes("Archive")) {
   {
     post.slug && (
 <a href={postUrl} target="_self">
-  {post.data.cover && (
+  {coverImage ? (
+    <figure>
+      <picture>
+        {coverImage.sources?.map((source) => (
+          <source srcset={source.srcset} type={source.type} />
+        ))}
+        <img
+          src={coverImage.src}
+          alt={post.data.title ?? "cover image"}
+          loading="lazy"
+          decoding="async"
+          width={coverImage.attributes?.width ?? coverImage.width}
+          height={coverImage.attributes?.height ?? coverImage.height}
+          sizes="(max-width: 900px) 100vw, 840px"
+        />
+      </picture>
+    </figure>
+  ) : post.data.cover ? (
     <figure>
       <img
-        src={`${post.data.cover}?w=880&q=80`}
-        alt="cover"
+        src={post.data.cover}
+        alt={post.data.title ?? "cover image"}
+        loading="lazy"
+        decoding="async"
       />
     </figure>
-  )}
+  ) : null}
 </a>
 
 <style>
@@ -48,6 +69,10 @@ figure {
     aspect-ratio: 12 / 5; /* Enforce the 12:5 aspect ratio */
     overflow: hidden; /* Prevent overflow */
     margin-bottom: var(--spacing-06); /* Adjust spacing as needed */
+}
+
+figure picture {
+    display: contents;
 }
 
 figure img {

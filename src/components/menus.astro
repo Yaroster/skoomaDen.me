@@ -2,53 +2,16 @@
 import { MENUS } from "../config";
 ---
 
-<ul style="display: flex; justify-content: center; gap: 1.5rem; list-style: none; padding: 0; margin: 0;">
-  {
-    MENUS.map((item: { link: string; title: string }) => (
-      <li style="position: relative;">
-        <a href={item.link} style="display: inline-flex; align-items: center; gap: 0.3rem; font-weight: 500; color: inherit; text-decoration: none;">
-          {item.title}
-
-          {item.link === "/news" && (
-            <>
-              {/* NEW text badge, initially hidden */}
-              <span
-                id="news-badge"
-                style="
-                  display: none;
-                  background-color: #dc2626;
-                  color: white;
-                  font-size: 0.6rem;
-                  font-weight: bold;
-                  padding: 0 6px;
-                  border-radius: 9999px;
-                  user-select: none;
-                  animation: pulse 2s infinite;
-                  line-height: 1;
-                "
-              >
-                NEW
-              </span>
-            </>
-          )}
-        </a>
-      </li>
-    ))
-  }
-</ul>
-
-<script is:inline>
-  if (typeof window !== "undefined") {
-    const badge = document.getElementById("news-badge");
-    if (!localStorage.getItem("hasSeenNews")) {
-      if (badge) badge.style.display = "inline-block";
+{MENUS.length > 0 && (
+  <ul style="display: flex; justify-content: center; gap: 1.5rem; list-style: none; padding: 0; margin: 0;">
+    {
+      MENUS.map((item: { link: string; title: string }) => (
+        <li style="position: relative;">
+          <a href={item.link} style="display: inline-flex; align-items: center; gap: 0.3rem; font-weight: 500; color: inherit; text-decoration: none;">
+            {item.title}
+          </a>
+        </li>
+      ))
     }
-  }
-</script>
-
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-</style>
+  </ul>
+)}

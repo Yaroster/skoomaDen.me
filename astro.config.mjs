@@ -2,6 +2,7 @@ import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
+import remarkThumbnails from "./src/plugins/remark-thumbnails.mjs";
 
 export default defineConfig({
   site: "https://skoomaden.me",
@@ -21,6 +22,9 @@ export default defineConfig({
     react(),
   ],
   output: "static",
+  markdown: {
+    remarkPlugins: [remarkThumbnails],
+  },
   images: {
     sharp: {
       quality: 75,

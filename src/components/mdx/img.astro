@@ -1,11 +1,51 @@
 ---
-const props = Astro.props;
+const {
+  alt = "",
+  title,
+  src = "",
+  class: className,
+  loading = "lazy",
+  ["data-fullsrc"]: fullSrc,
+  ["data-thumbnail"]: thumbnailFlag,
+  ...rest
+} = Astro.props;
+
+const caption = title ?? alt;
+const dataThumbnail = thumbnailFlag ?? (fullSrc ? "true" : undefined);
 ---
 
-<div {...props}>
+<figure class="mdx-image">
   <img
-    src={props.src ? `${props.src}?w=1024&q=70` : ""}
-    alt={props.alt ?? ""}
+    {...rest}
+    src={src}
+    alt={alt}
+    data-fullsrc={fullSrc}
+    data-thumbnail={dataThumbnail}
+    class={["mdx-image__media", className].filter(Boolean).join(" ")}
+    loading={loading}
+    decoding="async"
   />
-  <span>{props.alt}</span>
-</div>
+  {caption && <figcaption class="mdx-image__caption">{caption}</figcaption>}
+</figure>
+
+<style is:inline>
+  .mdx-image {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 2rem 0;
+  }
+
+  .mdx-image__media {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+
+  .mdx-image__caption {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-align: center;
+  }
+</style>

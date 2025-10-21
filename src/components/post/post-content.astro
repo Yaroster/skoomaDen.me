@@ -30,7 +30,7 @@ import Tr from "../mdx/tr.astro";
 import Ul from "../mdx/ul.astro";
 
 type Props = {
-  post: CollectionEntry<"blog"> | CollectionEntry<"news">;
+  post: CollectionEntry<"blog">;
 };
 
 const { post } = Astro.props;
@@ -67,7 +67,7 @@ const { Content } = await post.render();
     }}
   />
 
-  {post.collection === "blog" && Array.isArray(post.data.tags) && (
+  {Array.isArray(post.data.tags) && (
     <div class="meta">
       {post.data.tags
         .filter((tag: string) => tag !== "Français")
@@ -79,3 +79,60 @@ const { Content } = await post.render();
     <!-- <Disqus /> -->
   </div>
 </div>
+
+<style is:inline>
+  .post-content img[data-thumbnail="true"] {
+    transition: filter 0.3s ease;
+  }
+
+  .post-content img[data-thumbnail="true"].is-loading {
+    filter: blur(12px);
+  }
+</style>
+
+<script is:inline>
+  if (typeof window !== "undefined") {
+    const images = document.querySelectorAll(".post-content img[data-fullsrc]");
+
+    const loadHighRes = (img) => {
+      const fullSrc = img.getAttribute("data-fullsrc");
+      if (!fullSrc || img.dataset.thumbnailLoaded === "true") {
+        return;
+      }
+
+      const highRes = new Image();
+      highRes.src = fullSrc;
+      highRes.decoding = "async";
+      highRes.onload = () => {
+        img.src = fullSrc;
+        img.dataset.thumbnailLoaded = "true";
+        img.classList.remove("is-loading");
+      };
+    };
+
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              const target = entry.target;
+              loadHighRes(target);
+              observer.unobserve(target);
+            }
+          });
+        },
+        { rootMargin: "200px" },
+      );
+
+      images.forEach((img) => {
+        img.classList.add("is-loading");
+        observer.observe(img);
+      });
+    } else {
+      images.forEach((img) => {
+        img.classList.add("is-loading");
+        loadHighRes(img);
+      });
+    }
+  }
+</script>
