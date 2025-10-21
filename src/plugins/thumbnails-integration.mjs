@@ -15,6 +15,29 @@ const thumbnailsIntegration = () => ({
         vite: {
           plugins: [
             {
+              name: "remark-thumbnails-dev-server",
+              // In dev mode, serve generated thumbnails from .astro/generated
+              configureServer(server) {
+                server.middlewares.use((req, res, next) => {
+                  // Intercept requests to /articles/* and serve from .astro/generated/articles
+                  if (req.url && req.url.startsWith('/articles/')) {
+                    const filePath = path.join(projectRoot, '.astro', 'generated', req.url);
+                    // Check if file exists and serve it
+                    fs.access(filePath).then(() => {
+                      // File exists, let Vite handle it by rewriting the URL
+                      req.url = '/.astro/generated' + req.url;
+                      next();
+                    }).catch(() => {
+                      // File doesn't exist, continue
+                      next();
+                    });
+                  } else {
+                    next();
+                  }
+                });
+              },
+            },
+            {
               name: "remark-thumbnails-static-assets-emitter",
               apply: "build",
               async buildStart() {

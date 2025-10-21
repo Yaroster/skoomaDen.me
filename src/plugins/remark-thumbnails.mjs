@@ -7,10 +7,12 @@ import { registerGeneratedAsset } from "./thumbnail-registry.mjs";
 
 const projectRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const publicRoot = path.join(projectRoot, "public");
-// Write generated assets into Astro's build-area so we don't rely on `public/articles` existing
-// during a clean build. The Vite integration will read these files and emit them into the final
-// bundle using `this.emitFile` during `generateBundle`.
+
+// Always write to .astro/generated/articles for consistency
+// In dev mode, Vite middleware will serve them
+// In build mode, Vite plugin will emit them to dist/
 const generatedRoot = path.join(projectRoot, ".astro", "generated", "articles");
+
 const thumbnailsDir = path.join(generatedRoot, "thumbnails");
 const optimizedDir = path.join(generatedRoot, "optimized");
 
@@ -144,7 +146,6 @@ const remarkThumbnails = () => async (tree, file) => {
   if (!currentPath) return;
 
   const currentDir = path.dirname(currentPath);
-  console.log(`[remark-thumbnails] Processing: ${currentPath}`);
 
   await walk(tree, async (node) => {
     if (!node || node.type !== "image" || !node.url) {
@@ -160,25 +161,18 @@ const remarkThumbnails = () => async (tree, file) => {
     const decodedSrc = decodeLocalUrl(rawSrc);
     const absolutePath = resolveAbsolutePath(decodedSrc, currentDir);
 
-    console.log(`[remark-thumbnails] Found image: ${rawSrc} -> ${absolutePath}`);
-
     if (!(await existingFile(absolutePath))) {
-      console.log(`[remark-thumbnails] File not found: ${absolutePath}`);
       return;
     }
 
     if (!supportedExtensions.has(path.extname(absolutePath).toLowerCase())) {
-      console.log(`[remark-thumbnails] Unsupported extension: ${absolutePath}`);
       return;
     }
 
     const generated = await generateVariants(absolutePath);
     if (!generated) {
-      console.log(`[remark-thumbnails] Failed to generate variants for: ${absolutePath}`);
       return;
     }
-
-    console.log(`[remark-thumbnails] Generated thumbnails for: ${absolutePath} -> ${generated.thumb}`);
 
     const { thumb, full } = generated;
 
