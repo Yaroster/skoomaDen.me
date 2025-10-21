@@ -3,6 +3,7 @@ import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 import remarkThumbnails from "./src/plugins/remark-thumbnails.mjs";
+import thumbnailsIntegration from "./src/plugins/thumbnails-integration.mjs";
 
 export default defineConfig({
   site: "https://skoomaden.me",
@@ -20,6 +21,7 @@ export default defineConfig({
     }),
     sitemap(),
     react(),
+    thumbnailsIntegration(),
   ],
   output: "static",
   markdown: {
