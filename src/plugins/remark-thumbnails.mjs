@@ -7,8 +7,12 @@ import { registerGeneratedAsset } from "./thumbnail-registry.mjs";
 
 const projectRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const publicRoot = path.join(projectRoot, "public");
-const thumbnailsDir = path.join(publicRoot, "articles", "thumbnails");
-const optimizedDir = path.join(publicRoot, "articles", "optimized");
+// Write generated assets into Astro's build-area so we don't rely on `public/articles` existing
+// during a clean build. The Vite integration will read these files and emit them into the final
+// bundle using `this.emitFile` during `generateBundle`.
+const generatedRoot = path.join(projectRoot, ".astro", "generated", "articles");
+const thumbnailsDir = path.join(generatedRoot, "thumbnails");
+const optimizedDir = path.join(generatedRoot, "optimized");
 
 const THUMBNAIL_WIDTH = 360;
 const FULL_WIDTH = 1200;
