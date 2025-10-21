@@ -4,8 +4,6 @@ import Layout from "../../components/layout.astro";
 import Tag from "../../components/tag.astro";
 import DateTag from "../../components/date-tag.astro";
 import PostContent from "../../components/post/post-content.astro";
-import { getOptimizedImage } from "../../helpers/images";
-
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
   return posts.map((post) => ({
@@ -19,9 +17,6 @@ type Props = {
 };
 
 const { post } = Astro.props;
-const coverImage = await getOptimizedImage(post.data.cover, {
-  widths: [720, 1080, 1440],
-});
 ---
 
 <Layout title={post.data.title} description={post.data.description}>
@@ -34,26 +29,14 @@ const coverImage = await getOptimizedImage(post.data.cover, {
       <DateTag date={post.data.date} />
       {post.data.tags?.map((tag) => <Tag tag={tag} />)}
     </div>
-    {coverImage ? (
+    {post.data.cover ? (
       <figure class="cover-image">
-        <picture>
-          {coverImage.sources?.map((source) => (
-            <source srcset={source.srcset} type={source.type} />
-          ))}
-          <img
-            src={coverImage.src}
-            alt={post.data.title ?? "Cover image"}
-            loading="eager"
-            decoding="async"
-            width={coverImage.attributes?.width ?? coverImage.width}
-            height={coverImage.attributes?.height ?? coverImage.height}
-            sizes="(max-width: 900px) 100vw, 840px"
-          />
-        </picture>
-      </figure>
-    ) : post.data.cover ? (
-      <figure class="cover-image">
-        <img src={post.data.cover} alt={post.data.title ?? "Cover image"} loading="eager" decoding="async" />
+        <img
+          src={post.data.cover}
+          alt={post.data.title ?? "Cover image"}
+          loading="eager"
+          decoding="async"
+        />
       </figure>
     ) : null}
   </div>

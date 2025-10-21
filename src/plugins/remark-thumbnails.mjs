@@ -9,6 +9,12 @@ const publicRoot = path.join(projectRoot, "public");
 const thumbnailsDir = path.join(publicRoot, "articles", "thumbnails");
 const optimizedDir = path.join(publicRoot, "articles", "optimized");
 
+const THUMBNAIL_WIDTH = 360;
+const FULL_WIDTH = 1200;
+const THUMBNAIL_QUALITY = 55;
+const FULL_QUALITY = 70;
+const WEBP_EFFORT = 5;
+
 const cache = new Map();
 const supportedExtensions = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif"]);
 
@@ -31,9 +37,21 @@ const generateVariants = async (absolutePath) => {
   }
 
   const { name } = path.parse(absolutePath);
-  const hash = createHash("md5").update(absolutePath).digest("hex").slice(0, 8);
-  const thumbFileName = `${name}-${hash}-thumb.webp`;
-  const fullFileName = `${name}-${hash}-full.webp`;
+  const sanitizedBase =
+    name
+      .normalize("NFKD")
+      .replace(/[^\w\s-]/g, "")
+      .trim()
+      .replace(/\s+/g, "-")
+      .toLowerCase() || "image";
+  const hashInput = JSON.stringify({
+    path: absolutePath,
+    thumb: { width: THUMBNAIL_WIDTH, quality: THUMBNAIL_QUALITY },
+    full: { width: FULL_WIDTH, quality: FULL_QUALITY },
+  });
+  const hash = createHash("md5").update(hashInput).digest("hex").slice(0, 8);
+  const thumbFileName = `${sanitizedBase}-${hash}-thumb.webp`;
+  const fullFileName = `${sanitizedBase}-${hash}-full.webp`;
   const thumbOutPath = path.join(thumbnailsDir, thumbFileName);
   const fullOutPath = path.join(optimizedDir, fullFileName);
 
@@ -43,8 +61,9 @@ const generateVariants = async (absolutePath) => {
   if (!(await existingFile(thumbOutPath))) {
     try {
       await sharp(absolutePath)
-        .resize({ width: 480, withoutEnlargement: true })
-        .toFormat("webp", { quality: 60 })
+        .rotate()
+        .resize({ width: THUMBNAIL_WIDTH, withoutEnlargement: true })
+        .webp({ quality: THUMBNAIL_QUALITY, effort: WEBP_EFFORT })
         .toFile(thumbOutPath);
     } catch {
       cache.set(absolutePath, null);
@@ -55,8 +74,9 @@ const generateVariants = async (absolutePath) => {
   if (!(await existingFile(fullOutPath))) {
     try {
       await sharp(absolutePath)
-        .resize({ width: 1600, withoutEnlargement: true })
-        .toFormat("webp", { quality: 80 })
+        .rotate()
+        .resize({ width: FULL_WIDTH, withoutEnlargement: true })
+        .webp({ quality: FULL_QUALITY, effort: WEBP_EFFORT })
         .toFile(fullOutPath);
     } catch {
       cache.set(absolutePath, null);
@@ -74,6 +94,14 @@ const generateVariants = async (absolutePath) => {
 
   cache.set(absolutePath, result);
   return result;
+};
+
+const decodeLocalUrl = (value) => {
+  try {
+    return decodeURI(value);
+  } catch {
+    return value;
+  }
 };
 
 const resolveAbsolutePath = (nodeUrl, currentDir) => {
@@ -105,13 +133,14 @@ const remarkThumbnails = () => async (tree, file) => {
       return;
     }
 
-    const src = node.url.trim();
+    const rawSrc = node.url.trim();
 
-    if (!src || /^https?:\/\//i.test(src) || src.startsWith("data:")) {
+    if (!rawSrc || /^https?:\/\//i.test(rawSrc) || rawSrc.startsWith("data:")) {
       return;
     }
 
-    const absolutePath = resolveAbsolutePath(src, currentDir);
+    const decodedSrc = decodeLocalUrl(rawSrc);
+    const absolutePath = resolveAbsolutePath(decodedSrc, currentDir);
 
     if (!(await existingFile(absolutePath))) {
       return;
