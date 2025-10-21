@@ -23,3 +23,7 @@ Markdown style guide.md
 
 # generated thumbnails
 public/articles/
+.venv-image/pyvenv.cfg
+.venv-image/bin/python3.12
+.venv-image/bin/python3
+.venv-image/bin/python
