@@ -1,43 +1,55 @@
 import fs from "node:fs/promises";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { clearGeneratedAssets, listGeneratedAssets } from "./thumbnail-registry.mjs";
 
-const projectRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
-const publicRoot = path.join(projectRoot, "public");
-const GENERATED_FOLDERS = ["articles/thumbnails", "articles/optimized"];
-
-const copyFolder = async (fromDir, toDir) => {
-  try {
-    const stats = await fs.stat(fromDir);
-    if (!stats.isDirectory()) {
-      return false;
-    }
-  } catch {
-    return false;
-  }
-  await fs.rm(toDir, { recursive: true, force: true });
-  await fs.mkdir(path.dirname(toDir), { recursive: true });
-  await fs.cp(fromDir, toDir, { recursive: true, force: true });
-  return true;
-};
+const toForwardSlash = (value) => value.replace(/\\/g, "/");
 
 const thumbnailsIntegration = () => ({
   name: "remark-thumbnails-static-assets",
   hooks: {
-    "astro:build:done": async ({ dir, logger }) => {
-      const outDir = fileURLToPath(dir);
+    "astro:config:setup": ({ updateConfig }) => {
+      updateConfig({
+        vite: {
+          plugins: [
+            {
+              name: "remark-thumbnails-static-assets-emitter",
+              apply: "build",
+              async generateBundle() {
+                const assets = listGeneratedAssets();
+                const seen = new Set();
 
-      for (const relative of GENERATED_FOLDERS) {
-        const sourceDir = path.join(publicRoot, relative);
-        const targetDir = path.join(outDir, relative);
+                for (const asset of assets) {
+                  const { absolutePath, publicPath } = asset;
+                  if (!absolutePath || !publicPath) {
+                    continue;
+                  }
 
-        const copied = await copyFolder(sourceDir, targetDir);
-        if (copied) {
-          const relSource = path.relative(projectRoot, sourceDir);
-          const relTarget = path.relative(projectRoot, targetDir);
-          logger.info(`[remark-thumbnails] copied ${relSource} -> ${relTarget}`);
-        }
-      }
+                  const fileName = toForwardSlash(publicPath.replace(/^\/+/, ""));
+                  if (seen.has(fileName)) {
+                    continue;
+                  }
+
+                  try {
+                    const source = await fs.readFile(absolutePath);
+                    this.emitFile({
+                      type: "asset",
+                      fileName,
+                      source,
+                    });
+                    seen.add(fileName);
+                  } catch (error) {
+                    const message =
+                      error instanceof Error ? error.message : String(error);
+                    this.warn(`remark-thumbnails: failed to include ${fileName}: ${message}`);
+                  }
+                }
+              },
+              closeBundle() {
+                clearGeneratedAssets();
+              },
+            },
+          ],
+        },
+      });
     },
   },
 });

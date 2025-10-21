@@ -3,6 +3,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
+import { registerGeneratedAsset } from "./thumbnail-registry.mjs";
 
 const projectRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const publicRoot = path.join(projectRoot, "public");
@@ -86,6 +87,16 @@ const generateVariants = async (absolutePath) => {
 
   const thumbPublicPath = `/articles/thumbnails/${thumbFileName}`;
   const fullPublicPath = `/articles/optimized/${fullFileName}`;
+
+  const thumbExists = await existingFile(thumbOutPath);
+  const fullExists = await existingFile(fullOutPath);
+  if (!thumbExists || !fullExists) {
+    cache.set(absolutePath, null);
+    return null;
+  }
+
+  registerGeneratedAsset(thumbOutPath, thumbPublicPath);
+  registerGeneratedAsset(fullOutPath, fullPublicPath);
 
   const result = {
     thumb: thumbPublicPath,
