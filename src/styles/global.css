@@ -582,5 +582,16 @@ footer p {
         line-height: 2.813rem;
     }
 
-  
+  /* -----------------------------------------
+   iOS Safari-only blur adjustment
+   ----------------------------------------- */
+@supports (-webkit-touch-callout: none) and (-webkit-overflow-scrolling: touch) {
+  img[data-thumbnail="true"].is-loading {
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+    background-color: var(--page-bg, #fff);
+    -webkit-backface-visibility: hidden;
+    transform: translateZ(0);
+  }
+}
 }
