@@ -5,8 +5,6 @@ import { defineConfig } from "astro/config";
 import remarkThumbnails from "./src/plugins/remark-thumbnails.mjs";
 import thumbnailsIntegration from "./src/plugins/thumbnails-integration.mjs";
 import coversIntegration from "./src/plugins/covers-integration.mjs";
-import remarkMath from "remark-math";
-import rehypeKatex from "rehype-katex";
 
 export default defineConfig({
   site: "https://skoomaden.me",
@@ -21,8 +19,7 @@ export default defineConfig({
       shikiConfig: {
         theme: "github-light",
       },
-      remarkPlugins: [remarkThumbnails, remarkMath],
-      rehypePlugins: [rehypeKatex],
+      remarkPlugins: [remarkThumbnails],
       extendMarkdownConfig: true,
     }),
     sitemap(),
@@ -32,8 +29,7 @@ export default defineConfig({
   ],
   output: "static",
   markdown: {
-    remarkPlugins: [remarkThumbnails, remarkMath],
-    rehypePlugins: [rehypeKatex],
+    remarkPlugins: [remarkThumbnails],
   },
   images: {
     sharp: {
