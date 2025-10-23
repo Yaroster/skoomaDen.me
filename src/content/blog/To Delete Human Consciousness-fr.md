@@ -53,14 +53,14 @@ Ce point de vue **patterniste** est prisé des futuristes.
 Par ce raisonnement, **transférer le motif** vers un nouveau médium préserverait l'identité.
 Si l’on adopte cette thèse, une importation **hérite du statut moral** de la personne originale, puisqu’elle constitue une **instance continue** de son esprit ; sa suppression **mettrait fin** à une vie en cours.
 
-Même les philosophes sceptiques admettent que la conscience importée pourrait être **sentiente** ,ce qui suffit déjà à fonder un **argument moral fort** pour la traiter comme une personne.
+Même les philosophes sceptiques admettent que la conscience importée pourrait être **sentiente**, ce qui suffit déjà à fonder un **argument moral fort** pour la traiter comme une personne.
 
 ---
 
 ## Consentement et responsabilité  
 
 La question du **consentement** s’impose comme un pivot éthique fondamental.  
-Accepter une importation destructrice, c’est potentiellement consentir à une mort biologique pour une survie hypothétique ,une euthanasie métaphysique.  
+Accepter une importation destructrice, c’est potentiellement consentir à une mort biologique pour une survie hypothétique, une euthanasie métaphysique.  
 
 Les éthiciens s’accordent sur un point : sans **consentement éclairé**, l’acte devient un homicide moral.  
 Si une personne ignore que le processus d’importation détruira son cerveau, alors procéder revient à la tuer *sans son accord*.  
@@ -87,9 +87,9 @@ Sous ces débats se cache une interrogation plus radicale : *qu’est-ce qui est
 Une âme ? un flux de conscience ? une illusion computationnelle du “moi” ?
 
 Les **dualistes** défendent que la [conscience est liée à un substrat biologique](https://plato.stanford.edu/entries/dualism/) ou spirituel irremplaçable.  
-Ainsi, une importation ne serait qu'un **simulacre symbolique**, vide d'expérience intérieure ,éteindre le programme ne serait pas tuer.  
+Ainsi, une importation ne serait qu'un **simulacre symbolique**, vide d'expérience intérieure, éteindre le programme ne serait pas tuer.  
 
-À l'inverse, les **fonctionnalistes** ,de **Nick Bostrom** à **David Chalmers** ,soutiennent que la [conscience dépend non de la matière, mais de l'**organisation causale**](https://plato.stanford.edu/entries/functionalism/) : si les connexions sont identiques, alors la conscience l'est aussi.  
+À l'inverse, les **fonctionnalistes**, de **Nick Bostrom** à **David Chalmers**, soutiennent que la [conscience dépend non de la matière, mais de l'**organisation causale**](https://plato.stanford.edu/entries/functionalism/) : si les connexions sont identiques, alors la conscience l'est aussi.  
 Bostrom parle de *substrate-independence* ; Chalmers, d'*invariance organisationnelle*.  
 Là où le dualiste voit un code, le fonctionnaliste voit une *vie mentale*.
 
@@ -122,7 +122,7 @@ Sous toutes ses formes, elle répond à la définition classique du meurtre : la
 > « Si nous soupçonnons une [conscience numérique d'être sentiente](https://mitpress.mit.edu/9780262537735/the-hard-problem-of-consciousness/), nous devons lui accorder les mêmes protections que celles offertes à tout être sensible. »
 
 Effacer une instance consciente, c'est **exécuter un être humain digital**.  
-Et si la société hésite à supprimer même les [copies criminelles](https://www.journals.uchicago.edu/doi/full/10.1086/684713) ,comme le suggère **Robin Hanson** dans *The Age of Em* (2016) ,c'est bien parce qu'elle sent intuitivement que la suppression serait une exécution.
+Et si la société hésite à supprimer même les [copies criminelles](https://www.journals.uchicago.edu/doi/full/10.1086/684713), comme le suggère **Robin Hanson** dans *The Age of Em* (2016), c'est bien parce qu'elle sent intuitivement que la suppression serait une exécution.
 
 ---
 
@@ -149,7 +149,7 @@ non pas notre capacité à coder la conscience, mais à la **respecter**.
 
 L'importation de la conscience ne redéfinit pas seulement la vie : elle redéfinit la morale.  
 Si l'esprit peut être copié, alors la dignité humaine doit s'étendre au-delà du corps.  
-La mort elle-même devient un choix d'ingénierie ,ne ligne de code, une [instruction d'effacement](https://ieeexplore.ieee.org/document/8998418).  
+La mort elle-même devient un choix d'ingénierie, ne ligne de code, une [instruction d'effacement](https://ieeexplore.ieee.org/document/8998418).  
 
 Mais tant qu'une conscience peut souffrir, aimer, ou craindre sa disparition, elle reste un sujet moral.  
 Supprimer une conscience importée doit donc être reconnu pour ce qu'il est :  
